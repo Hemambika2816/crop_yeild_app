@@ -6,32 +6,11 @@ import matplotlib.pyplot as plt
 # ---------- Page Setup ----------
 st.set_page_config(page_title="Crop Yield Predictor", layout="wide")
 
-# ---------- Custom CSS (Responsive) ----------
-st.markdown("""
-<style>
-.main {
-    padding: 10px;
-}
-h1 {
-    text-align: center;
-    color: #2e7d32;
-}
-.block-container {
-    padding-top: 1rem;
-}
-@media (max-width: 768px) {
-    .block-container {
-        padding: 0.5rem;
-    }
-}
-</style>
-""", unsafe_allow_html=True)
-
 # ---------- Load Data ----------
 df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
-# ---------- Language ----------
+# ---------- Language Dictionary ----------
 text = {
     "English": {
         "title": "🌾 Crop Yield Predictor",
@@ -44,6 +23,7 @@ text = {
         "result": "Predicted Yield",
         "suggest": "Suggestions",
         "trend": "Yield Trend",
+        "category": "Yield Category",
         "low_rain": "⚠️ Use irrigation",
         "low_n": "🌱 Add fertilizer",
         "high_temp": "🔥 High temperature risk",
@@ -60,6 +40,7 @@ text = {
         "result": "अनुमानित उत्पादन",
         "suggest": "सुझाव",
         "trend": "उत्पादन प्रवृत्ति",
+        "category": "उत्पादन श्रेणी",
         "low_rain": "⚠️ सिंचाई करें",
         "low_n": "🌱 खाद डालें",
         "high_temp": "🔥 अधिक तापमान खतरा",
@@ -76,6 +57,7 @@ text = {
         "result": "అంచనా దిగుబడి",
         "suggest": "సూచనలు",
         "trend": "దిగుబడి ట్రెండ్",
+        "category": "దిగుబడి స్థాయి",
         "low_rain": "⚠️ నీటిపారుదల చేయండి",
         "low_n": "🌱 ఎరువు వేయండి",
         "high_temp": "🔥 అధిక ఉష్ణోగ్రత ప్రమాదం",
@@ -83,6 +65,7 @@ text = {
     }
 }
 
+# ---------- Language Selector ----------
 lang = st.selectbox("🌐 Language", ["English", "हिन्दी", "తెలుగు"])
 t = text[lang]
 
@@ -92,13 +75,12 @@ st.image(
     use_column_width=True
 )
 
-st.markdown(f"<h1>{t['title']}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='text-align: center; color: green;'>{t['title']}</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
 # ---------- Inputs ----------
 st.subheader("📌 Input Details")
 
-# Responsive layout: auto adjusts columns
 col1, col2, col3 = st.columns(3)
 
 with col1:
@@ -130,6 +112,15 @@ def get_recommendation(rainfall, nitrogen, temperature):
         recs.append(t["good"])
     return recs
 
+# ---------- Yield Category ----------
+def yield_category(y):
+    if y < 2:
+        return "🔴 Low"
+    elif y < 4:
+        return "🟡 Medium"
+    else:
+        return "🟢 High"
+
 # ---------- Prediction ----------
 if st.button("🚀 " + t["predict"]):
 
@@ -148,11 +139,12 @@ if st.button("🚀 " + t["predict"]):
 
     pred = model.predict(input_data)
 
-    # Responsive result layout
-    r1, r2 = st.columns([1,1])
+    # Layout for result
+    r1, r2 = st.columns(2)
 
     with r1:
         st.success(f"{t['result']}: {pred[0]:.2f} tons/hectare")
+        st.info(f"{t['category']}: {yield_category(pred[0])}")
 
     with r2:
         st.subheader("🌱 " + t["suggest"])
