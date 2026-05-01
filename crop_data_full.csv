@@ -1,0 +1,3361 @@
+State,Crop,Year,Rainfall,Temperature,Humidity,Soil_Type,Nitrogen,Phosphorus,Potassium,Area,Yield
+Andhra Pradesh,Rice,2015,515,32,90,Sandy,88,58,44,3871,3.11
+Andhra Pradesh,Rice,2016,887,29,35,Loamy,57,60,23,4215,3.1
+Andhra Pradesh,Rice,2017,1650,33,32,Black,40,36,21,3695,4.78
+Andhra Pradesh,Rice,2018,1598,16,92,Alluvial,62,44,27,3094,5.09
+Andhra Pradesh,Rice,2019,614,34,80,Alluvial,52,59,31,4987,3.07
+Andhra Pradesh,Rice,2020,981,32,43,Black,85,42,34,1172,3.67
+Andhra Pradesh,Rice,2021,885,17,60,Alluvial,68,44,50,3220,3.39
+Andhra Pradesh,Rice,2022,1898,19,74,Red,66,58,25,1441,5.7
+Andhra Pradesh,Rice,2023,480,23,37,Black,93,53,47,2540,3.48
+Andhra Pradesh,Rice,2024,1818,17,37,Clay,73,29,22,2501,5.57
+Andhra Pradesh,Wheat,2015,883,22,35,Red,86,58,27,3848,4.05
+Andhra Pradesh,Wheat,2016,1919,16,68,Loamy,55,32,25,2318,5.36
+Andhra Pradesh,Wheat,2017,1044,26,85,Clay,66,57,36,3938,3.91
+Andhra Pradesh,Wheat,2018,1591,23,30,Red,75,37,37,2957,4.36
+Andhra Pradesh,Wheat,2019,1847,30,30,Sandy,44,42,46,4322,5.37
+Andhra Pradesh,Wheat,2020,366,26,47,Black,70,29,28,4459,2.49
+Andhra Pradesh,Wheat,2021,1884,19,90,Black,93,44,41,2815,5.21
+Andhra Pradesh,Wheat,2022,592,32,76,Sandy,45,59,59,2516,3.18
+Andhra Pradesh,Wheat,2023,1211,16,84,Black,61,25,42,1333,3.9
+Andhra Pradesh,Wheat,2024,320,27,68,Sandy,67,43,56,4628,3.08
+Andhra Pradesh,Maize,2015,919,27,37,Sandy,84,42,20,3946,3.37
+Andhra Pradesh,Maize,2016,684,24,90,Sandy,82,33,56,2845,3.79
+Andhra Pradesh,Maize,2017,1359,30,54,Clay,59,26,39,4483,4.16
+Andhra Pradesh,Maize,2018,1875,17,39,Clay,70,38,58,2325,5.2
+Andhra Pradesh,Maize,2019,1102,33,39,Red,85,27,50,3135,4.24
+Andhra Pradesh,Maize,2020,1067,19,65,Alluvial,47,45,35,3279,3.95
+Andhra Pradesh,Maize,2021,629,22,43,Red,89,55,59,1216,3.15
+Andhra Pradesh,Maize,2022,1880,27,54,Clay,80,38,22,3377,5.16
+Andhra Pradesh,Maize,2023,1540,23,57,Loamy,96,51,27,4677,5.21
+Andhra Pradesh,Maize,2024,856,20,57,Loamy,75,41,43,2613,3.87
+Andhra Pradesh,Barley,2015,1099,24,88,Laterite,42,54,46,2003,3.68
+Andhra Pradesh,Barley,2016,1170,20,52,Red,81,34,28,3612,3.8
+Andhra Pradesh,Barley,2017,527,27,69,Black,56,48,45,1664,2.78
+Andhra Pradesh,Barley,2018,1493,18,70,Alluvial,50,32,32,1951,4.27
+Andhra Pradesh,Barley,2019,1418,18,90,Sandy,57,31,51,3951,4.55
+Andhra Pradesh,Barley,2020,886,35,43,Sandy,48,55,57,1605,3.84
+Andhra Pradesh,Barley,2021,624,34,70,Laterite,41,25,36,4310,3.13
+Andhra Pradesh,Barley,2022,1915,23,61,Alluvial,69,28,25,2429,4.83
+Andhra Pradesh,Barley,2023,373,21,73,Sandy,75,48,35,2484,2.66
+Andhra Pradesh,Barley,2024,1293,33,35,Black,94,39,44,1632,4.74
+Andhra Pradesh,Millets,2015,1130,24,92,Loamy,90,27,38,1021,4.16
+Andhra Pradesh,Millets,2016,1615,18,33,Red,49,22,46,831,4.21
+Andhra Pradesh,Millets,2017,1918,15,35,Black,88,34,48,1831,5.7
+Andhra Pradesh,Millets,2018,1848,29,86,Red,55,35,49,2517,4.98
+Andhra Pradesh,Millets,2019,1871,26,31,Alluvial,73,28,29,4225,5.64
+Andhra Pradesh,Millets,2020,937,19,50,Loamy,76,56,33,4515,3.61
+Andhra Pradesh,Millets,2021,1079,26,62,Black,86,31,35,1802,3.92
+Andhra Pradesh,Millets,2022,1416,25,72,Loamy,92,55,41,4095,4.17
+Andhra Pradesh,Millets,2023,1425,31,34,Sandy,53,29,21,2910,4.48
+Andhra Pradesh,Millets,2024,634,31,83,Laterite,62,55,44,2783,3.57
+Andhra Pradesh,Cotton,2015,817,30,85,Red,88,52,41,4244,3.69
+Andhra Pradesh,Cotton,2016,443,33,62,Clay,95,59,55,2449,3.07
+Andhra Pradesh,Cotton,2017,1081,27,79,Clay,44,21,32,3339,3.21
+Andhra Pradesh,Cotton,2018,324,25,66,Red,60,22,51,3102,2.18
+Andhra Pradesh,Cotton,2019,728,30,49,Clay,78,60,51,3764,3.04
+Andhra Pradesh,Cotton,2020,1317,27,40,Laterite,51,59,49,3425,4.07
+Andhra Pradesh,Cotton,2021,823,23,44,Loamy,81,60,52,2602,3.79
+Andhra Pradesh,Cotton,2022,1706,32,52,Red,93,55,25,597,5.2
+Andhra Pradesh,Cotton,2023,444,30,80,Black,86,42,32,2017,3.05
+Andhra Pradesh,Cotton,2024,1486,24,48,Loamy,81,29,40,4273,4.21
+Andhra Pradesh,Sugarcane,2015,1264,32,31,Red,54,45,30,3591,3.63
+Andhra Pradesh,Sugarcane,2016,800,22,32,Black,92,56,20,2234,3.48
+Andhra Pradesh,Sugarcane,2017,1210,23,75,Alluvial,92,58,40,3722,4.51
+Andhra Pradesh,Sugarcane,2018,496,24,90,Alluvial,79,37,57,968,2.49
+Andhra Pradesh,Sugarcane,2019,729,22,95,Clay,67,45,60,716,3.2
+Andhra Pradesh,Sugarcane,2020,1929,35,91,Sandy,44,54,37,700,4.66
+Andhra Pradesh,Sugarcane,2021,1658,33,81,Black,53,38,25,3147,4.6
+Andhra Pradesh,Sugarcane,2022,1744,29,60,Laterite,68,46,47,2833,4.58
+Andhra Pradesh,Sugarcane,2023,1623,19,48,Sandy,76,26,33,2201,4.82
+Andhra Pradesh,Sugarcane,2024,709,33,79,Alluvial,69,32,54,1380,3.08
+Andhra Pradesh,Pulses,2015,1621,20,83,Sandy,43,59,41,4720,4.28
+Andhra Pradesh,Pulses,2016,1698,30,89,Clay,42,50,33,4476,4.76
+Andhra Pradesh,Pulses,2017,1822,26,69,Red,71,51,24,2246,5.0
+Andhra Pradesh,Pulses,2018,941,27,38,Alluvial,81,21,20,3783,4.19
+Andhra Pradesh,Pulses,2019,986,22,91,Laterite,66,50,58,2289,3.77
+Andhra Pradesh,Pulses,2020,1180,16,58,Alluvial,86,56,33,856,3.72
+Andhra Pradesh,Pulses,2021,1443,20,43,Black,84,36,23,700,4.6
+Andhra Pradesh,Pulses,2022,1686,26,44,Laterite,76,22,26,3111,5.08
+Andhra Pradesh,Pulses,2023,1419,19,38,Red,51,34,56,2922,4.33
+Andhra Pradesh,Pulses,2024,905,24,63,Sandy,59,48,54,832,3.08
+Andhra Pradesh,Groundnut,2015,1110,33,65,Red,45,54,39,2219,4.04
+Andhra Pradesh,Groundnut,2016,1732,27,36,Black,87,42,30,4730,5.06
+Andhra Pradesh,Groundnut,2017,643,28,63,Red,98,51,55,4826,3.86
+Andhra Pradesh,Groundnut,2018,1153,25,65,Clay,49,53,21,1391,3.36
+Andhra Pradesh,Groundnut,2019,1769,23,91,Alluvial,67,24,36,4733,5.0
+Andhra Pradesh,Groundnut,2020,729,25,42,Laterite,92,23,28,2659,3.83
+Andhra Pradesh,Groundnut,2021,1425,22,37,Red,81,39,32,1269,4.52
+Andhra Pradesh,Groundnut,2022,750,25,48,Laterite,99,26,59,3281,3.2
+Andhra Pradesh,Groundnut,2023,1678,16,55,Red,90,39,21,1934,5.19
+Andhra Pradesh,Groundnut,2024,880,16,89,Loamy,76,47,23,2169,3.75
+Andhra Pradesh,Soybean,2015,1925,27,47,Black,63,25,25,2965,5.16
+Andhra Pradesh,Soybean,2016,1070,32,94,Black,62,27,28,1909,4.25
+Andhra Pradesh,Soybean,2017,757,22,38,Laterite,96,32,58,3950,3.84
+Andhra Pradesh,Soybean,2018,594,17,81,Laterite,60,38,46,1255,3.48
+Andhra Pradesh,Soybean,2019,697,20,32,Black,94,34,45,3769,3.03
+Andhra Pradesh,Soybean,2020,365,24,80,Red,77,52,31,4736,2.58
+Andhra Pradesh,Soybean,2021,965,24,83,Alluvial,86,21,24,570,3.79
+Andhra Pradesh,Soybean,2022,966,18,91,Loamy,75,46,29,3905,3.6
+Andhra Pradesh,Soybean,2023,1066,27,63,Laterite,45,22,32,2318,3.22
+Andhra Pradesh,Soybean,2024,663,15,32,Clay,71,43,22,4047,2.91
+Andhra Pradesh,Tea,2015,421,28,95,Alluvial,62,34,31,2787,2.39
+Andhra Pradesh,Tea,2016,866,29,93,Sandy,47,50,51,2936,3.5
+Andhra Pradesh,Tea,2017,1482,26,66,Red,50,23,60,4581,4.83
+Andhra Pradesh,Tea,2018,359,31,76,Laterite,94,32,51,1723,2.42
+Andhra Pradesh,Tea,2019,1659,17,72,Sandy,56,37,26,4116,4.76
+Andhra Pradesh,Tea,2020,1686,22,46,Black,91,54,30,1269,5.31
+Andhra Pradesh,Tea,2021,1463,32,70,Loamy,47,28,50,4766,4.61
+Andhra Pradesh,Tea,2022,1671,19,47,Laterite,67,22,52,3273,4.55
+Andhra Pradesh,Tea,2023,1067,23,47,Black,84,55,34,887,3.48
+Andhra Pradesh,Tea,2024,808,16,59,Loamy,66,49,43,2826,3.62
+Andhra Pradesh,Coffee,2015,1868,22,80,Red,58,55,46,1014,5.43
+Andhra Pradesh,Coffee,2016,1324,22,93,Sandy,87,28,26,3238,4.4
+Andhra Pradesh,Coffee,2017,956,16,82,Alluvial,81,32,35,1927,3.43
+Andhra Pradesh,Coffee,2018,1896,23,64,Laterite,64,39,22,1851,5.15
+Andhra Pradesh,Coffee,2019,1980,25,69,Clay,65,33,20,2045,5.49
+Andhra Pradesh,Coffee,2020,1288,19,37,Loamy,99,34,56,2562,4.25
+Andhra Pradesh,Coffee,2021,762,16,45,Loamy,86,46,28,3651,3.14
+Andhra Pradesh,Coffee,2022,1624,30,92,Loamy,63,45,53,3637,4.47
+Andhra Pradesh,Coffee,2023,1281,22,88,Laterite,55,29,59,1530,4.03
+Andhra Pradesh,Coffee,2024,1700,17,49,Red,81,22,34,3095,4.78
+Arunachal Pradesh,Rice,2015,1163,35,66,Laterite,84,28,51,1062,4.48
+Arunachal Pradesh,Rice,2016,1892,21,53,Black,61,55,60,3628,5.27
+Arunachal Pradesh,Rice,2017,965,29,67,Clay,98,48,47,1344,3.77
+Arunachal Pradesh,Rice,2018,1095,18,63,Laterite,77,57,53,2690,3.78
+Arunachal Pradesh,Rice,2019,1100,33,62,Red,67,56,47,2627,4.35
+Arunachal Pradesh,Rice,2020,1279,18,47,Laterite,81,39,21,4670,4.12
+Arunachal Pradesh,Rice,2021,525,28,78,Alluvial,74,27,48,2709,3.12
+Arunachal Pradesh,Rice,2022,1117,15,30,Alluvial,67,49,24,3956,3.67
+Arunachal Pradesh,Rice,2023,959,21,55,Red,69,28,33,4618,3.57
+Arunachal Pradesh,Rice,2024,1644,19,48,Laterite,65,57,29,4294,4.53
+Arunachal Pradesh,Wheat,2015,387,15,42,Red,95,48,54,4860,3.35
+Arunachal Pradesh,Wheat,2016,674,26,39,Sandy,53,48,35,1713,2.78
+Arunachal Pradesh,Wheat,2017,1113,25,89,Red,72,30,49,2473,4.4
+Arunachal Pradesh,Wheat,2018,1940,29,70,Clay,96,34,49,1370,5.55
+Arunachal Pradesh,Wheat,2019,698,28,73,Sandy,91,44,50,2277,3.14
+Arunachal Pradesh,Wheat,2020,748,20,93,Alluvial,91,53,29,4697,3.9
+Arunachal Pradesh,Wheat,2021,1225,18,63,Loamy,73,21,52,2348,4.38
+Arunachal Pradesh,Wheat,2022,1660,24,82,Alluvial,94,25,57,725,5.24
+Arunachal Pradesh,Wheat,2023,818,28,73,Alluvial,95,59,60,3376,4.11
+Arunachal Pradesh,Wheat,2024,561,23,50,Sandy,45,33,22,3707,2.86
+Arunachal Pradesh,Maize,2015,797,20,45,Clay,97,34,60,3140,3.87
+Arunachal Pradesh,Maize,2016,1538,33,47,Red,45,49,25,1536,4.71
+Arunachal Pradesh,Maize,2017,1528,27,33,Alluvial,84,37,38,932,4.42
+Arunachal Pradesh,Maize,2018,1975,29,61,Loamy,66,46,47,1775,5.15
+Arunachal Pradesh,Maize,2019,656,25,58,Clay,57,59,31,1878,3.41
+Arunachal Pradesh,Maize,2020,418,17,90,Black,63,54,37,1096,2.97
+Arunachal Pradesh,Maize,2021,1315,25,33,Red,97,56,36,3563,4.22
+Arunachal Pradesh,Maize,2022,1469,19,93,Clay,90,25,35,4044,4.66
+Arunachal Pradesh,Maize,2023,1870,33,61,Laterite,90,35,30,4358,5.04
+Arunachal Pradesh,Maize,2024,1161,22,59,Alluvial,79,41,45,2211,3.84
+Arunachal Pradesh,Barley,2015,538,24,62,Black,55,41,48,3753,3.16
+Arunachal Pradesh,Barley,2016,1382,21,94,Clay,85,42,35,1417,4.63
+Arunachal Pradesh,Barley,2017,1670,27,79,Sandy,85,25,34,1688,4.57
+Arunachal Pradesh,Barley,2018,1325,26,53,Alluvial,96,46,22,4573,4.58
+Arunachal Pradesh,Barley,2019,836,23,42,Clay,97,53,58,2628,3.96
+Arunachal Pradesh,Barley,2020,796,19,61,Clay,40,35,25,3559,2.66
+Arunachal Pradesh,Barley,2021,1138,25,48,Sandy,53,57,39,1824,4.31
+Arunachal Pradesh,Barley,2022,611,25,67,Sandy,68,47,41,4610,3.54
+Arunachal Pradesh,Barley,2023,1834,15,60,Black,53,30,35,1914,4.9
+Arunachal Pradesh,Barley,2024,653,26,62,Laterite,80,23,37,3596,3.25
+Arunachal Pradesh,Millets,2015,1018,28,76,Loamy,56,42,55,1729,3.28
+Arunachal Pradesh,Millets,2016,1262,31,64,Sandy,56,29,45,1354,4.45
+Arunachal Pradesh,Millets,2017,1646,33,95,Loamy,81,54,41,1380,4.87
+Arunachal Pradesh,Millets,2018,1277,21,86,Red,81,24,44,746,4.13
+Arunachal Pradesh,Millets,2019,1795,18,46,Loamy,52,51,52,4595,4.89
+Arunachal Pradesh,Millets,2020,1307,28,90,Loamy,65,41,49,4295,3.98
+Arunachal Pradesh,Millets,2021,1927,34,91,Loamy,74,41,53,4849,5.12
+Arunachal Pradesh,Millets,2022,610,22,52,Red,71,38,33,1432,3.45
+Arunachal Pradesh,Millets,2023,975,21,82,Red,96,41,20,1710,3.58
+Arunachal Pradesh,Millets,2024,320,22,41,Loamy,46,49,57,3567,2.8
+Arunachal Pradesh,Cotton,2015,1474,21,94,Clay,45,49,55,2204,4.77
+Arunachal Pradesh,Cotton,2016,1584,18,91,Sandy,82,34,31,2132,4.92
+Arunachal Pradesh,Cotton,2017,401,17,45,Alluvial,98,38,23,2541,2.85
+Arunachal Pradesh,Cotton,2018,1297,34,45,Laterite,68,50,25,1771,4.66
+Arunachal Pradesh,Cotton,2019,1946,27,50,Red,62,24,33,674,4.88
+Arunachal Pradesh,Cotton,2020,1141,21,37,Red,83,54,45,1851,3.87
+Arunachal Pradesh,Cotton,2021,1100,18,46,Black,42,26,26,3367,3.44
+Arunachal Pradesh,Cotton,2022,1249,17,64,Alluvial,81,38,53,1247,4.71
+Arunachal Pradesh,Cotton,2023,1941,29,86,Clay,86,52,50,506,5.89
+Arunachal Pradesh,Cotton,2024,1506,33,39,Black,56,47,36,1287,4.08
+Arunachal Pradesh,Sugarcane,2015,962,18,70,Clay,61,41,60,1148,3.23
+Arunachal Pradesh,Sugarcane,2016,589,22,58,Clay,60,50,53,2520,3.3
+Arunachal Pradesh,Sugarcane,2017,1753,33,79,Loamy,52,24,31,1539,5.08
+Arunachal Pradesh,Sugarcane,2018,1454,20,82,Clay,69,25,57,3576,4.18
+Arunachal Pradesh,Sugarcane,2019,1776,21,85,Sandy,42,44,42,977,4.34
+Arunachal Pradesh,Sugarcane,2020,1155,30,50,Red,57,30,34,3565,4.32
+Arunachal Pradesh,Sugarcane,2021,718,19,41,Loamy,82,21,37,1330,3.48
+Arunachal Pradesh,Sugarcane,2022,1342,35,84,Sandy,75,36,58,4262,4.34
+Arunachal Pradesh,Sugarcane,2023,445,20,45,Black,51,29,45,4526,2.27
+Arunachal Pradesh,Sugarcane,2024,976,20,35,Black,71,41,58,2836,4.04
+Arunachal Pradesh,Pulses,2015,675,28,82,Red,89,51,39,3346,3.73
+Arunachal Pradesh,Pulses,2016,893,35,93,Laterite,71,34,57,3837,3.85
+Arunachal Pradesh,Pulses,2017,1665,16,50,Sandy,78,45,55,748,4.95
+Arunachal Pradesh,Pulses,2018,787,17,83,Red,70,57,24,2310,3.42
+Arunachal Pradesh,Pulses,2019,1204,26,67,Clay,41,26,29,4266,3.7
+Arunachal Pradesh,Pulses,2020,1839,21,67,Laterite,78,60,60,4562,5.15
+Arunachal Pradesh,Pulses,2021,1592,20,90,Loamy,92,37,25,4341,5.32
+Arunachal Pradesh,Pulses,2022,1864,17,92,Sandy,48,38,21,1804,5.31
+Arunachal Pradesh,Pulses,2023,1514,27,67,Sandy,45,25,31,1082,4.56
+Arunachal Pradesh,Pulses,2024,629,33,62,Red,70,27,22,1424,2.99
+Arunachal Pradesh,Groundnut,2015,1119,16,45,Black,77,36,33,1720,4.36
+Arunachal Pradesh,Groundnut,2016,1372,34,48,Red,49,26,27,4538,3.79
+Arunachal Pradesh,Groundnut,2017,1148,24,58,Clay,71,54,34,637,4.46
+Arunachal Pradesh,Groundnut,2018,898,24,58,Sandy,89,30,42,1534,3.9
+Arunachal Pradesh,Groundnut,2019,777,35,33,Clay,59,33,29,1408,3.72
+Arunachal Pradesh,Groundnut,2020,932,26,69,Clay,74,39,46,2221,3.7
+Arunachal Pradesh,Groundnut,2021,1805,30,56,Black,63,55,24,780,5.14
+Arunachal Pradesh,Groundnut,2022,311,18,79,Laterite,99,47,52,4116,3.0
+Arunachal Pradesh,Groundnut,2023,934,24,46,Sandy,42,22,39,3217,3.88
+Arunachal Pradesh,Groundnut,2024,1429,15,30,Clay,72,56,58,2424,4.39
+Arunachal Pradesh,Soybean,2015,560,31,81,Alluvial,54,52,49,1915,2.4
+Arunachal Pradesh,Soybean,2016,1861,28,66,Clay,61,28,29,2742,5.56
+Arunachal Pradesh,Soybean,2017,1839,30,52,Alluvial,80,58,26,4739,5.01
+Arunachal Pradesh,Soybean,2018,760,21,93,Black,56,27,55,1907,3.61
+Arunachal Pradesh,Soybean,2019,993,22,73,Clay,62,54,58,834,4.04
+Arunachal Pradesh,Soybean,2020,644,31,72,Laterite,67,58,36,4934,2.73
+Arunachal Pradesh,Soybean,2021,391,20,60,Alluvial,59,44,47,4638,2.42
+Arunachal Pradesh,Soybean,2022,1573,31,36,Red,72,28,54,2935,4.58
+Arunachal Pradesh,Soybean,2023,1287,29,65,Alluvial,66,40,44,1295,4.52
+Arunachal Pradesh,Soybean,2024,851,16,74,Alluvial,44,34,30,1493,3.49
+Arunachal Pradesh,Tea,2015,1121,21,80,Laterite,87,57,21,2818,3.92
+Arunachal Pradesh,Tea,2016,1550,22,68,Clay,96,39,53,634,4.87
+Arunachal Pradesh,Tea,2017,1358,19,58,Loamy,58,31,24,1950,3.83
+Arunachal Pradesh,Tea,2018,1312,32,86,Sandy,96,47,37,3174,4.09
+Arunachal Pradesh,Tea,2019,1388,19,91,Loamy,67,37,32,4187,4.3
+Arunachal Pradesh,Tea,2020,788,18,38,Black,85,54,37,3217,3.81
+Arunachal Pradesh,Tea,2021,1979,27,69,Black,45,49,58,2617,5.05
+Arunachal Pradesh,Tea,2022,1512,17,87,Clay,42,40,51,1255,4.27
+Arunachal Pradesh,Tea,2023,1408,19,54,Laterite,43,24,37,2274,4.2
+Arunachal Pradesh,Tea,2024,458,15,81,Laterite,46,27,20,1316,2.67
+Arunachal Pradesh,Coffee,2015,577,24,51,Laterite,45,58,48,2352,2.71
+Arunachal Pradesh,Coffee,2016,504,19,93,Black,46,44,29,3078,2.57
+Arunachal Pradesh,Coffee,2017,951,30,44,Sandy,76,31,56,2857,3.73
+Arunachal Pradesh,Coffee,2018,524,35,49,Red,88,33,45,3464,2.9
+Arunachal Pradesh,Coffee,2019,1938,33,73,Red,77,20,35,1235,5.37
+Arunachal Pradesh,Coffee,2020,1179,30,89,Red,66,32,35,3139,4.0
+Arunachal Pradesh,Coffee,2021,1287,34,37,Clay,66,52,30,1897,3.72
+Arunachal Pradesh,Coffee,2022,1705,25,34,Clay,47,52,45,3943,4.64
+Arunachal Pradesh,Coffee,2023,1795,28,49,Alluvial,100,37,40,1087,5.5
+Arunachal Pradesh,Coffee,2024,1247,30,56,Clay,95,51,23,1866,4.02
+Assam,Rice,2015,953,28,54,Laterite,80,25,54,1746,3.86
+Assam,Rice,2016,1390,31,66,Sandy,92,48,46,1915,4.55
+Assam,Rice,2017,1781,27,79,Clay,100,50,53,4845,5.5
+Assam,Rice,2018,1003,23,81,Red,84,28,21,3648,4.07
+Assam,Rice,2019,1699,30,52,Black,62,31,22,2531,4.71
+Assam,Rice,2020,1467,29,91,Clay,88,37,29,3125,4.54
+Assam,Rice,2021,817,28,35,Sandy,48,40,37,4813,3.06
+Assam,Rice,2022,717,26,31,Loamy,63,29,41,4214,3.05
+Assam,Rice,2023,954,35,54,Red,85,39,39,3078,3.83
+Assam,Rice,2024,318,18,67,Laterite,55,31,46,4455,2.36
+Assam,Wheat,2015,1206,32,79,Red,84,33,24,4264,3.93
+Assam,Wheat,2016,508,29,54,Alluvial,81,36,28,4395,3.25
+Assam,Wheat,2017,1043,21,57,Sandy,70,43,58,2821,3.62
+Assam,Wheat,2018,378,34,33,Black,97,50,45,1336,3.13
+Assam,Wheat,2019,1027,30,31,Red,64,54,55,4234,3.87
+Assam,Wheat,2020,878,17,94,Clay,93,57,23,2540,4.14
+Assam,Wheat,2021,949,30,46,Red,81,34,56,935,3.51
+Assam,Wheat,2022,310,25,73,Black,55,47,28,1642,2.07
+Assam,Wheat,2023,926,30,78,Alluvial,68,55,31,2919,3.45
+Assam,Wheat,2024,466,31,52,Clay,44,32,59,3269,2.97
+Assam,Maize,2015,1364,15,71,Alluvial,59,42,24,1943,4.0
+Assam,Maize,2016,676,32,84,Alluvial,47,27,42,938,3.14
+Assam,Maize,2017,524,17,37,Sandy,54,24,53,2314,2.42
+Assam,Maize,2018,1343,31,36,Black,47,21,28,4457,4.28
+Assam,Maize,2019,574,27,48,Black,70,50,46,1241,2.64
+Assam,Maize,2020,1637,19,80,Alluvial,88,45,52,2159,5.29
+Assam,Maize,2021,706,33,38,Red,53,51,25,1599,3.0
+Assam,Maize,2022,417,17,34,Alluvial,70,52,38,826,2.35
+Assam,Maize,2023,1779,22,85,Laterite,80,59,25,2474,5.06
+Assam,Maize,2024,441,30,31,Red,59,21,22,686,3.15
+Assam,Barley,2015,741,23,63,Alluvial,63,48,33,3750,2.85
+Assam,Barley,2016,1891,20,70,Sandy,52,31,26,1864,4.61
+Assam,Barley,2017,1295,34,47,Sandy,55,55,49,1110,3.99
+Assam,Barley,2018,1608,32,63,Loamy,96,33,21,3628,5.31
+Assam,Barley,2019,1823,24,74,Laterite,65,60,55,2314,5.32
+Assam,Barley,2020,1457,23,33,Sandy,85,36,38,1338,5.04
+Assam,Barley,2021,770,17,71,Clay,58,36,42,2575,2.77
+Assam,Barley,2022,1456,34,71,Loamy,87,53,55,2964,4.84
+Assam,Barley,2023,948,19,84,Clay,86,56,23,1117,3.78
+Assam,Barley,2024,1640,23,33,Alluvial,82,58,52,2085,5.02
+Assam,Millets,2015,584,26,62,Black,90,58,40,2967,3.3
+Assam,Millets,2016,1561,16,39,Alluvial,50,26,40,3761,4.76
+Assam,Millets,2017,1898,34,37,Laterite,62,25,24,2255,5.02
+Assam,Millets,2018,1872,23,62,Loamy,98,23,43,2218,4.96
+Assam,Millets,2019,1114,29,95,Laterite,93,59,57,2091,4.22
+Assam,Millets,2020,301,26,39,Loamy,73,60,26,2386,2.83
+Assam,Millets,2021,399,16,69,Red,69,39,53,1925,3.04
+Assam,Millets,2022,1368,24,36,Red,53,34,43,4217,3.99
+Assam,Millets,2023,641,26,89,Sandy,68,44,46,4667,2.67
+Assam,Millets,2024,638,28,78,Red,54,32,48,3102,3.18
+Assam,Cotton,2015,1355,28,69,Alluvial,52,52,35,999,4.25
+Assam,Cotton,2016,1848,28,40,Clay,71,45,28,1170,5.39
+Assam,Cotton,2017,1430,29,68,Red,60,27,50,4638,4.04
+Assam,Cotton,2018,1877,27,90,Loamy,47,45,28,800,4.53
+Assam,Cotton,2019,972,32,80,Laterite,97,39,39,1975,3.78
+Assam,Cotton,2020,1849,17,65,Black,48,38,43,2298,5.3
+Assam,Cotton,2021,1324,31,66,Laterite,97,49,29,3476,4.55
+Assam,Cotton,2022,401,34,78,Clay,49,43,26,3549,2.29
+Assam,Cotton,2023,1137,16,78,Loamy,59,28,31,1518,4.12
+Assam,Cotton,2024,384,27,64,Black,44,27,52,3940,2.37
+Assam,Sugarcane,2015,1702,31,89,Red,79,50,53,2753,5.14
+Assam,Sugarcane,2016,1098,26,90,Alluvial,47,21,49,2888,3.51
+Assam,Sugarcane,2017,1999,22,72,Black,96,31,54,3105,5.98
+Assam,Sugarcane,2018,956,18,82,Laterite,92,60,50,2225,4.22
+Assam,Sugarcane,2019,1984,35,59,Alluvial,54,31,48,1608,5.73
+Assam,Sugarcane,2020,1624,32,43,Red,82,40,51,4675,5.05
+Assam,Sugarcane,2021,600,27,90,Alluvial,94,58,57,2768,3.13
+Assam,Sugarcane,2022,505,32,33,Red,93,59,36,1935,2.83
+Assam,Sugarcane,2023,1258,23,84,Red,46,49,29,688,4.17
+Assam,Sugarcane,2024,1153,16,37,Black,72,21,50,3706,3.83
+Assam,Pulses,2015,1313,15,37,Laterite,99,42,48,915,4.57
+Assam,Pulses,2016,1399,16,66,Laterite,60,25,27,1729,4.14
+Assam,Pulses,2017,1778,26,44,Clay,86,52,34,4530,5.08
+Assam,Pulses,2018,723,35,91,Laterite,71,35,59,1459,2.94
+Assam,Pulses,2019,1910,16,71,Alluvial,48,39,44,770,4.7
+Assam,Pulses,2020,325,26,77,Clay,63,38,39,4150,2.59
+Assam,Pulses,2021,1924,27,30,Loamy,85,25,40,2001,5.15
+Assam,Pulses,2022,1917,32,50,Clay,98,22,37,3785,5.36
+Assam,Pulses,2023,867,23,37,Laterite,57,39,57,1775,3.78
+Assam,Pulses,2024,1333,28,31,Loamy,93,52,31,2351,4.89
+Assam,Groundnut,2015,373,19,79,Sandy,83,27,35,770,3.12
+Assam,Groundnut,2016,1104,27,81,Clay,74,24,34,2684,4.24
+Assam,Groundnut,2017,944,17,72,Loamy,62,42,45,2864,3.66
+Assam,Groundnut,2018,755,33,53,Red,40,26,29,1736,3.02
+Assam,Groundnut,2019,778,25,53,Alluvial,84,42,44,542,3.64
+Assam,Groundnut,2020,890,17,68,Sandy,82,26,40,4030,3.61
+Assam,Groundnut,2021,1385,15,41,Alluvial,50,21,47,862,4.18
+Assam,Groundnut,2022,1916,21,87,Laterite,98,33,21,845,5.7
+Assam,Groundnut,2023,1218,24,72,Sandy,76,27,30,4788,3.72
+Assam,Groundnut,2024,1716,16,75,Red,56,47,55,2801,5.07
+Assam,Soybean,2015,1357,35,94,Alluvial,97,22,56,1299,4.29
+Assam,Soybean,2016,653,26,64,Sandy,57,58,35,2527,3.35
+Assam,Soybean,2017,1079,17,31,Red,87,51,33,3606,3.82
+Assam,Soybean,2018,1734,33,89,Clay,54,42,29,2421,5.21
+Assam,Soybean,2019,797,21,30,Alluvial,78,35,35,4404,3.08
+Assam,Soybean,2020,493,19,57,Sandy,78,51,27,4003,2.97
+Assam,Soybean,2021,1310,35,38,Laterite,98,21,53,3586,4.14
+Assam,Soybean,2022,1489,31,74,Alluvial,61,53,47,1854,4.42
+Assam,Soybean,2023,1008,29,34,Red,71,40,27,1927,4.24
+Assam,Soybean,2024,947,15,64,Laterite,69,56,34,2603,3.66
+Assam,Tea,2015,1406,20,59,Alluvial,87,54,33,2041,4.62
+Assam,Tea,2016,1789,15,64,Clay,64,59,59,2472,5.14
+Assam,Tea,2017,1884,18,41,Red,66,47,60,4502,5.03
+Assam,Tea,2018,1931,22,68,Laterite,75,52,56,953,5.25
+Assam,Tea,2019,484,17,89,Clay,89,56,24,4927,3.16
+Assam,Tea,2020,1336,15,41,Red,83,34,27,1415,4.73
+Assam,Tea,2021,1664,25,52,Alluvial,70,32,39,4238,4.61
+Assam,Tea,2022,1401,34,43,Alluvial,100,57,44,2517,4.37
+Assam,Tea,2023,1522,23,54,Clay,49,52,55,3403,4.34
+Assam,Tea,2024,1417,17,57,Sandy,40,25,49,691,3.93
+Assam,Coffee,2015,1989,25,87,Laterite,51,23,28,3005,5.55
+Assam,Coffee,2016,964,28,76,Loamy,85,22,25,1072,4.16
+Assam,Coffee,2017,1109,15,52,Sandy,65,25,30,3379,3.96
+Assam,Coffee,2018,428,33,31,Red,78,52,53,1651,2.5
+Assam,Coffee,2019,1242,20,39,Clay,68,47,41,2176,3.71
+Assam,Coffee,2020,324,25,75,Sandy,74,51,51,4939,2.62
+Assam,Coffee,2021,1739,34,43,Loamy,81,45,59,501,4.73
+Assam,Coffee,2022,1232,30,68,Loamy,90,52,48,3864,4.63
+Assam,Coffee,2023,1958,29,61,Loamy,85,34,25,4234,5.51
+Assam,Coffee,2024,1146,26,36,Alluvial,41,45,32,2474,3.9
+Bihar,Rice,2015,1968,30,73,Clay,62,46,25,3955,5.59
+Bihar,Rice,2016,671,16,46,Black,74,37,49,4251,3.23
+Bihar,Rice,2017,1657,35,64,Alluvial,70,25,48,748,4.47
+Bihar,Rice,2018,1633,20,43,Black,91,55,57,1292,5.04
+Bihar,Rice,2019,1680,30,92,Red,99,44,47,3650,5.43
+Bihar,Rice,2020,1983,20,52,Laterite,45,23,37,2161,5.21
+Bihar,Rice,2021,306,31,44,Clay,42,46,32,4728,2.65
+Bihar,Rice,2022,1006,15,86,Sandy,87,43,48,665,4.37
+Bihar,Rice,2023,894,31,73,Sandy,79,50,52,3434,3.27
+Bihar,Rice,2024,1055,31,80,Clay,89,20,22,3112,3.68
+Bihar,Wheat,2015,1917,17,38,Loamy,97,53,47,3313,5.78
+Bihar,Wheat,2016,1451,35,53,Loamy,81,33,56,1685,4.26
+Bihar,Wheat,2017,1061,15,34,Alluvial,51,37,46,2954,3.32
+Bihar,Wheat,2018,312,16,64,Clay,70,46,46,3544,2.12
+Bihar,Wheat,2019,1723,26,56,Loamy,72,52,21,3720,5.23
+Bihar,Wheat,2020,877,34,55,Loamy,58,57,40,1847,3.79
+Bihar,Wheat,2021,1741,35,34,Sandy,51,50,24,2557,4.5
+Bihar,Wheat,2022,872,33,55,Black,54,33,22,2159,3.88
+Bihar,Wheat,2023,495,27,86,Loamy,95,20,25,873,3.41
+Bihar,Wheat,2024,1864,19,33,Clay,96,51,44,2724,5.41
+Bihar,Maize,2015,1808,34,77,Alluvial,41,28,46,4715,5.06
+Bihar,Maize,2016,1369,27,31,Red,51,27,28,2364,4.2
+Bihar,Maize,2017,407,30,36,Alluvial,44,54,56,3956,2.59
+Bihar,Maize,2018,838,24,61,Loamy,56,42,54,950,3.33
+Bihar,Maize,2019,491,22,40,Loamy,68,23,31,586,2.94
+Bihar,Maize,2020,1135,32,50,Alluvial,54,53,30,4424,3.36
+Bihar,Maize,2021,1069,23,53,Clay,43,25,55,2672,4.09
+Bihar,Maize,2022,1629,18,60,Clay,60,47,58,1057,4.77
+Bihar,Maize,2023,1803,35,63,Clay,57,45,26,2925,4.63
+Bihar,Maize,2024,502,31,76,Clay,87,45,36,4882,2.98
+Bihar,Barley,2015,930,32,55,Black,77,59,50,1284,3.36
+Bihar,Barley,2016,657,19,71,Black,85,26,25,3075,3.25
+Bihar,Barley,2017,1001,27,60,Sandy,98,20,60,1547,3.75
+Bihar,Barley,2018,1618,25,93,Sandy,51,53,40,3667,4.99
+Bihar,Barley,2019,1551,32,71,Clay,86,26,57,2580,4.65
+Bihar,Barley,2020,776,31,66,Alluvial,87,24,35,2057,3.15
+Bihar,Barley,2021,1709,20,55,Clay,90,35,44,4749,5.59
+Bihar,Barley,2022,1432,17,76,Clay,46,50,32,865,3.88
+Bihar,Barley,2023,1595,20,31,Loamy,84,32,41,2342,5.26
+Bihar,Barley,2024,871,31,47,Sandy,79,46,26,523,3.62
+Bihar,Millets,2015,1013,26,81,Loamy,87,53,37,893,4.28
+Bihar,Millets,2016,1505,22,44,Alluvial,62,45,49,797,4.34
+Bihar,Millets,2017,1617,35,52,Clay,53,49,53,3532,4.63
+Bihar,Millets,2018,1947,30,41,Laterite,72,57,21,3064,5.78
+Bihar,Millets,2019,380,32,57,Laterite,92,42,60,1609,3.06
+Bihar,Millets,2020,1642,26,56,Loamy,78,32,40,2356,4.5
+Bihar,Millets,2021,1241,19,76,Black,41,42,37,2493,4.17
+Bihar,Millets,2022,1926,24,88,Clay,79,23,53,4174,5.23
+Bihar,Millets,2023,1122,35,78,Laterite,85,36,49,3469,4.43
+Bihar,Millets,2024,1547,33,68,Sandy,67,46,21,906,4.17
+Bihar,Cotton,2015,1985,35,59,Black,84,20,60,4773,5.49
+Bihar,Cotton,2016,1184,15,60,Alluvial,93,53,58,965,4.36
+Bihar,Cotton,2017,1974,16,35,Clay,98,25,47,2420,5.6
+Bihar,Cotton,2018,1150,30,53,Black,59,27,36,1002,3.55
+Bihar,Cotton,2019,1423,26,30,Red,46,53,57,1762,4.75
+Bihar,Cotton,2020,363,21,75,Red,60,21,56,1444,2.59
+Bihar,Cotton,2021,1505,31,47,Laterite,99,44,27,1849,5.31
+Bihar,Cotton,2022,843,15,54,Laterite,88,34,48,876,3.62
+Bihar,Cotton,2023,811,21,46,Clay,44,47,20,4399,3.48
+Bihar,Cotton,2024,1599,22,64,Laterite,60,45,22,2879,4.47
+Bihar,Sugarcane,2015,660,19,57,Laterite,78,45,28,3524,3.74
+Bihar,Sugarcane,2016,721,27,79,Alluvial,82,22,39,600,3.5
+Bihar,Sugarcane,2017,1399,17,45,Alluvial,99,46,27,2485,4.33
+Bihar,Sugarcane,2018,1704,26,68,Loamy,73,27,30,1351,5.08
+Bihar,Sugarcane,2019,851,20,31,Alluvial,73,23,36,2352,3.96
+Bihar,Sugarcane,2020,1859,25,63,Laterite,40,58,20,687,4.65
+Bihar,Sugarcane,2021,1244,15,56,Black,67,22,43,2163,4.49
+Bihar,Sugarcane,2022,1376,24,62,Sandy,65,48,45,730,4.71
+Bihar,Sugarcane,2023,635,28,51,Red,83,35,50,1557,2.9
+Bihar,Sugarcane,2024,1815,21,36,Clay,48,56,29,2692,4.9
+Bihar,Pulses,2015,1281,26,71,Alluvial,99,35,53,3388,4.31
+Bihar,Pulses,2016,1465,15,93,Sandy,85,33,54,3754,4.22
+Bihar,Pulses,2017,1206,34,53,Black,68,53,59,2430,3.94
+Bihar,Pulses,2018,543,31,65,Clay,96,53,35,3063,3.01
+Bihar,Pulses,2019,958,21,84,Red,44,50,33,519,3.39
+Bihar,Pulses,2020,1675,21,76,Black,40,40,21,2915,4.45
+Bihar,Pulses,2021,1933,24,85,Red,52,21,27,956,5.36
+Bihar,Pulses,2022,1671,22,48,Red,71,55,21,4175,5.1
+Bihar,Pulses,2023,532,21,56,Black,59,28,45,1373,3.31
+Bihar,Pulses,2024,979,30,88,Black,83,53,32,1110,4.13
+Bihar,Groundnut,2015,1594,19,30,Red,62,33,51,3517,4.96
+Bihar,Groundnut,2016,1661,15,79,Loamy,53,26,30,974,4.32
+Bihar,Groundnut,2017,1309,20,62,Loamy,75,21,49,3591,4.77
+Bihar,Groundnut,2018,1977,22,45,Alluvial,72,37,53,965,5.19
+Bihar,Groundnut,2019,1085,15,55,Red,87,24,39,524,3.95
+Bihar,Groundnut,2020,1789,16,38,Sandy,94,48,48,4892,5.06
+Bihar,Groundnut,2021,756,19,50,Red,97,60,45,3491,3.75
+Bihar,Groundnut,2022,1122,30,43,Black,85,54,56,4702,4.33
+Bihar,Groundnut,2023,948,26,84,Clay,71,50,60,4281,3.62
+Bihar,Groundnut,2024,1064,19,42,Loamy,78,50,20,530,4.2
+Bihar,Soybean,2015,747,27,57,Loamy,55,54,40,4405,3.6
+Bihar,Soybean,2016,455,23,84,Clay,72,42,21,841,3.13
+Bihar,Soybean,2017,1531,35,67,Black,91,27,53,2389,4.93
+Bihar,Soybean,2018,1310,33,58,Laterite,93,41,39,4589,4.2
+Bihar,Soybean,2019,449,26,45,Clay,42,22,36,3696,3.06
+Bihar,Soybean,2020,923,31,59,Alluvial,78,31,33,868,3.78
+Bihar,Soybean,2021,1880,24,70,Red,90,52,25,4751,4.93
+Bihar,Soybean,2022,827,28,77,Laterite,86,37,22,3878,3.17
+Bihar,Soybean,2023,1824,25,70,Red,74,23,20,2529,5.57
+Bihar,Soybean,2024,621,19,56,Laterite,50,27,41,2696,2.56
+Bihar,Tea,2015,856,20,62,Black,53,40,60,2119,3.09
+Bihar,Tea,2016,602,25,52,Sandy,40,37,42,4293,2.64
+Bihar,Tea,2017,1548,27,64,Black,63,39,45,3354,4.32
+Bihar,Tea,2018,1958,19,86,Red,44,32,28,3003,5.08
+Bihar,Tea,2019,1977,21,73,Clay,43,44,43,2817,4.79
+Bihar,Tea,2020,1387,33,63,Clay,72,33,53,1543,4.71
+Bihar,Tea,2021,663,23,77,Sandy,53,27,25,4675,2.96
+Bihar,Tea,2022,944,28,77,Loamy,60,51,28,2870,3.62
+Bihar,Tea,2023,1863,20,62,Black,66,36,50,1471,4.67
+Bihar,Tea,2024,1194,21,32,Laterite,54,24,27,858,3.77
+Bihar,Coffee,2015,684,28,79,Alluvial,98,36,56,3262,3.83
+Bihar,Coffee,2016,811,27,53,Clay,54,52,29,1056,2.83
+Bihar,Coffee,2017,1547,34,55,Laterite,42,29,59,4816,4.41
+Bihar,Coffee,2018,1739,18,35,Loamy,78,31,53,2630,4.95
+Bihar,Coffee,2019,1371,28,66,Alluvial,59,44,20,2878,4.05
+Bihar,Coffee,2020,1559,21,60,Red,42,31,22,2120,4.33
+Bihar,Coffee,2021,1480,18,57,Laterite,78,58,45,906,4.35
+Bihar,Coffee,2022,483,21,84,Alluvial,48,30,26,3874,2.9
+Bihar,Coffee,2023,896,29,34,Loamy,48,57,52,4383,3.87
+Bihar,Coffee,2024,603,27,63,Alluvial,57,36,41,1568,3.42
+Chhattisgarh,Rice,2015,498,17,50,Alluvial,68,54,45,3092,3.04
+Chhattisgarh,Rice,2016,705,29,54,Black,99,60,32,4421,3.4
+Chhattisgarh,Rice,2017,1779,25,61,Laterite,66,30,40,3009,5.23
+Chhattisgarh,Rice,2018,1990,26,38,Red,98,41,36,1840,5.9
+Chhattisgarh,Rice,2019,1477,31,57,Sandy,66,45,31,1962,4.42
+Chhattisgarh,Rice,2020,1246,16,51,Laterite,44,37,36,2595,4.2
+Chhattisgarh,Rice,2021,519,32,63,Sandy,76,37,30,3039,2.89
+Chhattisgarh,Rice,2022,1797,22,39,Laterite,60,38,24,2668,4.7
+Chhattisgarh,Rice,2023,1029,34,93,Alluvial,45,28,54,2540,3.7
+Chhattisgarh,Rice,2024,751,16,90,Alluvial,41,32,44,2705,3.18
+Chhattisgarh,Wheat,2015,605,24,63,Clay,77,33,39,4427,2.77
+Chhattisgarh,Wheat,2016,699,20,65,Sandy,42,31,37,2705,3.33
+Chhattisgarh,Wheat,2017,575,35,44,Red,44,48,39,1158,2.62
+Chhattisgarh,Wheat,2018,1129,23,45,Alluvial,58,28,57,2018,4.08
+Chhattisgarh,Wheat,2019,1703,16,68,Loamy,88,30,55,2051,5.12
+Chhattisgarh,Wheat,2020,960,25,33,Red,84,39,54,2170,3.66
+Chhattisgarh,Wheat,2021,632,31,31,Sandy,90,22,21,2634,3.3
+Chhattisgarh,Wheat,2022,1471,20,33,Loamy,65,36,39,3675,4.41
+Chhattisgarh,Wheat,2023,1124,35,49,Sandy,67,54,46,1024,3.9
+Chhattisgarh,Wheat,2024,997,23,53,Laterite,47,60,47,1279,3.82
+Chhattisgarh,Maize,2015,1131,32,48,Red,93,55,21,3401,4.24
+Chhattisgarh,Maize,2016,869,26,47,Clay,46,54,47,724,3.37
+Chhattisgarh,Maize,2017,952,25,50,Black,74,41,57,4900,3.99
+Chhattisgarh,Maize,2018,1579,34,50,Alluvial,70,52,50,1313,4.53
+Chhattisgarh,Maize,2019,1671,23,67,Black,92,53,25,1584,5.17
+Chhattisgarh,Maize,2020,383,22,85,Clay,70,38,49,3683,2.36
+Chhattisgarh,Maize,2021,1745,23,56,Laterite,54,60,57,1323,5.06
+Chhattisgarh,Maize,2022,929,27,80,Clay,54,57,45,1527,3.28
+Chhattisgarh,Maize,2023,1820,16,54,Alluvial,91,56,60,4685,4.87
+Chhattisgarh,Maize,2024,1398,26,80,Clay,49,39,30,3109,4.05
+Chhattisgarh,Barley,2015,1706,34,45,Clay,93,28,24,1533,5.02
+Chhattisgarh,Barley,2016,1517,24,90,Sandy,96,31,60,4147,5.05
+Chhattisgarh,Barley,2017,1108,19,92,Laterite,77,25,34,3446,4.16
+Chhattisgarh,Barley,2018,350,18,62,Sandy,86,37,30,2335,3.07
+Chhattisgarh,Barley,2019,576,27,32,Loamy,95,20,53,4039,3.32
+Chhattisgarh,Barley,2020,1871,16,45,Clay,91,38,26,3675,5.83
+Chhattisgarh,Barley,2021,540,20,37,Black,87,28,60,1595,3.26
+Chhattisgarh,Barley,2022,833,27,37,Sandy,81,54,27,523,3.4
+Chhattisgarh,Barley,2023,685,35,47,Clay,73,43,24,3919,3.25
+Chhattisgarh,Barley,2024,1528,28,32,Loamy,97,50,42,570,4.75
+Chhattisgarh,Millets,2015,1909,23,64,Loamy,71,44,32,1471,5.59
+Chhattisgarh,Millets,2016,1613,31,86,Black,73,55,60,2245,4.43
+Chhattisgarh,Millets,2017,1337,31,92,Black,61,34,47,3449,4.47
+Chhattisgarh,Millets,2018,591,34,93,Red,88,52,30,3855,3.46
+Chhattisgarh,Millets,2019,1048,18,48,Sandy,54,50,37,2481,3.25
+Chhattisgarh,Millets,2020,1742,28,36,Sandy,90,43,29,2405,5.45
+Chhattisgarh,Millets,2021,1407,24,69,Sandy,66,50,45,2406,4.66
+Chhattisgarh,Millets,2022,721,27,50,Laterite,58,56,59,1115,3.66
+Chhattisgarh,Millets,2023,1139,20,88,Black,74,55,47,4708,4.4
+Chhattisgarh,Millets,2024,1131,24,46,Black,56,27,44,4282,3.86
+Chhattisgarh,Cotton,2015,1840,17,57,Clay,87,42,59,729,5.33
+Chhattisgarh,Cotton,2016,803,21,68,Clay,64,50,38,2601,3.38
+Chhattisgarh,Cotton,2017,788,28,94,Sandy,43,40,49,637,2.94
+Chhattisgarh,Cotton,2018,766,32,35,Laterite,79,33,59,4189,3.03
+Chhattisgarh,Cotton,2019,1620,19,88,Clay,57,54,38,4267,5.04
+Chhattisgarh,Cotton,2020,1318,29,31,Alluvial,51,31,43,3638,4.26
+Chhattisgarh,Cotton,2021,1178,23,43,Laterite,59,56,34,771,3.46
+Chhattisgarh,Cotton,2022,341,25,32,Clay,75,46,51,1061,2.41
+Chhattisgarh,Cotton,2023,1280,24,43,Loamy,68,20,46,822,3.74
+Chhattisgarh,Cotton,2024,1602,21,36,Clay,83,32,31,2723,5.22
+Chhattisgarh,Sugarcane,2015,1435,18,69,Sandy,72,49,35,2587,4.41
+Chhattisgarh,Sugarcane,2016,1437,20,64,Black,73,59,28,2223,4.12
+Chhattisgarh,Sugarcane,2017,727,32,88,Laterite,58,38,53,2737,3.35
+Chhattisgarh,Sugarcane,2018,1631,23,39,Loamy,43,38,55,3521,4.75
+Chhattisgarh,Sugarcane,2019,961,26,64,Loamy,73,52,54,4400,4.08
+Chhattisgarh,Sugarcane,2020,459,30,39,Clay,100,37,30,2659,2.83
+Chhattisgarh,Sugarcane,2021,1438,28,40,Red,64,54,36,3317,4.06
+Chhattisgarh,Sugarcane,2022,960,22,60,Loamy,73,48,21,4137,3.79
+Chhattisgarh,Sugarcane,2023,1236,19,79,Laterite,76,24,40,2368,3.78
+Chhattisgarh,Sugarcane,2024,468,27,72,Red,81,47,47,4197,2.73
+Chhattisgarh,Pulses,2015,1559,20,62,Sandy,66,55,40,4414,4.17
+Chhattisgarh,Pulses,2016,1503,16,93,Sandy,95,41,34,4113,5.17
+Chhattisgarh,Pulses,2017,874,31,77,Laterite,93,58,58,3771,3.79
+Chhattisgarh,Pulses,2018,310,27,95,Alluvial,77,30,31,777,2.66
+Chhattisgarh,Pulses,2019,366,28,62,Loamy,53,24,49,4894,2.36
+Chhattisgarh,Pulses,2020,1942,28,49,Loamy,73,36,40,3456,5.53
+Chhattisgarh,Pulses,2021,355,17,75,Alluvial,52,42,56,4841,2.33
+Chhattisgarh,Pulses,2022,586,34,70,Laterite,53,40,22,3993,2.56
+Chhattisgarh,Pulses,2023,496,27,33,Sandy,44,30,36,2369,3.17
+Chhattisgarh,Pulses,2024,570,28,93,Sandy,96,48,23,1543,2.85
+Chhattisgarh,Groundnut,2015,979,22,32,Black,42,55,32,3220,3.17
+Chhattisgarh,Groundnut,2016,857,29,67,Sandy,51,30,47,4215,3.05
+Chhattisgarh,Groundnut,2017,468,24,87,Alluvial,64,43,53,1370,2.97
+Chhattisgarh,Groundnut,2018,1731,30,42,Red,42,52,40,4709,4.61
+Chhattisgarh,Groundnut,2019,1957,26,90,Red,73,57,25,4293,5.24
+Chhattisgarh,Groundnut,2020,693,33,65,Sandy,71,41,43,3743,2.82
+Chhattisgarh,Groundnut,2021,533,18,43,Red,90,24,26,4825,3.16
+Chhattisgarh,Groundnut,2022,392,24,81,Black,83,38,60,1418,2.48
+Chhattisgarh,Groundnut,2023,1911,28,43,Loamy,77,57,46,1542,5.61
+Chhattisgarh,Groundnut,2024,1762,15,92,Red,99,45,42,3761,5.73
+Chhattisgarh,Soybean,2015,1877,29,30,Alluvial,70,23,46,3145,5.01
+Chhattisgarh,Soybean,2016,1086,29,72,Black,77,50,45,838,3.79
+Chhattisgarh,Soybean,2017,1392,27,70,Loamy,74,55,51,1961,4.37
+Chhattisgarh,Soybean,2018,961,18,81,Black,44,26,24,4805,3.89
+Chhattisgarh,Soybean,2019,1760,28,47,Sandy,81,59,29,1081,4.84
+Chhattisgarh,Soybean,2020,681,24,37,Sandy,96,37,23,4124,3.1
+Chhattisgarh,Soybean,2021,1555,30,58,Clay,96,25,20,3214,5.06
+Chhattisgarh,Soybean,2022,1966,35,84,Alluvial,61,37,25,4853,5.63
+Chhattisgarh,Soybean,2023,302,31,42,Loamy,64,49,25,1187,2.9
+Chhattisgarh,Soybean,2024,1973,19,35,Laterite,75,55,50,4861,5.36
+Chhattisgarh,Tea,2015,1533,16,43,Black,75,58,53,2124,4.31
+Chhattisgarh,Tea,2016,1026,20,68,Loamy,63,48,43,4199,3.82
+Chhattisgarh,Tea,2017,774,31,88,Laterite,60,47,58,4661,3.75
+Chhattisgarh,Tea,2018,661,23,34,Red,41,59,26,4129,3.08
+Chhattisgarh,Tea,2019,631,18,40,Red,96,25,45,1868,3.76
+Chhattisgarh,Tea,2020,960,15,60,Clay,91,39,50,2646,4.3
+Chhattisgarh,Tea,2021,1335,27,34,Sandy,67,45,29,4616,4.14
+Chhattisgarh,Tea,2022,1712,16,31,Alluvial,74,20,59,578,5.32
+Chhattisgarh,Tea,2023,1242,21,85,Red,41,50,24,3854,4.25
+Chhattisgarh,Tea,2024,1243,20,66,Black,60,22,60,3425,4.0
+Chhattisgarh,Coffee,2015,1672,23,64,Laterite,77,40,27,668,5.43
+Chhattisgarh,Coffee,2016,1467,15,77,Red,47,37,42,2137,4.71
+Chhattisgarh,Coffee,2017,1817,34,35,Sandy,90,37,51,2666,5.32
+Chhattisgarh,Coffee,2018,897,22,76,Clay,89,26,53,1218,4.0
+Chhattisgarh,Coffee,2019,521,23,57,Sandy,44,36,55,4962,2.68
+Chhattisgarh,Coffee,2020,463,25,48,Sandy,96,58,35,1660,2.8
+Chhattisgarh,Coffee,2021,1992,35,66,Alluvial,93,48,39,4191,5.26
+Chhattisgarh,Coffee,2022,948,28,89,Loamy,78,23,29,4269,4.22
+Chhattisgarh,Coffee,2023,652,15,36,Black,80,23,34,3497,3.16
+Chhattisgarh,Coffee,2024,945,29,60,Loamy,93,58,22,3786,3.91
+Goa,Rice,2015,721,33,47,Clay,67,41,38,749,3.54
+Goa,Rice,2016,860,33,31,Loamy,92,33,42,4660,3.53
+Goa,Rice,2017,1234,35,34,Black,78,43,41,1891,4.58
+Goa,Rice,2018,300,16,45,Sandy,65,53,41,3348,2.4
+Goa,Rice,2019,1974,31,66,Loamy,88,33,47,3379,5.35
+Goa,Rice,2020,843,20,67,Laterite,50,26,30,2738,3.05
+Goa,Rice,2021,1639,35,84,Alluvial,47,33,57,3791,4.35
+Goa,Rice,2022,1549,34,63,Red,94,24,58,1153,5.23
+Goa,Rice,2023,601,28,54,Clay,52,26,47,3013,3.07
+Goa,Rice,2024,1893,33,31,Red,71,35,36,1919,5.17
+Goa,Wheat,2015,1354,16,75,Loamy,67,38,30,697,4.4
+Goa,Wheat,2016,1496,24,68,Loamy,83,57,32,1368,4.96
+Goa,Wheat,2017,1739,29,66,Red,72,31,51,4724,5.21
+Goa,Wheat,2018,918,20,89,Clay,90,60,22,2853,4.1
+Goa,Wheat,2019,513,22,49,Alluvial,62,46,27,4910,2.38
+Goa,Wheat,2020,579,34,93,Black,91,35,29,4223,3.41
+Goa,Wheat,2021,1025,24,82,Red,63,49,29,1384,3.88
+Goa,Wheat,2022,1192,35,92,Clay,46,49,50,3276,4.19
+Goa,Wheat,2023,403,19,91,Alluvial,96,31,33,3718,2.98
+Goa,Wheat,2024,431,28,53,Loamy,42,49,23,2503,2.89
+Goa,Maize,2015,1273,25,57,Laterite,77,30,20,1291,4.34
+Goa,Maize,2016,1077,29,78,Sandy,60,35,57,4460,4.1
+Goa,Maize,2017,1229,26,92,Red,68,54,31,3509,4.02
+Goa,Maize,2018,1586,16,74,Clay,79,25,45,2152,5.01
+Goa,Maize,2019,734,34,88,Loamy,97,52,46,1444,3.79
+Goa,Maize,2020,1667,27,42,Alluvial,61,40,46,981,4.78
+Goa,Maize,2021,1355,33,49,Clay,51,31,57,2537,4.34
+Goa,Maize,2022,1101,34,68,Loamy,76,24,44,1179,3.73
+Goa,Maize,2023,1067,26,90,Black,64,33,55,2522,3.81
+Goa,Maize,2024,447,22,95,Clay,80,50,49,3876,3.2
+Goa,Barley,2015,1064,33,72,Black,75,27,43,3349,3.69
+Goa,Barley,2016,1481,15,49,Black,41,35,20,2231,4.17
+Goa,Barley,2017,1272,15,78,Red,66,50,25,2902,4.43
+Goa,Barley,2018,845,30,38,Black,41,37,23,1258,3.08
+Goa,Barley,2019,822,16,57,Alluvial,72,25,55,4915,3.42
+Goa,Barley,2020,1659,18,92,Laterite,67,56,52,752,4.44
+Goa,Barley,2021,793,16,79,Clay,77,46,29,764,3.19
+Goa,Barley,2022,1254,15,84,Alluvial,94,32,47,3689,4.86
+Goa,Barley,2023,1159,17,36,Alluvial,84,44,34,1139,4.15
+Goa,Barley,2024,1419,18,73,Black,82,37,21,4808,4.25
+Goa,Millets,2015,784,18,83,Sandy,60,48,31,2406,3.48
+Goa,Millets,2016,380,30,42,Red,81,60,36,3395,2.43
+Goa,Millets,2017,478,35,76,Red,41,57,32,1919,2.58
+Goa,Millets,2018,1113,20,64,Red,61,30,48,2198,3.83
+Goa,Millets,2019,1500,21,90,Clay,91,41,39,742,4.4
+Goa,Millets,2020,1815,19,50,Loamy,51,47,56,4124,4.93
+Goa,Millets,2021,1388,25,78,Clay,61,51,23,4256,4.31
+Goa,Millets,2022,1308,25,41,Red,41,45,23,2242,3.75
+Goa,Millets,2023,511,30,69,Clay,75,54,52,4698,3.15
+Goa,Millets,2024,1560,28,45,Loamy,48,31,22,4416,4.75
+Goa,Cotton,2015,689,22,79,Red,44,36,59,976,3.39
+Goa,Cotton,2016,861,27,89,Sandy,41,32,36,3500,3.57
+Goa,Cotton,2017,1515,16,91,Loamy,64,47,37,2272,4.93
+Goa,Cotton,2018,482,33,38,Sandy,100,46,57,1583,3.3
+Goa,Cotton,2019,1204,21,77,Laterite,43,43,50,4656,3.55
+Goa,Cotton,2020,1928,33,60,Black,78,24,30,2548,5.77
+Goa,Cotton,2021,1374,29,57,Alluvial,66,35,34,1188,4.6
+Goa,Cotton,2022,693,28,32,Loamy,86,60,36,1080,3.81
+Goa,Cotton,2023,1073,22,65,Alluvial,88,34,60,662,3.81
+Goa,Cotton,2024,713,30,54,Clay,47,35,35,2322,3.25
+Goa,Sugarcane,2015,1136,20,34,Sandy,41,32,29,4459,3.86
+Goa,Sugarcane,2016,504,28,63,Clay,44,44,54,4127,2.91
+Goa,Sugarcane,2017,445,20,77,Red,73,27,31,4940,3.16
+Goa,Sugarcane,2018,1739,19,63,Sandy,98,37,58,786,4.76
+Goa,Sugarcane,2019,1521,30,67,Sandy,46,58,48,4274,4.59
+Goa,Sugarcane,2020,1618,30,32,Laterite,85,51,51,4357,4.44
+Goa,Sugarcane,2021,1543,21,66,Loamy,96,27,45,2841,4.78
+Goa,Sugarcane,2022,1043,25,93,Red,79,26,59,4218,4.16
+Goa,Sugarcane,2023,1230,17,75,Black,49,40,25,1684,4.31
+Goa,Sugarcane,2024,436,34,88,Alluvial,96,37,54,993,3.19
+Goa,Pulses,2015,848,27,56,Red,84,22,49,1090,3.24
+Goa,Pulses,2016,1257,18,74,Sandy,61,41,33,2707,3.76
+Goa,Pulses,2017,1000,15,58,Laterite,69,42,50,4175,3.73
+Goa,Pulses,2018,1851,19,92,Black,62,60,42,4516,4.71
+Goa,Pulses,2019,854,18,91,Alluvial,49,24,26,3178,3.15
+Goa,Pulses,2020,1171,28,35,Alluvial,93,24,24,2128,4.29
+Goa,Pulses,2021,726,21,41,Sandy,53,50,34,3387,3.57
+Goa,Pulses,2022,1184,20,60,Red,87,49,42,2949,3.91
+Goa,Pulses,2023,1190,24,71,Black,41,49,47,4534,4.31
+Goa,Pulses,2024,1919,34,93,Black,86,20,21,788,5.88
+Goa,Groundnut,2015,1743,25,43,Sandy,86,23,30,2740,4.65
+Goa,Groundnut,2016,772,32,36,Loamy,47,60,25,2604,2.73
+Goa,Groundnut,2017,513,21,58,Red,85,36,45,4986,3.44
+Goa,Groundnut,2018,632,24,38,Red,86,45,59,708,3.62
+Goa,Groundnut,2019,812,34,44,Red,90,53,46,2559,3.41
+Goa,Groundnut,2020,810,23,79,Laterite,46,34,55,1351,3.18
+Goa,Groundnut,2021,728,18,50,Red,41,34,55,1275,2.67
+Goa,Groundnut,2022,1095,22,37,Black,98,34,56,2282,3.68
+Goa,Groundnut,2023,924,20,42,Clay,41,45,40,1986,3.17
+Goa,Groundnut,2024,686,30,37,Black,59,55,53,2282,3.21
+Goa,Soybean,2015,1197,31,84,Clay,92,46,28,4087,4.73
+Goa,Soybean,2016,1277,28,42,Alluvial,42,22,46,3828,4.4
+Goa,Soybean,2017,579,25,60,Laterite,59,41,34,1233,2.82
+Goa,Soybean,2018,1253,24,62,Loamy,92,42,33,2286,3.89
+Goa,Soybean,2019,1184,30,43,Clay,80,29,24,2522,4.18
+Goa,Soybean,2020,616,26,75,Black,86,54,55,3411,2.75
+Goa,Soybean,2021,1177,33,51,Alluvial,99,26,20,1862,3.94
+Goa,Soybean,2022,988,16,92,Red,68,27,49,2972,3.56
+Goa,Soybean,2023,1823,23,80,Clay,58,57,32,807,4.86
+Goa,Soybean,2024,1703,25,34,Laterite,88,29,44,1298,5.23
+Goa,Tea,2015,613,27,75,Alluvial,48,50,25,4778,2.44
+Goa,Tea,2016,1968,25,58,Clay,69,28,39,1751,4.93
+Goa,Tea,2017,1844,30,55,Sandy,51,51,38,2911,5.22
+Goa,Tea,2018,1843,15,88,Laterite,60,42,53,4200,5.33
+Goa,Tea,2019,1302,30,42,Laterite,100,28,25,2157,4.25
+Goa,Tea,2020,1163,34,45,Black,42,59,59,1866,4.17
+Goa,Tea,2021,659,35,82,Clay,43,55,35,2399,2.47
+Goa,Tea,2022,453,19,88,Laterite,72,24,48,4875,2.66
+Goa,Tea,2023,1262,23,60,Black,98,44,31,1314,3.99
+Goa,Tea,2024,1504,28,74,Alluvial,64,44,43,4620,4.6
+Goa,Coffee,2015,1251,26,92,Red,81,57,31,4030,4.04
+Goa,Coffee,2016,1418,18,83,Black,90,35,37,3787,4.45
+Goa,Coffee,2017,1517,25,35,Black,74,54,28,4902,4.48
+Goa,Coffee,2018,1928,30,56,Alluvial,40,21,25,1997,4.89
+Goa,Coffee,2019,1647,21,60,Laterite,57,20,54,1252,5.11
+Goa,Coffee,2020,772,23,55,Black,56,21,27,606,3.19
+Goa,Coffee,2021,1845,15,67,Alluvial,45,44,38,3464,4.74
+Goa,Coffee,2022,856,31,88,Laterite,43,25,32,584,3.08
+Goa,Coffee,2023,446,25,93,Black,95,57,31,1538,3.36
+Goa,Coffee,2024,1518,28,37,Sandy,70,45,20,4569,4.21
+Gujarat,Rice,2015,782,15,72,Sandy,63,45,36,4263,2.95
+Gujarat,Rice,2016,506,25,78,Sandy,74,41,38,1405,2.51
+Gujarat,Rice,2017,1771,23,31,Alluvial,68,20,50,3179,5.02
+Gujarat,Rice,2018,759,22,44,Red,70,37,41,2941,3.24
+Gujarat,Rice,2019,1272,19,55,Black,54,55,34,3437,4.28
+Gujarat,Rice,2020,1539,25,37,Laterite,45,46,24,4263,4.31
+Gujarat,Rice,2021,1276,17,78,Black,63,38,42,4621,3.99
+Gujarat,Rice,2022,1437,21,77,Sandy,81,45,22,2490,4.44
+Gujarat,Rice,2023,344,23,73,Alluvial,66,26,44,3684,2.18
+Gujarat,Rice,2024,300,23,54,Sandy,52,52,46,1790,2.88
+Gujarat,Wheat,2015,1809,25,71,Loamy,71,47,26,2729,5.31
+Gujarat,Wheat,2016,1159,34,38,Black,58,53,57,2722,3.96
+Gujarat,Wheat,2017,1972,33,72,Clay,57,59,29,2070,4.9
+Gujarat,Wheat,2018,398,17,86,Alluvial,68,56,31,4036,2.55
+Gujarat,Wheat,2019,1979,24,50,Sandy,42,56,55,1360,4.75
+Gujarat,Wheat,2020,481,34,31,Laterite,64,23,59,3730,3.02
+Gujarat,Wheat,2021,674,18,43,Alluvial,80,51,36,3893,3.5
+Gujarat,Wheat,2022,1872,26,73,Alluvial,54,60,52,3171,4.84
+Gujarat,Wheat,2023,1284,21,56,Alluvial,61,37,52,2824,4.03
+Gujarat,Wheat,2024,645,25,65,Loamy,43,45,52,2151,2.78
+Gujarat,Maize,2015,1753,20,39,Clay,48,47,24,3452,5.05
+Gujarat,Maize,2016,1469,27,93,Laterite,81,49,37,3237,5.04
+Gujarat,Maize,2017,643,31,30,Alluvial,76,42,39,1815,2.95
+Gujarat,Maize,2018,1482,21,35,Laterite,68,41,21,1945,4.99
+Gujarat,Maize,2019,1385,34,73,Clay,53,49,58,1454,4.24
+Gujarat,Maize,2020,1981,28,82,Alluvial,65,20,25,3956,4.87
+Gujarat,Maize,2021,1569,21,50,Red,43,33,45,4505,4.56
+Gujarat,Maize,2022,664,17,42,Loamy,88,51,60,4524,3.78
+Gujarat,Maize,2023,835,34,51,Red,98,26,31,3034,3.99
+Gujarat,Maize,2024,1516,35,73,Clay,65,40,53,2294,4.66
+Gujarat,Barley,2015,1881,27,42,Alluvial,93,21,43,1877,5.05
+Gujarat,Barley,2016,1040,15,63,Red,51,20,35,4339,3.49
+Gujarat,Barley,2017,336,15,72,Alluvial,79,53,54,1234,3.21
+Gujarat,Barley,2018,1963,18,85,Loamy,45,25,38,4844,5.55
+Gujarat,Barley,2019,1069,23,73,Black,52,49,29,4737,3.81
+Gujarat,Barley,2020,1919,16,83,Clay,85,55,35,1995,5.27
+Gujarat,Barley,2021,1217,24,67,Clay,60,35,60,840,3.68
+Gujarat,Barley,2022,1589,16,73,Loamy,77,48,51,2304,4.68
+Gujarat,Barley,2023,532,24,42,Sandy,77,52,48,2805,2.56
+Gujarat,Barley,2024,660,18,60,Red,79,52,49,4119,3.35
+Gujarat,Millets,2015,1401,17,58,Loamy,45,47,49,899,4.31
+Gujarat,Millets,2016,1140,21,52,Alluvial,93,50,56,1503,3.78
+Gujarat,Millets,2017,1529,20,41,Loamy,41,57,24,1699,4.29
+Gujarat,Millets,2018,404,24,81,Alluvial,71,43,60,1913,2.32
+Gujarat,Millets,2019,1999,32,54,Loamy,97,50,57,4674,5.86
+Gujarat,Millets,2020,774,25,74,Red,93,30,25,1409,3.12
+Gujarat,Millets,2021,1236,33,68,Clay,87,59,34,948,4.41
+Gujarat,Millets,2022,410,35,82,Loamy,44,50,39,3628,2.7
+Gujarat,Millets,2023,1612,35,31,Clay,81,48,39,3467,4.76
+Gujarat,Millets,2024,584,32,45,Loamy,52,33,36,1228,3.3
+Gujarat,Cotton,2015,1183,35,90,Loamy,71,28,42,4266,4.29
+Gujarat,Cotton,2016,426,32,75,Laterite,61,31,43,3623,2.77
+Gujarat,Cotton,2017,1052,20,78,Black,59,49,24,2577,4.23
+Gujarat,Cotton,2018,1900,19,85,Clay,70,44,50,2095,5.65
+Gujarat,Cotton,2019,1109,16,57,Red,64,54,23,2794,3.88
+Gujarat,Cotton,2020,361,15,71,Clay,83,47,41,1278,2.36
+Gujarat,Cotton,2021,415,33,34,Laterite,79,41,28,3258,2.86
+Gujarat,Cotton,2022,478,33,45,Black,44,51,45,2365,2.96
+Gujarat,Cotton,2023,1647,16,55,Black,78,43,22,4707,4.49
+Gujarat,Cotton,2024,1699,29,81,Black,67,28,51,1757,4.79
+Gujarat,Sugarcane,2015,1825,30,82,Laterite,73,57,33,3824,5.6
+Gujarat,Sugarcane,2016,1421,33,76,Red,91,47,34,1030,4.62
+Gujarat,Sugarcane,2017,1262,32,62,Loamy,64,45,47,2722,3.76
+Gujarat,Sugarcane,2018,1220,31,45,Laterite,89,52,26,3600,4.5
+Gujarat,Sugarcane,2019,884,18,89,Laterite,57,36,51,683,3.81
+Gujarat,Sugarcane,2020,350,16,86,Red,93,59,21,4270,3.28
+Gujarat,Sugarcane,2021,811,28,39,Black,74,57,60,684,3.94
+Gujarat,Sugarcane,2022,753,26,38,Laterite,91,37,28,1857,3.79
+Gujarat,Sugarcane,2023,1657,15,43,Loamy,49,54,39,3086,4.21
+Gujarat,Sugarcane,2024,1787,33,39,Clay,51,45,32,2044,5.19
+Gujarat,Pulses,2015,1503,28,58,Alluvial,81,39,20,600,4.56
+Gujarat,Pulses,2016,1907,22,40,Loamy,63,51,49,3926,5.3
+Gujarat,Pulses,2017,538,30,80,Red,41,39,43,1378,2.43
+Gujarat,Pulses,2018,850,18,32,Sandy,94,59,33,4426,4.02
+Gujarat,Pulses,2019,1861,24,93,Black,66,29,27,2096,4.85
+Gujarat,Pulses,2020,1658,19,51,Sandy,62,36,25,3884,5.19
+Gujarat,Pulses,2021,773,33,33,Laterite,88,46,44,2114,3.55
+Gujarat,Pulses,2022,1210,31,42,Laterite,48,48,32,3345,3.46
+Gujarat,Pulses,2023,1971,17,60,Black,44,39,26,3445,5.49
+Gujarat,Pulses,2024,1603,28,36,Black,71,60,60,2638,4.36
+Gujarat,Groundnut,2015,1086,30,37,Clay,79,57,31,4405,4.18
+Gujarat,Groundnut,2016,828,16,69,Laterite,47,25,38,2480,3.7
+Gujarat,Groundnut,2017,1390,15,81,Alluvial,86,43,32,554,4.8
+Gujarat,Groundnut,2018,1747,24,50,Black,74,23,21,1883,5.51
+Gujarat,Groundnut,2019,858,18,48,Clay,88,57,49,1958,3.33
+Gujarat,Groundnut,2020,1914,15,69,Clay,71,45,24,4535,5.68
+Gujarat,Groundnut,2021,1182,15,46,Laterite,88,32,50,1098,3.93
+Gujarat,Groundnut,2022,1011,24,32,Alluvial,80,20,51,4993,4.2
+Gujarat,Groundnut,2023,1380,33,52,Laterite,82,50,39,3402,4.34
+Gujarat,Groundnut,2024,1343,29,44,Alluvial,81,30,30,926,4.63
+Gujarat,Soybean,2015,435,26,30,Black,96,34,45,3783,3.11
+Gujarat,Soybean,2016,593,29,44,Clay,91,53,42,2463,2.96
+Gujarat,Soybean,2017,1079,20,88,Alluvial,92,31,39,1801,4.33
+Gujarat,Soybean,2018,486,26,82,Laterite,72,37,40,4414,2.62
+Gujarat,Soybean,2019,518,31,30,Sandy,72,50,59,4581,2.87
+Gujarat,Soybean,2020,1536,19,30,Black,68,54,49,2772,4.28
+Gujarat,Soybean,2021,903,18,82,Black,73,35,38,754,3.29
+Gujarat,Soybean,2022,1049,27,68,Alluvial,50,38,48,4865,3.45
+Gujarat,Soybean,2023,716,16,63,Black,90,27,22,909,3.79
+Gujarat,Soybean,2024,1436,20,55,Clay,88,56,20,2643,4.49
+Gujarat,Tea,2015,644,22,46,Clay,81,52,29,1206,3.3
+Gujarat,Tea,2016,810,35,93,Laterite,52,60,20,4827,3.2
+Gujarat,Tea,2017,912,30,89,Loamy,66,38,20,3295,3.07
+Gujarat,Tea,2018,458,16,41,Alluvial,99,51,20,4991,3.51
+Gujarat,Tea,2019,1718,15,42,Clay,60,49,26,535,5.22
+Gujarat,Tea,2020,582,30,75,Sandy,56,32,23,802,2.95
+Gujarat,Tea,2021,551,15,87,Loamy,67,20,41,2390,3.23
+Gujarat,Tea,2022,562,35,31,Clay,69,43,37,1366,3.06
+Gujarat,Tea,2023,1269,16,68,Loamy,79,57,58,3596,4.4
+Gujarat,Tea,2024,1239,29,64,Alluvial,100,53,31,1120,4.68
+Gujarat,Coffee,2015,1259,21,37,Red,40,54,26,1291,3.91
+Gujarat,Coffee,2016,1676,17,32,Loamy,77,57,25,3771,5.39
+Gujarat,Coffee,2017,440,30,42,Red,59,42,37,4723,2.29
+Gujarat,Coffee,2018,1312,31,72,Red,43,47,37,2770,3.91
+Gujarat,Coffee,2019,1206,19,87,Clay,86,41,54,4774,4.01
+Gujarat,Coffee,2020,675,17,93,Alluvial,55,58,51,2840,2.61
+Gujarat,Coffee,2021,481,19,37,Sandy,67,25,36,2512,2.84
+Gujarat,Coffee,2022,676,15,95,Laterite,42,32,26,554,3.26
+Gujarat,Coffee,2023,574,31,67,Alluvial,43,25,52,3818,2.54
+Gujarat,Coffee,2024,1201,20,83,Loamy,68,46,55,620,4.16
+Haryana,Rice,2015,580,26,68,Sandy,92,28,55,4873,2.98
+Haryana,Rice,2016,1547,33,33,Laterite,57,23,36,4918,4.42
+Haryana,Rice,2017,1118,24,81,Loamy,55,56,22,3865,3.86
+Haryana,Rice,2018,1476,17,43,Laterite,70,43,20,2026,4.89
+Haryana,Rice,2019,1385,19,58,Red,92,29,44,2718,4.39
+Haryana,Rice,2020,1481,16,43,Loamy,50,41,57,4893,4.71
+Haryana,Rice,2021,1992,29,62,Loamy,82,48,26,585,5.91
+Haryana,Rice,2022,1687,33,47,Alluvial,89,49,29,3368,5.08
+Haryana,Rice,2023,1492,35,31,Red,56,25,33,3963,4.92
+Haryana,Rice,2024,634,16,64,Laterite,48,42,37,4656,2.5
+Haryana,Wheat,2015,448,18,78,Sandy,86,36,42,4062,2.69
+Haryana,Wheat,2016,1049,34,35,Black,92,38,40,783,3.84
+Haryana,Wheat,2017,690,25,38,Alluvial,41,41,39,2980,3.22
+Haryana,Wheat,2018,1720,25,37,Loamy,72,27,30,3214,4.86
+Haryana,Wheat,2019,1495,35,70,Laterite,65,43,41,2201,4.16
+Haryana,Wheat,2020,747,22,76,Sandy,93,40,47,2089,3.85
+Haryana,Wheat,2021,533,19,95,Loamy,78,54,53,3753,3.28
+Haryana,Wheat,2022,520,21,72,Laterite,62,48,49,1718,2.68
+Haryana,Wheat,2023,378,21,34,Clay,42,29,37,1285,2.8
+Haryana,Wheat,2024,326,24,40,Laterite,98,22,35,3610,3.14
+Haryana,Maize,2015,414,22,45,Sandy,100,47,33,1587,2.95
+Haryana,Maize,2016,1673,16,43,Clay,51,58,60,4801,4.8
+Haryana,Maize,2017,988,20,80,Loamy,46,21,59,2438,3.9
+Haryana,Maize,2018,1718,24,44,Clay,98,34,49,1735,5.14
+Haryana,Maize,2019,1234,15,33,Alluvial,40,57,57,2874,4.02
+Haryana,Maize,2020,661,35,77,Sandy,60,28,53,1397,3.41
+Haryana,Maize,2021,686,28,73,Alluvial,62,58,37,2480,2.74
+Haryana,Maize,2022,1329,23,46,Clay,48,54,35,911,4.46
+Haryana,Maize,2023,1221,24,39,Alluvial,100,39,48,1850,4.22
+Haryana,Maize,2024,395,26,42,Loamy,77,49,51,3759,2.62
+Haryana,Barley,2015,1109,27,57,Loamy,40,49,26,2002,4.08
+Haryana,Barley,2016,1415,20,89,Laterite,90,53,40,2846,4.38
+Haryana,Barley,2017,1100,23,82,Alluvial,75,52,51,2776,3.59
+Haryana,Barley,2018,1833,35,72,Sandy,76,38,44,3893,5.57
+Haryana,Barley,2019,892,27,46,Red,94,42,55,1425,3.34
+Haryana,Barley,2020,452,15,51,Black,68,56,49,2612,3.3
+Haryana,Barley,2021,1312,15,35,Laterite,56,23,46,2038,4.22
+Haryana,Barley,2022,1363,33,31,Clay,57,60,29,2006,3.99
+Haryana,Barley,2023,810,29,82,Red,81,39,47,3276,3.57
+Haryana,Barley,2024,828,35,87,Laterite,57,26,35,1103,3.03
+Haryana,Millets,2015,592,16,47,Sandy,47,34,55,1502,2.51
+Haryana,Millets,2016,1692,30,79,Black,66,34,22,3849,5.31
+Haryana,Millets,2017,1788,23,65,Black,63,23,46,3124,4.77
+Haryana,Millets,2018,1185,21,41,Clay,72,20,37,1602,3.91
+Haryana,Millets,2019,1720,16,44,Laterite,54,25,22,2980,4.88
+Haryana,Millets,2020,1871,17,62,Black,45,46,44,2874,4.57
+Haryana,Millets,2021,1708,24,66,Black,81,43,24,1835,5.07
+Haryana,Millets,2022,1060,18,36,Loamy,77,57,58,3309,3.76
+Haryana,Millets,2023,920,31,65,Loamy,48,39,23,2399,3.74
+Haryana,Millets,2024,1589,17,57,Laterite,48,47,59,1285,4.84
+Haryana,Cotton,2015,1548,16,31,Sandy,56,45,22,1295,5.02
+Haryana,Cotton,2016,1798,24,44,Sandy,73,52,31,1755,4.66
+Haryana,Cotton,2017,1668,19,83,Laterite,67,42,20,1325,4.67
+Haryana,Cotton,2018,1751,30,62,Red,68,44,37,3923,5.11
+Haryana,Cotton,2019,327,26,44,Sandy,51,25,39,2564,2.9
+Haryana,Cotton,2020,1051,26,65,Sandy,95,21,28,3066,3.94
+Haryana,Cotton,2021,1674,32,95,Red,100,59,39,1627,5.16
+Haryana,Cotton,2022,1363,18,75,Sandy,48,47,46,4777,3.95
+Haryana,Cotton,2023,717,16,85,Alluvial,51,34,27,2054,3.46
+Haryana,Cotton,2024,1090,27,87,Loamy,87,36,57,4101,4.34
+Haryana,Sugarcane,2015,1285,28,44,Laterite,48,28,28,4134,4.28
+Haryana,Sugarcane,2016,831,33,57,Loamy,76,54,38,2631,3.1
+Haryana,Sugarcane,2017,356,20,37,Alluvial,83,41,36,3683,2.85
+Haryana,Sugarcane,2018,1068,15,52,Red,42,37,60,2694,3.3
+Haryana,Sugarcane,2019,1083,18,58,Black,68,58,25,4929,3.65
+Haryana,Sugarcane,2020,752,34,55,Loamy,48,50,41,4470,3.31
+Haryana,Sugarcane,2021,1635,22,91,Clay,77,54,34,3439,4.95
+Haryana,Sugarcane,2022,515,33,76,Sandy,76,26,56,3029,3.19
+Haryana,Sugarcane,2023,1945,27,75,Sandy,96,57,25,4359,5.9
+Haryana,Sugarcane,2024,373,34,69,Black,73,55,23,4737,2.93
+Haryana,Pulses,2015,684,33,56,Red,69,34,20,4279,2.79
+Haryana,Pulses,2016,756,22,57,Loamy,93,32,29,1112,3.52
+Haryana,Pulses,2017,1679,28,40,Loamy,47,54,24,1325,4.67
+Haryana,Pulses,2018,845,26,61,Clay,73,44,34,4404,3.53
+Haryana,Pulses,2019,1815,32,35,Loamy,48,52,21,673,5.18
+Haryana,Pulses,2020,1230,33,69,Alluvial,50,58,50,1451,3.67
+Haryana,Pulses,2021,1053,32,44,Alluvial,94,50,52,2006,4.01
+Haryana,Pulses,2022,1534,29,33,Alluvial,52,33,45,1712,3.99
+Haryana,Pulses,2023,1090,25,68,Clay,57,30,43,4748,4.14
+Haryana,Pulses,2024,1232,25,35,Laterite,58,21,39,3118,4.51
+Haryana,Groundnut,2015,1895,23,60,Clay,49,60,55,4953,5.09
+Haryana,Groundnut,2016,1958,35,94,Sandy,69,30,37,1246,5.75
+Haryana,Groundnut,2017,1994,35,59,Black,97,47,21,3731,5.63
+Haryana,Groundnut,2018,1997,33,39,Alluvial,90,43,21,2547,5.67
+Haryana,Groundnut,2019,1798,20,30,Clay,68,27,57,4813,5.03
+Haryana,Groundnut,2020,1165,24,36,Laterite,94,54,40,755,4.49
+Haryana,Groundnut,2021,520,35,66,Alluvial,100,45,56,2754,3.07
+Haryana,Groundnut,2022,875,18,40,Loamy,70,56,44,1899,3.77
+Haryana,Groundnut,2023,1733,30,61,Laterite,91,40,52,2866,5.11
+Haryana,Groundnut,2024,1254,29,60,Sandy,94,29,54,893,4.49
+Haryana,Soybean,2015,589,35,47,Loamy,87,46,23,1572,2.93
+Haryana,Soybean,2016,1927,25,47,Red,82,60,39,3131,5.39
+Haryana,Soybean,2017,429,34,86,Loamy,59,32,25,1130,2.26
+Haryana,Soybean,2018,668,21,81,Sandy,44,48,48,4793,3.29
+Haryana,Soybean,2019,535,23,50,Sandy,97,30,53,1812,2.99
+Haryana,Soybean,2020,1383,29,62,Red,45,55,58,644,3.7
+Haryana,Soybean,2021,1083,20,36,Sandy,69,27,48,3712,3.95
+Haryana,Soybean,2022,1868,16,59,Sandy,96,25,38,1178,5.78
+Haryana,Soybean,2023,1536,16,67,Laterite,89,47,29,1040,4.68
+Haryana,Soybean,2024,947,15,93,Alluvial,89,44,39,1989,3.84
+Haryana,Tea,2015,1711,15,86,Alluvial,68,33,51,1745,5.0
+Haryana,Tea,2016,435,17,57,Loamy,88,52,24,688,2.8
+Haryana,Tea,2017,1923,30,95,Red,53,56,48,1293,4.94
+Haryana,Tea,2018,1872,29,63,Black,67,50,26,3580,5.21
+Haryana,Tea,2019,1708,20,85,Alluvial,83,60,55,1209,4.89
+Haryana,Tea,2020,1087,30,45,Clay,97,20,39,4151,3.84
+Haryana,Tea,2021,482,28,74,Loamy,49,25,56,1481,2.55
+Haryana,Tea,2022,1912,16,92,Laterite,94,52,31,1982,5.82
+Haryana,Tea,2023,1817,35,69,Red,83,30,40,3610,5.21
+Haryana,Tea,2024,1105,29,61,Sandy,97,56,48,4754,4.53
+Haryana,Coffee,2015,1344,21,88,Black,80,35,32,2915,4.84
+Haryana,Coffee,2016,571,31,70,Alluvial,59,36,60,3368,2.7
+Haryana,Coffee,2017,1368,17,74,Clay,94,60,25,3834,4.25
+Haryana,Coffee,2018,641,26,34,Sandy,57,29,38,3963,2.72
+Haryana,Coffee,2019,1566,17,56,Loamy,85,59,46,581,4.5
+Haryana,Coffee,2020,497,25,66,Red,65,24,31,3674,2.48
+Haryana,Coffee,2021,822,31,51,Red,93,55,55,1633,3.44
+Haryana,Coffee,2022,513,21,45,Clay,86,37,56,1585,3.13
+Haryana,Coffee,2023,658,24,75,Loamy,44,59,35,1925,2.9
+Haryana,Coffee,2024,1733,26,81,Clay,46,20,22,2052,4.31
+Himachal Pradesh,Rice,2015,984,17,87,Laterite,95,25,26,3506,3.8
+Himachal Pradesh,Rice,2016,1186,20,48,Clay,64,22,60,3007,3.93
+Himachal Pradesh,Rice,2017,1431,25,35,Alluvial,100,52,51,4314,4.61
+Himachal Pradesh,Rice,2018,1777,20,61,Laterite,41,29,45,3532,4.8
+Himachal Pradesh,Rice,2019,1863,30,36,Loamy,56,33,49,1472,5.49
+Himachal Pradesh,Rice,2020,748,24,93,Sandy,75,22,26,2474,3.71
+Himachal Pradesh,Rice,2021,1796,23,50,Red,60,20,54,3167,5.33
+Himachal Pradesh,Rice,2022,768,21,34,Red,41,44,47,1104,3.25
+Himachal Pradesh,Rice,2023,688,22,62,Black,45,41,33,1251,3.45
+Himachal Pradesh,Rice,2024,759,35,90,Black,69,42,42,4252,2.86
+Himachal Pradesh,Wheat,2015,778,18,69,Loamy,48,24,20,2904,2.7
+Himachal Pradesh,Wheat,2016,1574,30,75,Loamy,95,48,55,4118,4.55
+Himachal Pradesh,Wheat,2017,1423,18,67,Red,91,57,46,4366,5.02
+Himachal Pradesh,Wheat,2018,351,28,94,Laterite,62,28,54,1570,2.36
+Himachal Pradesh,Wheat,2019,1355,18,36,Black,73,47,21,3372,4.32
+Himachal Pradesh,Wheat,2020,1518,28,32,Red,43,40,49,4323,4.05
+Himachal Pradesh,Wheat,2021,1499,16,46,Black,86,25,32,2288,4.37
+Himachal Pradesh,Wheat,2022,947,25,31,Loamy,51,29,50,3594,3.74
+Himachal Pradesh,Wheat,2023,1511,24,57,Laterite,74,39,30,637,5.05
+Himachal Pradesh,Wheat,2024,582,32,42,Red,71,58,45,1464,2.79
+Himachal Pradesh,Maize,2015,1336,23,64,Sandy,94,33,33,3827,4.41
+Himachal Pradesh,Maize,2016,1705,29,43,Alluvial,85,23,29,740,5.14
+Himachal Pradesh,Maize,2017,853,31,80,Black,63,55,47,4138,3.6
+Himachal Pradesh,Maize,2018,534,16,42,Clay,75,60,46,3021,2.58
+Himachal Pradesh,Maize,2019,1922,15,75,Sandy,75,23,29,2136,5.72
+Himachal Pradesh,Maize,2020,1962,20,43,Red,50,33,37,1001,4.81
+Himachal Pradesh,Maize,2021,1431,31,74,Clay,87,42,57,1450,4.9
+Himachal Pradesh,Maize,2022,684,16,49,Loamy,61,26,48,1452,2.7
+Himachal Pradesh,Maize,2023,1938,28,82,Alluvial,58,52,46,4750,5.24
+Himachal Pradesh,Maize,2024,374,25,31,Laterite,99,38,51,2494,2.56
+Himachal Pradesh,Barley,2015,1856,28,84,Sandy,44,20,55,1118,5.08
+Himachal Pradesh,Barley,2016,554,29,57,Loamy,61,50,42,3083,2.77
+Himachal Pradesh,Barley,2017,1785,22,69,Sandy,80,35,36,4682,4.71
+Himachal Pradesh,Barley,2018,1895,33,55,Black,93,44,37,3274,5.46
+Himachal Pradesh,Barley,2019,1260,20,40,Laterite,62,42,40,4827,4.34
+Himachal Pradesh,Barley,2020,1480,22,64,Laterite,50,27,21,1457,4.1
+Himachal Pradesh,Barley,2021,961,18,71,Loamy,60,50,40,4506,3.97
+Himachal Pradesh,Barley,2022,1433,19,63,Red,92,32,39,4051,4.31
+Himachal Pradesh,Barley,2023,1489,31,83,Sandy,80,42,42,3116,4.38
+Himachal Pradesh,Barley,2024,1071,20,83,Sandy,90,51,50,4509,4.49
+Himachal Pradesh,Millets,2015,614,25,40,Clay,77,54,33,2897,3.65
+Himachal Pradesh,Millets,2016,1408,32,74,Black,58,42,43,1377,4.02
+Himachal Pradesh,Millets,2017,770,26,39,Loamy,80,41,48,4493,3.9
+Himachal Pradesh,Millets,2018,1156,30,73,Clay,65,49,32,2246,4.38
+Himachal Pradesh,Millets,2019,657,35,68,Alluvial,100,40,42,897,3.67
+Himachal Pradesh,Millets,2020,1173,21,56,Black,89,48,29,4382,4.62
+Himachal Pradesh,Millets,2021,1499,32,92,Alluvial,40,49,50,3885,3.99
+Himachal Pradesh,Millets,2022,1252,15,52,Clay,75,41,60,1428,3.88
+Himachal Pradesh,Millets,2023,1473,26,44,Red,73,21,28,4709,4.48
+Himachal Pradesh,Millets,2024,947,15,93,Sandy,69,43,46,2844,3.45
+Himachal Pradesh,Cotton,2015,757,19,72,Alluvial,94,32,49,4404,3.49
+Himachal Pradesh,Cotton,2016,1299,33,76,Laterite,47,21,39,4148,4.41
+Himachal Pradesh,Cotton,2017,627,26,45,Laterite,54,57,37,2014,2.98
+Himachal Pradesh,Cotton,2018,1750,22,75,Loamy,44,47,23,2900,4.93
+Himachal Pradesh,Cotton,2019,1798,15,72,Loamy,100,30,31,3370,5.83
+Himachal Pradesh,Cotton,2020,1424,17,72,Red,97,59,53,2264,4.83
+Himachal Pradesh,Cotton,2021,1272,27,76,Red,44,55,39,3445,4.02
+Himachal Pradesh,Cotton,2022,638,16,81,Laterite,76,37,41,1092,2.85
+Himachal Pradesh,Cotton,2023,519,31,58,Sandy,70,32,33,2550,2.87
+Himachal Pradesh,Cotton,2024,1424,35,90,Laterite,62,25,25,664,4.11
+Himachal Pradesh,Sugarcane,2015,342,33,49,Alluvial,48,39,41,3557,2.62
+Himachal Pradesh,Sugarcane,2016,1106,18,64,Black,44,31,31,3104,4.09
+Himachal Pradesh,Sugarcane,2017,1254,22,49,Loamy,61,22,27,4212,4.36
+Himachal Pradesh,Sugarcane,2018,1724,22,56,Red,44,58,52,1615,4.84
+Himachal Pradesh,Sugarcane,2019,1829,35,49,Black,65,33,29,1532,4.71
+Himachal Pradesh,Sugarcane,2020,397,31,39,Clay,42,50,59,3180,2.84
+Himachal Pradesh,Sugarcane,2021,1067,32,76,Alluvial,65,29,25,2192,3.89
+Himachal Pradesh,Sugarcane,2022,1649,28,35,Sandy,83,32,40,676,4.99
+Himachal Pradesh,Sugarcane,2023,762,35,50,Clay,98,48,60,3379,4.02
+Himachal Pradesh,Sugarcane,2024,1191,18,59,Black,66,25,48,2696,4.12
+Himachal Pradesh,Pulses,2015,1607,34,30,Clay,83,42,28,1933,4.51
+Himachal Pradesh,Pulses,2016,1847,28,66,Red,99,24,26,1836,5.11
+Himachal Pradesh,Pulses,2017,858,23,44,Red,65,60,27,3126,3.25
+Himachal Pradesh,Pulses,2018,1930,20,79,Laterite,43,50,35,2296,4.59
+Himachal Pradesh,Pulses,2019,332,21,35,Loamy,82,59,60,2306,2.99
+Himachal Pradesh,Pulses,2020,1665,16,73,Laterite,68,55,45,3354,5.1
+Himachal Pradesh,Pulses,2021,362,27,42,Laterite,92,30,49,2558,3.02
+Himachal Pradesh,Pulses,2022,1506,16,43,Clay,56,43,29,2676,4.69
+Himachal Pradesh,Pulses,2023,593,21,76,Black,73,57,57,3735,2.64
+Himachal Pradesh,Pulses,2024,1140,16,85,Red,53,49,54,2596,4.18
+Himachal Pradesh,Groundnut,2015,1931,16,81,Clay,97,54,42,4521,5.18
+Himachal Pradesh,Groundnut,2016,1828,27,91,Sandy,78,33,21,4351,4.89
+Himachal Pradesh,Groundnut,2017,471,21,44,Black,45,24,60,3664,2.72
+Himachal Pradesh,Groundnut,2018,1154,18,90,Alluvial,93,52,60,4697,4.27
+Himachal Pradesh,Groundnut,2019,1395,32,35,Loamy,46,40,27,2125,4.24
+Himachal Pradesh,Groundnut,2020,574,22,52,Loamy,53,20,48,4908,3.05
+Himachal Pradesh,Groundnut,2021,1766,32,31,Black,64,52,35,3000,4.48
+Himachal Pradesh,Groundnut,2022,324,15,44,Sandy,42,48,25,558,2.4
+Himachal Pradesh,Groundnut,2023,454,22,82,Loamy,83,48,50,4642,2.67
+Himachal Pradesh,Groundnut,2024,303,30,43,Red,63,51,32,1746,2.81
+Himachal Pradesh,Soybean,2015,1558,24,60,Alluvial,61,50,22,2414,4.36
+Himachal Pradesh,Soybean,2016,740,21,90,Sandy,83,44,55,2489,3.37
+Himachal Pradesh,Soybean,2017,1153,28,47,Sandy,49,30,43,2513,3.35
+Himachal Pradesh,Soybean,2018,878,23,66,Black,42,27,33,2249,2.82
+Himachal Pradesh,Soybean,2019,693,16,44,Alluvial,76,41,42,4344,3.37
+Himachal Pradesh,Soybean,2020,396,22,93,Laterite,96,48,23,2414,3.25
+Himachal Pradesh,Soybean,2021,1356,35,72,Sandy,93,59,50,3032,4.78
+Himachal Pradesh,Soybean,2022,1930,22,38,Red,46,40,21,3771,5.52
+Himachal Pradesh,Soybean,2023,1341,29,48,Laterite,62,25,47,3739,3.76
+Himachal Pradesh,Soybean,2024,1488,29,41,Loamy,66,39,21,1866,4.13
+Himachal Pradesh,Tea,2015,1025,28,44,Red,70,34,23,2292,3.52
+Himachal Pradesh,Tea,2016,1595,26,59,Alluvial,51,25,31,1957,4.23
+Himachal Pradesh,Tea,2017,1974,27,39,Alluvial,60,30,38,3112,5.4
+Himachal Pradesh,Tea,2018,795,34,67,Laterite,73,42,37,3424,2.99
+Himachal Pradesh,Tea,2019,1497,21,81,Alluvial,94,51,58,2237,5.02
+Himachal Pradesh,Tea,2020,1504,16,54,Loamy,91,34,28,4922,4.74
+Himachal Pradesh,Tea,2021,1667,17,78,Loamy,78,28,23,2356,4.92
+Himachal Pradesh,Tea,2022,1362,29,41,Laterite,75,27,21,2055,4.34
+Himachal Pradesh,Tea,2023,771,15,48,Laterite,96,52,51,3197,3.63
+Himachal Pradesh,Tea,2024,1071,25,72,Loamy,53,25,30,4770,3.87
+Himachal Pradesh,Coffee,2015,821,27,65,Loamy,68,25,37,3076,3.2
+Himachal Pradesh,Coffee,2016,1643,21,72,Sandy,81,57,51,1386,4.49
+Himachal Pradesh,Coffee,2017,492,21,85,Clay,91,35,30,3910,3.13
+Himachal Pradesh,Coffee,2018,1198,29,58,Laterite,46,55,31,1405,3.65
+Himachal Pradesh,Coffee,2019,1929,29,34,Alluvial,46,29,20,3502,4.79
+Himachal Pradesh,Coffee,2020,1715,24,52,Loamy,82,36,53,639,4.64
+Himachal Pradesh,Coffee,2021,306,35,82,Laterite,90,30,29,2762,2.75
+Himachal Pradesh,Coffee,2022,1865,19,54,Alluvial,60,22,31,1516,4.78
+Himachal Pradesh,Coffee,2023,586,22,58,Laterite,51,32,55,2455,2.82
+Himachal Pradesh,Coffee,2024,301,26,57,Clay,40,37,37,3387,2.76
+Jharkhand,Rice,2015,1469,17,38,Alluvial,51,45,52,3025,4.55
+Jharkhand,Rice,2016,1194,31,69,Red,53,32,57,1899,4.4
+Jharkhand,Rice,2017,1790,23,40,Laterite,55,39,56,3006,5.33
+Jharkhand,Rice,2018,723,30,69,Black,59,44,45,2117,3.54
+Jharkhand,Rice,2019,725,27,95,Clay,74,24,45,891,3.26
+Jharkhand,Rice,2020,603,25,55,Red,61,52,40,2277,3.46
+Jharkhand,Rice,2021,960,24,55,Loamy,49,41,23,3770,3.87
+Jharkhand,Rice,2022,804,30,37,Black,76,47,40,2223,3.03
+Jharkhand,Rice,2023,717,15,91,Alluvial,71,37,35,4222,2.9
+Jharkhand,Rice,2024,767,34,62,Loamy,94,48,45,2794,3.36
+Jharkhand,Wheat,2015,1820,17,74,Loamy,89,54,38,1770,5.07
+Jharkhand,Wheat,2016,1387,34,51,Alluvial,93,36,37,1396,4.8
+Jharkhand,Wheat,2017,361,33,90,Alluvial,42,40,47,2743,2.45
+Jharkhand,Wheat,2018,463,29,61,Loamy,99,51,53,2697,3.36
+Jharkhand,Wheat,2019,1102,30,42,Black,43,45,47,4484,3.68
+Jharkhand,Wheat,2020,657,34,84,Red,61,35,46,3224,2.72
+Jharkhand,Wheat,2021,1616,32,80,Red,61,32,44,3447,4.89
+Jharkhand,Wheat,2022,560,23,79,Clay,86,24,33,2304,2.97
+Jharkhand,Wheat,2023,1220,19,72,Black,96,28,53,1607,3.9
+Jharkhand,Wheat,2024,1850,29,61,Red,93,53,53,2650,5.49
+Jharkhand,Maize,2015,1815,16,43,Red,59,46,30,2594,4.53
+Jharkhand,Maize,2016,1673,25,31,Black,63,29,54,1329,4.98
+Jharkhand,Maize,2017,493,19,66,Clay,48,26,22,1541,2.85
+Jharkhand,Maize,2018,1428,32,32,Alluvial,49,51,50,894,4.03
+Jharkhand,Maize,2019,1936,35,53,Loamy,46,27,25,1979,4.82
+Jharkhand,Maize,2020,1516,16,82,Black,58,21,23,4430,4.99
+Jharkhand,Maize,2021,1898,32,82,Red,58,43,54,4349,4.81
+Jharkhand,Maize,2022,528,24,60,Alluvial,49,44,37,4212,2.88
+Jharkhand,Maize,2023,446,34,82,Clay,64,42,52,2242,3.16
+Jharkhand,Maize,2024,616,21,41,Loamy,55,23,24,4999,3.29
+Jharkhand,Barley,2015,1966,26,68,Sandy,60,24,54,780,5.29
+Jharkhand,Barley,2016,1307,19,35,Alluvial,72,54,47,3351,4.59
+Jharkhand,Barley,2017,940,33,82,Loamy,95,59,53,581,3.72
+Jharkhand,Barley,2018,1248,16,71,Black,78,50,59,2187,4.55
+Jharkhand,Barley,2019,719,30,90,Clay,84,49,20,1149,3.4
+Jharkhand,Barley,2020,345,33,74,Clay,92,52,53,3829,2.38
+Jharkhand,Barley,2021,580,30,50,Black,49,57,58,3558,2.48
+Jharkhand,Barley,2022,1636,24,47,Loamy,90,24,32,1855,5.47
+Jharkhand,Barley,2023,1170,25,54,Alluvial,51,27,35,3633,3.76
+Jharkhand,Barley,2024,1252,33,57,Clay,93,36,29,4125,4.29
+Jharkhand,Millets,2015,926,18,30,Loamy,90,26,26,1617,3.93
+Jharkhand,Millets,2016,813,20,64,Black,65,35,35,2009,3.2
+Jharkhand,Millets,2017,880,22,88,Clay,84,54,50,975,3.89
+Jharkhand,Millets,2018,664,20,87,Black,86,36,44,1545,3.46
+Jharkhand,Millets,2019,1975,22,84,Sandy,51,28,47,3423,5.03
+Jharkhand,Millets,2020,1516,22,94,Loamy,71,48,49,1698,4.99
+Jharkhand,Millets,2021,1462,33,63,Black,44,36,45,4089,4.7
+Jharkhand,Millets,2022,781,15,69,Red,74,36,60,2250,3.74
+Jharkhand,Millets,2023,939,33,40,Sandy,98,39,47,3733,3.38
+Jharkhand,Millets,2024,977,23,49,Red,94,56,28,3739,3.86
+Jharkhand,Cotton,2015,1226,28,71,Clay,82,41,30,3784,4.39
+Jharkhand,Cotton,2016,1697,16,58,Loamy,58,26,25,3705,4.51
+Jharkhand,Cotton,2017,1279,32,77,Clay,77,23,49,1441,4.2
+Jharkhand,Cotton,2018,1052,30,30,Loamy,52,55,38,2737,4.03
+Jharkhand,Cotton,2019,1866,24,92,Red,64,39,32,1352,5.4
+Jharkhand,Cotton,2020,1427,27,94,Loamy,62,31,52,1616,4.41
+Jharkhand,Cotton,2021,1521,21,86,Laterite,73,27,32,3197,4.93
+Jharkhand,Cotton,2022,1698,21,79,Alluvial,48,29,46,2363,5.14
+Jharkhand,Cotton,2023,428,17,95,Alluvial,99,25,31,2396,3.01
+Jharkhand,Cotton,2024,1914,18,61,Alluvial,47,51,51,4976,5.53
+Jharkhand,Sugarcane,2015,1093,34,94,Loamy,50,39,54,1251,3.7
+Jharkhand,Sugarcane,2016,1055,28,37,Sandy,78,53,55,3475,3.5
+Jharkhand,Sugarcane,2017,706,31,58,Clay,96,28,48,4396,3.95
+Jharkhand,Sugarcane,2018,1816,20,85,Sandy,43,44,36,1507,4.82
+Jharkhand,Sugarcane,2019,883,29,62,Red,99,49,39,4953,3.57
+Jharkhand,Sugarcane,2020,666,31,31,Laterite,65,28,51,3530,3.44
+Jharkhand,Sugarcane,2021,534,33,82,Alluvial,66,20,59,3186,2.55
+Jharkhand,Sugarcane,2022,1529,33,87,Alluvial,71,41,30,2665,4.69
+Jharkhand,Sugarcane,2023,1495,16,49,Loamy,81,34,39,2065,4.56
+Jharkhand,Sugarcane,2024,718,34,53,Alluvial,84,33,55,2285,3.2
+Jharkhand,Pulses,2015,339,27,70,Black,77,33,54,2602,3.13
+Jharkhand,Pulses,2016,828,20,49,Red,87,44,38,4564,3.77
+Jharkhand,Pulses,2017,1248,21,80,Laterite,65,49,52,1096,3.79
+Jharkhand,Pulses,2018,1141,33,44,Sandy,55,56,43,3163,3.64
+Jharkhand,Pulses,2019,955,31,95,Laterite,84,22,43,4109,3.93
+Jharkhand,Pulses,2020,685,27,70,Alluvial,87,56,25,1561,3.58
+Jharkhand,Pulses,2021,316,23,85,Alluvial,60,20,32,3564,2.1
+Jharkhand,Pulses,2022,1457,22,69,Red,60,51,27,3130,4.73
+Jharkhand,Pulses,2023,522,28,60,Clay,74,39,48,2711,2.69
+Jharkhand,Pulses,2024,920,24,79,Sandy,54,36,45,4195,3.68
+Jharkhand,Groundnut,2015,499,20,52,Red,98,28,34,3074,3.27
+Jharkhand,Groundnut,2016,1152,32,63,Loamy,46,51,56,549,4.19
+Jharkhand,Groundnut,2017,1032,25,56,Clay,81,22,36,2073,4.13
+Jharkhand,Groundnut,2018,1387,29,81,Clay,62,26,37,4112,4.55
+Jharkhand,Groundnut,2019,1931,22,60,Laterite,50,51,44,4506,5.11
+Jharkhand,Groundnut,2020,1800,17,61,Loamy,74,53,50,2408,5.01
+Jharkhand,Groundnut,2021,645,31,91,Laterite,65,20,47,1833,2.87
+Jharkhand,Groundnut,2022,698,30,58,Clay,47,49,34,4335,3.38
+Jharkhand,Groundnut,2023,1059,20,48,Clay,88,54,55,3071,3.5
+Jharkhand,Groundnut,2024,1238,26,67,Black,64,29,46,3723,3.89
+Jharkhand,Soybean,2015,1423,16,60,Laterite,96,26,59,2026,5.02
+Jharkhand,Soybean,2016,1484,28,45,Black,71,46,48,2564,4.93
+Jharkhand,Soybean,2017,803,24,72,Black,77,51,48,2747,3.61
+Jharkhand,Soybean,2018,589,16,49,Clay,95,32,31,1765,3.53
+Jharkhand,Soybean,2019,519,27,68,Loamy,89,35,40,1487,3.03
+Jharkhand,Soybean,2020,1260,30,51,Laterite,57,49,48,3372,4.34
+Jharkhand,Soybean,2021,1137,28,95,Laterite,87,49,20,4187,4.41
+Jharkhand,Soybean,2022,1057,19,86,Loamy,53,38,55,4173,4.09
+Jharkhand,Soybean,2023,408,24,75,Laterite,86,57,60,1108,2.76
+Jharkhand,Soybean,2024,1413,33,64,Clay,89,46,33,3268,4.55
+Jharkhand,Tea,2015,1247,26,89,Laterite,60,37,22,2134,3.95
+Jharkhand,Tea,2016,692,34,50,Alluvial,83,57,55,2404,2.96
+Jharkhand,Tea,2017,1870,20,69,Laterite,69,41,41,3751,5.46
+Jharkhand,Tea,2018,835,30,36,Sandy,79,22,54,3479,3.28
+Jharkhand,Tea,2019,484,16,84,Laterite,85,28,35,2148,3.37
+Jharkhand,Tea,2020,717,29,80,Red,68,46,31,1546,3.34
+Jharkhand,Tea,2021,513,22,56,Laterite,83,29,45,585,3.06
+Jharkhand,Tea,2022,849,21,72,Sandy,66,27,54,4612,3.11
+Jharkhand,Tea,2023,1557,31,59,Sandy,44,29,43,1802,4.0
+Jharkhand,Tea,2024,354,31,95,Clay,93,56,29,3185,2.9
+Jharkhand,Coffee,2015,580,26,50,Black,46,23,24,752,2.93
+Jharkhand,Coffee,2016,650,27,56,Black,49,47,21,1394,3.38
+Jharkhand,Coffee,2017,1467,21,58,Loamy,45,28,21,4347,4.14
+Jharkhand,Coffee,2018,1992,24,81,Sandy,63,30,52,1161,5.25
+Jharkhand,Coffee,2019,1808,28,74,Loamy,47,21,26,1251,5.03
+Jharkhand,Coffee,2020,1411,16,75,Clay,54,33,55,4713,4.2
+Jharkhand,Coffee,2021,777,21,36,Red,60,54,59,4904,3.13
+Jharkhand,Coffee,2022,690,31,55,Loamy,56,51,31,4268,3.51
+Jharkhand,Coffee,2023,1718,29,38,Loamy,40,29,50,2975,5.17
+Jharkhand,Coffee,2024,1255,23,42,Laterite,54,23,53,1901,3.66
+Karnataka,Rice,2015,350,34,88,Black,83,54,21,3324,2.53
+Karnataka,Rice,2016,1083,27,60,Red,96,54,29,4767,4.6
+Karnataka,Rice,2017,1055,23,45,Clay,72,59,30,3529,4.16
+Karnataka,Rice,2018,1769,15,55,Red,54,36,52,2329,4.74
+Karnataka,Rice,2019,618,32,69,Alluvial,61,32,44,1219,3.33
+Karnataka,Rice,2020,680,25,91,Alluvial,57,22,36,4672,2.66
+Karnataka,Rice,2021,1616,20,81,Alluvial,75,31,47,751,4.8
+Karnataka,Rice,2022,1102,24,42,Alluvial,77,26,51,3321,4.15
+Karnataka,Rice,2023,1817,35,45,Sandy,70,38,43,728,5.19
+Karnataka,Rice,2024,1804,26,73,Clay,76,39,39,4182,5.34
+Karnataka,Wheat,2015,1799,28,73,Clay,85,29,42,1970,5.47
+Karnataka,Wheat,2016,1365,27,35,Black,41,20,35,726,3.72
+Karnataka,Wheat,2017,1505,15,94,Loamy,91,48,34,3553,5.1
+Karnataka,Wheat,2018,590,31,80,Black,82,29,59,2800,3.41
+Karnataka,Wheat,2019,693,16,81,Red,100,51,49,3499,3.26
+Karnataka,Wheat,2020,1400,18,67,Clay,45,44,30,2528,3.9
+Karnataka,Wheat,2021,1240,21,80,Clay,65,23,38,572,4.36
+Karnataka,Wheat,2022,1850,31,75,Sandy,78,39,31,947,4.92
+Karnataka,Wheat,2023,1556,29,90,Laterite,59,30,31,1137,4.14
+Karnataka,Wheat,2024,352,35,95,Sandy,62,20,41,3142,2.76
+Karnataka,Maize,2015,384,19,72,Loamy,43,36,39,2877,2.14
+Karnataka,Maize,2016,900,18,52,Laterite,78,56,50,1932,3.76
+Karnataka,Maize,2017,453,19,33,Laterite,48,47,38,725,2.24
+Karnataka,Maize,2018,1088,35,35,Black,97,20,36,1738,4.51
+Karnataka,Maize,2019,1085,24,72,Red,96,22,50,2589,3.92
+Karnataka,Maize,2020,763,29,74,Laterite,48,34,22,4701,3.54
+Karnataka,Maize,2021,1219,25,47,Black,100,28,49,4959,4.66
+Karnataka,Maize,2022,1357,22,66,Laterite,70,51,22,4368,4.83
+Karnataka,Maize,2023,309,16,64,Red,62,36,49,1809,2.76
+Karnataka,Maize,2024,372,33,60,Alluvial,76,22,29,3730,2.8
+Karnataka,Barley,2015,1691,22,34,Clay,63,60,47,792,5.16
+Karnataka,Barley,2016,1313,19,83,Alluvial,57,59,49,1378,4.46
+Karnataka,Barley,2017,1730,17,45,Alluvial,42,52,50,3756,4.77
+Karnataka,Barley,2018,1355,19,43,Black,83,47,31,4658,4.34
+Karnataka,Barley,2019,1885,33,50,Laterite,95,57,58,3271,5.67
+Karnataka,Barley,2020,1812,33,60,Red,90,39,57,1276,5.52
+Karnataka,Barley,2021,1161,16,93,Red,73,23,60,592,4.18
+Karnataka,Barley,2022,1470,27,69,Sandy,70,57,20,1982,4.15
+Karnataka,Barley,2023,991,34,88,Loamy,66,30,33,3513,3.53
+Karnataka,Barley,2024,311,20,89,Alluvial,68,45,53,1353,2.32
+Karnataka,Millets,2015,561,19,81,Sandy,98,47,56,2173,2.95
+Karnataka,Millets,2016,710,30,59,Black,83,51,37,2471,3.73
+Karnataka,Millets,2017,1248,20,48,Laterite,45,22,52,2529,3.82
+Karnataka,Millets,2018,368,26,73,Black,68,59,39,1767,2.89
+Karnataka,Millets,2019,785,27,69,Loamy,52,43,38,1319,2.98
+Karnataka,Millets,2020,1671,33,42,Laterite,83,50,30,3944,5.18
+Karnataka,Millets,2021,1529,21,31,Laterite,65,37,24,4028,4.91
+Karnataka,Millets,2022,921,21,68,Loamy,65,45,44,4555,3.13
+Karnataka,Millets,2023,1707,31,30,Black,83,54,34,3740,5.51
+Karnataka,Millets,2024,1948,25,39,Black,76,40,26,3694,4.98
+Karnataka,Cotton,2015,796,15,92,Loamy,60,34,29,4981,3.56
+Karnataka,Cotton,2016,683,26,70,Loamy,57,36,47,4453,3.25
+Karnataka,Cotton,2017,1700,24,95,Alluvial,87,27,51,2268,5.38
+Karnataka,Cotton,2018,877,35,87,Laterite,47,25,37,4818,3.53
+Karnataka,Cotton,2019,1754,32,43,Loamy,63,33,32,1787,5.17
+Karnataka,Cotton,2020,1315,25,74,Clay,88,56,53,627,4.83
+Karnataka,Cotton,2021,858,21,95,Black,57,57,53,4524,3.48
+Karnataka,Cotton,2022,1446,31,89,Laterite,49,31,44,1698,4.55
+Karnataka,Cotton,2023,796,23,37,Alluvial,62,39,34,715,3.25
+Karnataka,Cotton,2024,1670,32,74,Red,67,33,21,4540,5.17
+Karnataka,Sugarcane,2015,605,28,46,Black,42,27,49,1988,2.59
+Karnataka,Sugarcane,2016,474,15,39,Clay,70,20,36,1360,3.27
+Karnataka,Sugarcane,2017,1731,15,73,Alluvial,100,58,46,4597,5.05
+Karnataka,Sugarcane,2018,1767,28,45,Laterite,46,51,30,2542,4.79
+Karnataka,Sugarcane,2019,565,28,81,Sandy,45,40,50,4118,2.68
+Karnataka,Sugarcane,2020,582,34,79,Sandy,76,59,24,4500,3.41
+Karnataka,Sugarcane,2021,422,29,69,Loamy,96,35,47,3702,2.71
+Karnataka,Sugarcane,2022,1709,16,71,Loamy,66,59,25,4234,4.66
+Karnataka,Sugarcane,2023,834,18,44,Red,91,30,43,573,3.61
+Karnataka,Sugarcane,2024,450,20,90,Laterite,70,33,42,2369,2.46
+Karnataka,Pulses,2015,809,15,30,Black,57,26,47,4426,3.75
+Karnataka,Pulses,2016,1222,21,46,Alluvial,58,38,52,4697,4.29
+Karnataka,Pulses,2017,1777,32,35,Clay,54,51,31,3000,4.56
+Karnataka,Pulses,2018,1672,22,91,Sandy,93,47,20,1136,4.8
+Karnataka,Pulses,2019,523,35,44,Red,40,24,35,1709,2.63
+Karnataka,Pulses,2020,1045,35,76,Alluvial,62,29,29,4432,4.19
+Karnataka,Pulses,2021,965,15,80,Alluvial,57,29,58,3777,3.78
+Karnataka,Pulses,2022,403,24,38,Loamy,48,40,25,2753,2.49
+Karnataka,Pulses,2023,1173,34,58,Clay,48,39,37,2633,4.02
+Karnataka,Pulses,2024,1344,34,72,Red,43,25,59,3861,4.33
+Karnataka,Groundnut,2015,1299,25,38,Alluvial,85,27,50,3036,3.95
+Karnataka,Groundnut,2016,1063,26,80,Sandy,63,24,31,1088,3.64
+Karnataka,Groundnut,2017,683,25,85,Alluvial,78,37,37,4526,3.43
+Karnataka,Groundnut,2018,1745,19,56,Loamy,44,27,39,3040,4.78
+Karnataka,Groundnut,2019,942,28,56,Sandy,93,35,52,2888,3.78
+Karnataka,Groundnut,2020,709,24,32,Loamy,87,28,22,4585,3.76
+Karnataka,Groundnut,2021,1554,17,39,Black,60,57,42,3885,4.8
+Karnataka,Groundnut,2022,1067,27,32,Black,87,57,48,1110,3.83
+Karnataka,Groundnut,2023,876,15,91,Alluvial,43,40,59,2298,3.08
+Karnataka,Groundnut,2024,1040,22,37,Laterite,67,42,54,4631,4.19
+Karnataka,Soybean,2015,1467,22,57,Red,43,59,34,4296,4.73
+Karnataka,Soybean,2016,1999,23,70,Laterite,74,24,44,4411,5.93
+Karnataka,Soybean,2017,1785,22,92,Clay,87,58,49,2213,5.18
+Karnataka,Soybean,2018,414,28,57,Black,60,29,42,736,2.2
+Karnataka,Soybean,2019,927,24,69,Alluvial,63,21,45,3573,3.9
+Karnataka,Soybean,2020,1689,17,30,Black,44,35,57,4178,4.85
+Karnataka,Soybean,2021,1966,33,51,Loamy,77,39,36,3772,5.36
+Karnataka,Soybean,2022,1538,15,79,Alluvial,97,29,31,4609,5.31
+Karnataka,Soybean,2023,797,15,67,Clay,86,31,24,1075,3.67
+Karnataka,Soybean,2024,1503,20,44,Loamy,95,37,38,4276,5.13
+Karnataka,Tea,2015,1106,35,57,Alluvial,55,30,43,1049,3.59
+Karnataka,Tea,2016,569,18,33,Red,65,58,60,4624,2.82
+Karnataka,Tea,2017,1119,34,52,Alluvial,76,36,27,887,3.94
+Karnataka,Tea,2018,1411,19,62,Sandy,46,48,40,1082,3.94
+Karnataka,Tea,2019,1323,23,82,Alluvial,52,53,23,4932,4.54
+Karnataka,Tea,2020,1790,27,45,Alluvial,62,42,51,954,5.47
+Karnataka,Tea,2021,1645,17,45,Alluvial,42,56,39,2867,4.23
+Karnataka,Tea,2022,934,27,37,Sandy,67,38,31,4720,3.69
+Karnataka,Tea,2023,609,20,87,Loamy,56,25,54,3573,2.88
+Karnataka,Tea,2024,1635,30,79,Sandy,66,51,34,4942,4.59
+Karnataka,Coffee,2015,910,15,52,Black,53,41,29,4210,3.36
+Karnataka,Coffee,2016,1126,22,47,Red,70,44,45,3049,4.0
+Karnataka,Coffee,2017,966,30,86,Black,86,47,25,4143,3.56
+Karnataka,Coffee,2018,421,25,56,Black,53,48,53,4465,2.61
+Karnataka,Coffee,2019,1563,15,60,Loamy,69,34,21,2568,4.77
+Karnataka,Coffee,2020,1330,15,57,Black,68,36,25,4001,3.83
+Karnataka,Coffee,2021,934,28,55,Alluvial,97,28,57,3680,4.18
+Karnataka,Coffee,2022,694,23,87,Sandy,47,26,60,819,3.38
+Karnataka,Coffee,2023,843,26,88,Alluvial,71,29,36,1754,3.88
+Karnataka,Coffee,2024,335,30,78,Laterite,65,28,32,1030,2.42
+Kerala,Rice,2015,1238,35,77,Laterite,72,58,27,801,3.84
+Kerala,Rice,2016,1895,18,34,Laterite,87,49,52,1259,5.29
+Kerala,Rice,2017,1825,29,75,Alluvial,83,55,58,2662,5.65
+Kerala,Rice,2018,829,30,62,Alluvial,79,36,42,3757,3.56
+Kerala,Rice,2019,1377,15,41,Black,66,46,41,4052,3.86
+Kerala,Rice,2020,741,32,59,Alluvial,41,54,39,4141,3.19
+Kerala,Rice,2021,1075,16,39,Alluvial,76,27,52,1833,4.26
+Kerala,Rice,2022,687,35,50,Loamy,89,20,31,4712,3.1
+Kerala,Rice,2023,531,21,36,Loamy,61,40,58,1300,2.49
+Kerala,Rice,2024,522,30,60,Red,98,28,22,884,2.99
+Kerala,Wheat,2015,1395,25,45,Red,93,46,54,937,4.47
+Kerala,Wheat,2016,1955,21,87,Red,61,28,55,1559,5.0
+Kerala,Wheat,2017,1063,25,54,Loamy,97,32,56,2423,4.54
+Kerala,Wheat,2018,852,19,76,Loamy,69,35,59,1776,3.48
+Kerala,Wheat,2019,878,17,73,Red,96,30,47,1462,3.32
+Kerala,Wheat,2020,1286,29,92,Red,98,22,39,733,4.82
+Kerala,Wheat,2021,483,30,43,Laterite,99,43,28,2732,2.69
+Kerala,Wheat,2022,747,20,70,Laterite,84,46,36,3700,3.73
+Kerala,Wheat,2023,1185,26,46,Sandy,87,49,35,4536,3.75
+Kerala,Wheat,2024,410,30,37,Alluvial,41,43,53,3180,2.07
+Kerala,Maize,2015,1334,31,64,Black,79,58,52,3857,4.16
+Kerala,Maize,2016,1188,34,69,Clay,97,57,51,1333,4.3
+Kerala,Maize,2017,594,15,66,Red,73,48,22,4940,3.37
+Kerala,Maize,2018,744,25,31,Loamy,44,46,36,4320,2.87
+Kerala,Maize,2019,761,19,36,Clay,61,22,41,2361,3.62
+Kerala,Maize,2020,388,33,60,Black,80,31,36,3881,3.13
+Kerala,Maize,2021,1411,30,49,Clay,79,25,46,4711,4.8
+Kerala,Maize,2022,1084,33,47,Alluvial,67,42,56,2831,3.6
+Kerala,Maize,2023,1502,20,55,Black,91,60,21,1584,4.5
+Kerala,Maize,2024,448,17,31,Laterite,100,56,42,3167,3.51
+Kerala,Barley,2015,1972,15,60,Sandy,69,54,59,4011,5.53
+Kerala,Barley,2016,1440,30,82,Clay,86,27,26,783,4.69
+Kerala,Barley,2017,1292,34,86,Laterite,44,56,48,4737,3.64
+Kerala,Barley,2018,305,24,90,Loamy,48,52,53,2741,2.75
+Kerala,Barley,2019,505,15,55,Black,75,27,46,1376,3.21
+Kerala,Barley,2020,1990,17,42,Loamy,54,51,40,4816,5.57
+Kerala,Barley,2021,1648,29,72,Loamy,50,60,57,2297,4.68
+Kerala,Barley,2022,648,27,68,Loamy,45,49,27,3270,3.09
+Kerala,Barley,2023,1607,31,93,Black,89,22,45,4836,4.99
+Kerala,Barley,2024,693,35,38,Loamy,59,60,54,4748,2.73
+Kerala,Millets,2015,882,30,93,Red,41,56,20,958,3.05
+Kerala,Millets,2016,405,15,41,Red,83,39,31,699,2.8
+Kerala,Millets,2017,1176,27,31,Alluvial,40,47,34,3634,4.08
+Kerala,Millets,2018,623,20,50,Black,67,21,36,593,2.8
+Kerala,Millets,2019,824,34,32,Alluvial,78,27,28,1897,3.9
+Kerala,Millets,2020,521,32,63,Clay,47,53,21,3018,3.16
+Kerala,Millets,2021,1467,35,40,Loamy,41,23,31,596,4.24
+Kerala,Millets,2022,769,28,79,Laterite,76,41,21,4785,3.1
+Kerala,Millets,2023,1618,31,60,Clay,52,55,33,505,4.28
+Kerala,Millets,2024,1663,25,35,Red,89,21,43,4757,5.15
+Kerala,Cotton,2015,1009,20,71,Red,67,26,56,4188,4.09
+Kerala,Cotton,2016,633,27,64,Loamy,84,45,26,1200,3.58
+Kerala,Cotton,2017,424,15,59,Loamy,49,43,59,4148,2.18
+Kerala,Cotton,2018,1988,33,75,Red,52,43,45,2614,4.82
+Kerala,Cotton,2019,1250,29,83,Clay,41,58,20,2101,3.9
+Kerala,Cotton,2020,736,25,53,Laterite,41,38,26,2280,2.57
+Kerala,Cotton,2021,830,16,87,Black,48,22,31,4075,3.48
+Kerala,Cotton,2022,1916,28,36,Sandy,45,46,42,1791,4.78
+Kerala,Cotton,2023,1085,17,39,Red,95,55,55,1622,4.39
+Kerala,Cotton,2024,774,19,47,Loamy,94,45,34,1290,3.8
+Kerala,Sugarcane,2015,485,29,47,Loamy,86,58,57,1426,3.19
+Kerala,Sugarcane,2016,1841,22,70,Red,77,53,56,1191,4.8
+Kerala,Sugarcane,2017,714,18,92,Sandy,49,48,23,2655,3.17
+Kerala,Sugarcane,2018,1932,24,32,Sandy,43,22,22,1120,5.24
+Kerala,Sugarcane,2019,1246,24,54,Clay,65,21,31,4346,3.71
+Kerala,Sugarcane,2020,1151,32,40,Clay,74,30,43,1249,3.62
+Kerala,Sugarcane,2021,563,16,51,Black,49,33,57,2026,2.69
+Kerala,Sugarcane,2022,1696,31,30,Clay,59,53,48,2843,4.58
+Kerala,Sugarcane,2023,1884,27,92,Laterite,71,39,55,4148,5.7
+Kerala,Sugarcane,2024,533,22,63,Sandy,64,42,49,893,2.55
+Kerala,Pulses,2015,1307,16,44,Red,61,23,59,4927,4.47
+Kerala,Pulses,2016,1332,27,49,Sandy,85,24,20,4064,4.14
+Kerala,Pulses,2017,712,32,70,Sandy,99,39,28,542,3.21
+Kerala,Pulses,2018,1734,15,64,Clay,62,21,22,1761,4.51
+Kerala,Pulses,2019,1267,27,30,Sandy,70,50,34,2226,4.41
+Kerala,Pulses,2020,1065,32,80,Alluvial,78,42,31,3595,4.26
+Kerala,Pulses,2021,1032,15,93,Laterite,56,39,57,3287,3.71
+Kerala,Pulses,2022,1063,21,39,Loamy,43,23,42,2296,3.58
+Kerala,Pulses,2023,1644,19,42,Sandy,75,23,52,4046,5.04
+Kerala,Pulses,2024,357,35,38,Clay,71,27,24,3830,2.25
+Kerala,Groundnut,2015,1511,21,49,Red,56,21,46,4226,4.94
+Kerala,Groundnut,2016,1425,22,43,Sandy,41,58,22,1778,3.92
+Kerala,Groundnut,2017,387,17,46,Loamy,42,59,26,4256,2.25
+Kerala,Groundnut,2018,1750,15,54,Red,93,29,21,4359,5.1
+Kerala,Groundnut,2019,372,20,62,Alluvial,69,49,39,4192,2.39
+Kerala,Groundnut,2020,1424,33,44,Laterite,88,21,21,3571,4.84
+Kerala,Groundnut,2021,1612,34,70,Laterite,48,49,31,4198,4.57
+Kerala,Groundnut,2022,515,15,88,Black,53,31,24,2924,2.45
+Kerala,Groundnut,2023,388,15,52,Clay,41,38,26,3198,2.53
+Kerala,Groundnut,2024,1146,30,68,Loamy,58,24,49,2814,3.53
+Kerala,Soybean,2015,672,17,55,Laterite,81,56,36,2113,2.88
+Kerala,Soybean,2016,1213,29,94,Alluvial,59,22,51,3086,3.76
+Kerala,Soybean,2017,1884,32,73,Laterite,51,30,47,3363,5.08
+Kerala,Soybean,2018,1986,33,43,Red,82,26,48,2582,5.42
+Kerala,Soybean,2019,1167,21,70,Red,42,21,20,808,3.47
+Kerala,Soybean,2020,443,33,56,Alluvial,41,31,37,1842,2.57
+Kerala,Soybean,2021,365,19,34,Loamy,72,41,22,4367,2.62
+Kerala,Soybean,2022,1712,34,83,Black,77,32,20,4076,4.62
+Kerala,Soybean,2023,470,30,60,Clay,71,40,47,3610,3.04
+Kerala,Soybean,2024,1115,21,32,Black,94,53,22,2464,4.02
+Kerala,Tea,2015,523,19,54,Red,74,43,45,4789,3.11
+Kerala,Tea,2016,1946,20,52,Clay,93,56,32,702,5.21
+Kerala,Tea,2017,863,28,62,Laterite,89,53,38,1527,4.01
+Kerala,Tea,2018,1031,35,89,Alluvial,93,22,47,956,3.82
+Kerala,Tea,2019,499,33,49,Laterite,59,33,56,1113,2.43
+Kerala,Tea,2020,1234,20,52,Sandy,58,51,47,2697,4.23
+Kerala,Tea,2021,1498,33,58,Red,53,54,50,3566,4.47
+Kerala,Tea,2022,630,29,61,Clay,70,54,36,1600,3.61
+Kerala,Tea,2023,1342,15,80,Alluvial,88,40,47,3455,4.81
+Kerala,Tea,2024,344,25,53,Clay,58,22,42,1712,2.79
+Kerala,Coffee,2015,1958,29,46,Clay,72,46,44,2343,5.43
+Kerala,Coffee,2016,1270,19,78,Clay,51,35,53,4393,3.69
+Kerala,Coffee,2017,322,20,32,Loamy,49,44,48,1624,2.3
+Kerala,Coffee,2018,484,26,85,Loamy,56,57,24,2719,2.92
+Kerala,Coffee,2019,1138,33,36,Sandy,68,25,21,3789,3.81
+Kerala,Coffee,2020,1419,15,56,Laterite,41,33,53,989,4.21
+Kerala,Coffee,2021,386,32,55,Sandy,91,51,28,996,3.37
+Kerala,Coffee,2022,1835,33,92,Clay,72,33,38,782,5.5
+Kerala,Coffee,2023,1014,26,56,Clay,56,32,58,1356,3.8
+Kerala,Coffee,2024,412,28,60,Clay,71,32,50,1041,3.26
+Madhya Pradesh,Rice,2015,1566,26,87,Alluvial,68,25,44,2688,4.49
+Madhya Pradesh,Rice,2016,672,22,91,Loamy,54,47,55,1921,3.41
+Madhya Pradesh,Rice,2017,1284,26,64,Sandy,80,23,34,4025,4.65
+Madhya Pradesh,Rice,2018,1681,19,61,Laterite,95,43,58,4276,4.63
+Madhya Pradesh,Rice,2019,651,27,65,Alluvial,46,48,59,1909,2.79
+Madhya Pradesh,Rice,2020,1024,24,31,Red,90,55,28,1304,3.75
+Madhya Pradesh,Rice,2021,1132,22,83,Black,48,26,21,2637,3.54
+Madhya Pradesh,Rice,2022,816,15,33,Sandy,45,46,54,1668,3.22
+Madhya Pradesh,Rice,2023,1442,26,57,Red,69,58,22,4170,4.2
+Madhya Pradesh,Rice,2024,809,26,33,Clay,51,60,46,2640,3.2
+Madhya Pradesh,Wheat,2015,1208,22,83,Sandy,96,57,36,3777,4.47
+Madhya Pradesh,Wheat,2016,693,18,39,Laterite,81,42,59,4792,3.55
+Madhya Pradesh,Wheat,2017,1470,24,84,Red,74,24,24,4612,4.77
+Madhya Pradesh,Wheat,2018,1292,35,46,Clay,55,46,47,4631,3.92
+Madhya Pradesh,Wheat,2019,352,18,31,Alluvial,76,23,30,3029,2.78
+Madhya Pradesh,Wheat,2020,1249,30,68,Clay,92,37,27,2324,4.24
+Madhya Pradesh,Wheat,2021,1632,29,50,Alluvial,63,57,53,2625,4.34
+Madhya Pradesh,Wheat,2022,1706,23,37,Red,76,58,50,2790,4.51
+Madhya Pradesh,Wheat,2023,941,30,73,Laterite,60,53,55,963,3.84
+Madhya Pradesh,Wheat,2024,723,24,93,Sandy,47,35,34,1283,3.36
+Madhya Pradesh,Maize,2015,1986,26,92,Alluvial,77,54,26,3386,5.64
+Madhya Pradesh,Maize,2016,673,19,49,Clay,89,36,60,2097,3.76
+Madhya Pradesh,Maize,2017,977,29,84,Sandy,73,25,20,3208,3.32
+Madhya Pradesh,Maize,2018,880,23,67,Black,41,58,49,769,3.21
+Madhya Pradesh,Maize,2019,499,24,73,Sandy,62,44,60,2010,3.11
+Madhya Pradesh,Maize,2020,312,27,74,Alluvial,62,41,57,3317,2.89
+Madhya Pradesh,Maize,2021,1388,22,59,Loamy,85,58,49,757,4.28
+Madhya Pradesh,Maize,2022,897,33,87,Clay,60,23,32,4267,3.68
+Madhya Pradesh,Maize,2023,928,18,88,Loamy,87,54,57,2837,4.16
+Madhya Pradesh,Maize,2024,873,20,57,Clay,86,23,55,3356,3.42
+Madhya Pradesh,Barley,2015,785,27,93,Black,63,34,45,2031,2.96
+Madhya Pradesh,Barley,2016,1004,34,93,Red,66,57,42,2445,3.67
+Madhya Pradesh,Barley,2017,831,25,90,Black,95,45,43,1575,3.68
+Madhya Pradesh,Barley,2018,495,22,68,Sandy,82,60,51,2897,3.42
+Madhya Pradesh,Barley,2019,617,26,84,Alluvial,65,51,35,525,2.6
+Madhya Pradesh,Barley,2020,502,35,56,Alluvial,44,25,29,1481,2.67
+Madhya Pradesh,Barley,2021,1840,35,33,Laterite,56,42,50,4063,4.6
+Madhya Pradesh,Barley,2022,1003,35,31,Black,70,47,25,3974,3.82
+Madhya Pradesh,Barley,2023,874,15,30,Black,61,22,51,2607,3.1
+Madhya Pradesh,Barley,2024,402,33,75,Alluvial,46,56,20,2466,2.4
+Madhya Pradesh,Millets,2015,994,25,69,Laterite,66,38,33,4008,3.78
+Madhya Pradesh,Millets,2016,474,22,65,Red,53,43,34,855,2.47
+Madhya Pradesh,Millets,2017,525,15,85,Alluvial,41,34,50,4535,2.38
+Madhya Pradesh,Millets,2018,1508,18,39,Laterite,66,25,49,1960,4.43
+Madhya Pradesh,Millets,2019,1231,22,76,Sandy,93,39,24,1200,4.63
+Madhya Pradesh,Millets,2020,1148,21,55,Red,93,45,32,1395,3.95
+Madhya Pradesh,Millets,2021,922,29,81,Loamy,57,38,46,3046,3.56
+Madhya Pradesh,Millets,2022,943,15,82,Laterite,78,20,24,4306,3.88
+Madhya Pradesh,Millets,2023,796,32,79,Sandy,52,48,22,2258,3.61
+Madhya Pradesh,Millets,2024,1426,17,65,Black,65,27,57,3741,4.37
+Madhya Pradesh,Cotton,2015,1989,33,68,Sandy,55,41,28,1884,5.01
+Madhya Pradesh,Cotton,2016,1016,33,49,Loamy,87,23,40,2288,3.59
+Madhya Pradesh,Cotton,2017,1518,26,77,Alluvial,98,37,33,2286,4.82
+Madhya Pradesh,Cotton,2018,645,25,54,Sandy,69,38,39,3258,2.93
+Madhya Pradesh,Cotton,2019,943,17,82,Sandy,93,26,43,2681,3.58
+Madhya Pradesh,Cotton,2020,796,28,91,Laterite,97,29,48,2306,4.11
+Madhya Pradesh,Cotton,2021,1810,34,76,Laterite,69,26,30,773,4.86
+Madhya Pradesh,Cotton,2022,1828,22,61,Laterite,67,36,28,960,4.98
+Madhya Pradesh,Cotton,2023,893,15,80,Loamy,64,36,56,2505,3.5
+Madhya Pradesh,Cotton,2024,631,33,89,Red,61,37,39,4798,2.61
+Madhya Pradesh,Sugarcane,2015,1444,24,77,Sandy,62,48,48,669,4.61
+Madhya Pradesh,Sugarcane,2016,1716,33,33,Laterite,40,41,41,2806,4.56
+Madhya Pradesh,Sugarcane,2017,1524,34,48,Loamy,56,24,35,2651,4.07
+Madhya Pradesh,Sugarcane,2018,887,30,49,Sandy,60,50,36,3799,3.95
+Madhya Pradesh,Sugarcane,2019,1500,21,94,Alluvial,72,53,23,600,4.18
+Madhya Pradesh,Sugarcane,2020,548,29,54,Sandy,61,30,24,1020,3.28
+Madhya Pradesh,Sugarcane,2021,1627,35,36,Alluvial,54,30,30,877,4.9
+Madhya Pradesh,Sugarcane,2022,541,28,89,Red,67,28,55,3571,3.32
+Madhya Pradesh,Sugarcane,2023,1767,22,86,Clay,66,51,24,1465,4.5
+Madhya Pradesh,Sugarcane,2024,1492,25,76,Laterite,51,60,40,2537,3.92
+Madhya Pradesh,Pulses,2015,483,28,56,Clay,82,49,54,3946,2.69
+Madhya Pradesh,Pulses,2016,1397,25,85,Black,88,35,41,1361,4.13
+Madhya Pradesh,Pulses,2017,900,24,75,Red,82,49,44,2250,3.37
+Madhya Pradesh,Pulses,2018,1761,15,76,Alluvial,99,56,46,4542,5.51
+Madhya Pradesh,Pulses,2019,1399,22,37,Clay,68,45,51,973,3.91
+Madhya Pradesh,Pulses,2020,1331,28,69,Black,90,60,29,1492,4.88
+Madhya Pradesh,Pulses,2021,1352,33,79,Alluvial,58,39,59,1845,4.43
+Madhya Pradesh,Pulses,2022,1203,35,54,Sandy,59,47,43,2072,3.97
+Madhya Pradesh,Pulses,2023,1179,17,45,Loamy,46,20,34,3846,3.35
+Madhya Pradesh,Pulses,2024,1367,34,38,Black,65,38,33,3310,4.4
+Madhya Pradesh,Groundnut,2015,1630,17,86,Black,100,60,25,3604,5.22
+Madhya Pradesh,Groundnut,2016,1487,15,91,Laterite,59,26,58,2387,4.77
+Madhya Pradesh,Groundnut,2017,1868,30,85,Sandy,43,45,50,4392,5.35
+Madhya Pradesh,Groundnut,2018,627,31,92,Laterite,40,45,37,2788,3.0
+Madhya Pradesh,Groundnut,2019,1896,28,95,Loamy,85,48,23,2069,5.63
+Madhya Pradesh,Groundnut,2020,1755,16,36,Sandy,76,45,46,2540,5.09
+Madhya Pradesh,Groundnut,2021,724,29,65,Loamy,65,24,44,3344,2.79
+Madhya Pradesh,Groundnut,2022,840,16,81,Black,71,28,26,2299,3.21
+Madhya Pradesh,Groundnut,2023,1484,32,66,Red,54,59,54,2561,4.1
+Madhya Pradesh,Groundnut,2024,1778,30,83,Black,88,51,44,1051,4.77
+Madhya Pradesh,Soybean,2015,505,29,80,Black,88,54,26,3258,2.91
+Madhya Pradesh,Soybean,2016,447,33,82,Clay,61,53,52,4194,2.88
+Madhya Pradesh,Soybean,2017,542,17,77,Sandy,61,44,41,1124,2.9
+Madhya Pradesh,Soybean,2018,1512,27,74,Red,83,43,21,4546,5.11
+Madhya Pradesh,Soybean,2019,788,15,57,Clay,44,20,28,4795,3.16
+Madhya Pradesh,Soybean,2020,1096,23,30,Clay,96,51,33,4778,4.07
+Madhya Pradesh,Soybean,2021,585,26,57,Alluvial,42,26,32,1790,2.97
+Madhya Pradesh,Soybean,2022,1635,29,69,Clay,88,57,31,3325,5.03
+Madhya Pradesh,Soybean,2023,649,21,47,Loamy,80,25,48,3279,3.57
+Madhya Pradesh,Soybean,2024,1895,28,81,Alluvial,66,28,58,3619,5.34
+Madhya Pradesh,Tea,2015,962,29,59,Red,52,59,40,4517,3.69
+Madhya Pradesh,Tea,2016,417,27,50,Laterite,75,25,36,1692,3.06
+Madhya Pradesh,Tea,2017,1246,35,81,Clay,91,38,59,3906,3.9
+Madhya Pradesh,Tea,2018,1666,30,65,Alluvial,57,36,58,4000,4.78
+Madhya Pradesh,Tea,2019,1750,26,78,Sandy,80,31,34,2621,4.88
+Madhya Pradesh,Tea,2020,1366,33,63,Laterite,48,36,51,1157,4.53
+Madhya Pradesh,Tea,2021,1165,31,61,Sandy,90,47,50,584,4.15
+Madhya Pradesh,Tea,2022,1364,33,87,Loamy,76,21,37,3917,4.28
+Madhya Pradesh,Tea,2023,1448,16,65,Laterite,63,45,59,602,4.16
+Madhya Pradesh,Tea,2024,1484,15,51,Sandy,48,35,47,1543,4.05
+Madhya Pradesh,Coffee,2015,1072,22,56,Sandy,91,29,50,1188,4.22
+Madhya Pradesh,Coffee,2016,795,17,64,Alluvial,99,51,39,4029,3.39
+Madhya Pradesh,Coffee,2017,831,20,33,Red,58,46,50,3135,3.34
+Madhya Pradesh,Coffee,2018,404,18,42,Red,40,29,24,1411,2.65
+Madhya Pradesh,Coffee,2019,1490,32,39,Sandy,90,55,27,2245,4.42
+Madhya Pradesh,Coffee,2020,654,19,31,Laterite,45,24,54,4443,2.89
+Madhya Pradesh,Coffee,2021,1466,25,69,Laterite,47,21,30,1690,4.07
+Madhya Pradesh,Coffee,2022,1749,24,71,Alluvial,97,33,43,2035,5.12
+Madhya Pradesh,Coffee,2023,769,35,49,Laterite,88,26,33,2976,3.82
+Madhya Pradesh,Coffee,2024,906,29,50,Black,40,40,46,2717,3.34
+Maharashtra,Rice,2015,1892,30,70,Black,77,35,47,3410,5.79
+Maharashtra,Rice,2016,737,34,78,Alluvial,99,57,26,3394,3.16
+Maharashtra,Rice,2017,1785,20,60,Black,51,34,43,4526,4.78
+Maharashtra,Rice,2018,1141,18,81,Clay,98,33,39,1498,4.48
+Maharashtra,Rice,2019,1656,21,95,Loamy,74,48,41,667,5.37
+Maharashtra,Rice,2020,1433,23,55,Red,50,25,54,3088,3.91
+Maharashtra,Rice,2021,300,30,62,Loamy,58,47,55,4003,2.69
+Maharashtra,Rice,2022,650,23,39,Loamy,67,28,48,812,2.83
+Maharashtra,Rice,2023,1467,22,95,Alluvial,49,35,33,4186,4.16
+Maharashtra,Rice,2024,1888,16,86,Black,44,41,50,2905,4.75
+Maharashtra,Wheat,2015,750,22,46,Black,69,51,45,3787,3.48
+Maharashtra,Wheat,2016,1594,31,52,Loamy,57,23,28,4479,4.36
+Maharashtra,Wheat,2017,991,25,94,Loamy,60,54,23,3456,3.8
+Maharashtra,Wheat,2018,567,19,65,Black,68,48,59,4322,2.77
+Maharashtra,Wheat,2019,1264,22,39,Loamy,49,57,28,1636,3.86
+Maharashtra,Wheat,2020,497,30,90,Alluvial,88,30,58,3851,2.67
+Maharashtra,Wheat,2021,378,35,57,Red,44,51,41,4111,2.64
+Maharashtra,Wheat,2022,1153,16,61,Clay,48,36,21,4531,3.45
+Maharashtra,Wheat,2023,1231,16,64,Red,79,57,36,3805,3.85
+Maharashtra,Wheat,2024,1514,17,61,Clay,77,41,37,3516,4.42
+Maharashtra,Maize,2015,1022,17,82,Loamy,50,34,44,3182,3.88
+Maharashtra,Maize,2016,461,19,63,Alluvial,57,45,28,1933,2.64
+Maharashtra,Maize,2017,1179,17,46,Clay,90,40,58,4440,4.35
+Maharashtra,Maize,2018,1700,22,55,Laterite,54,59,51,1216,5.2
+Maharashtra,Maize,2019,623,17,95,Sandy,73,48,38,2411,3.64
+Maharashtra,Maize,2020,689,16,69,Black,53,54,29,1342,3.54
+Maharashtra,Maize,2021,587,18,48,Alluvial,71,37,39,772,2.96
+Maharashtra,Maize,2022,1097,24,38,Black,86,46,33,4364,4.54
+Maharashtra,Maize,2023,1222,31,90,Black,42,59,54,2875,3.57
+Maharashtra,Maize,2024,1476,30,38,Red,76,41,45,2629,4.85
+Maharashtra,Barley,2015,1119,21,61,Red,67,41,41,786,3.68
+Maharashtra,Barley,2016,310,31,94,Alluvial,43,57,37,3329,2.68
+Maharashtra,Barley,2017,1799,19,56,Loamy,74,54,47,1653,5.25
+Maharashtra,Barley,2018,1579,17,81,Clay,53,53,58,1710,5.01
+Maharashtra,Barley,2019,648,34,71,Red,79,33,21,3352,2.8
+Maharashtra,Barley,2020,1108,32,46,Laterite,99,46,43,3168,4.52
+Maharashtra,Barley,2021,1594,15,81,Red,70,59,29,3403,4.85
+Maharashtra,Barley,2022,1657,21,58,Clay,79,53,48,2895,4.46
+Maharashtra,Barley,2023,340,33,70,Clay,80,59,35,2463,2.39
+Maharashtra,Barley,2024,1124,20,48,Sandy,91,55,51,4233,3.7
+Maharashtra,Millets,2015,527,31,33,Loamy,77,45,47,1536,3.43
+Maharashtra,Millets,2016,1600,22,55,Sandy,68,51,23,1881,4.39
+Maharashtra,Millets,2017,650,26,66,Laterite,53,44,23,4265,3.0
+Maharashtra,Millets,2018,584,22,62,Sandy,57,33,60,3578,3.02
+Maharashtra,Millets,2019,1615,15,49,Alluvial,61,38,60,2227,4.37
+Maharashtra,Millets,2020,1167,15,34,Black,44,33,33,3938,3.88
+Maharashtra,Millets,2021,1820,29,48,Loamy,51,42,27,4050,4.99
+Maharashtra,Millets,2022,1713,33,62,Clay,56,33,20,2869,4.69
+Maharashtra,Millets,2023,383,35,68,Clay,73,44,56,518,2.3
+Maharashtra,Millets,2024,1935,23,63,Alluvial,88,44,35,873,5.5
+Maharashtra,Cotton,2015,1945,19,73,Clay,41,47,43,4388,5.36
+Maharashtra,Cotton,2016,703,20,38,Sandy,94,32,26,4005,3.61
+Maharashtra,Cotton,2017,1594,24,79,Black,75,41,43,1323,4.61
+Maharashtra,Cotton,2018,1789,23,73,Red,81,60,55,2329,4.7
+Maharashtra,Cotton,2019,1266,16,80,Clay,80,31,58,3964,4.2
+Maharashtra,Cotton,2020,1930,33,85,Black,94,58,45,4639,5.27
+Maharashtra,Cotton,2021,421,17,55,Alluvial,58,31,57,738,2.55
+Maharashtra,Cotton,2022,595,18,78,Clay,58,31,30,4272,3.16
+Maharashtra,Cotton,2023,903,30,94,Sandy,85,46,51,2249,3.29
+Maharashtra,Cotton,2024,397,31,58,Laterite,49,56,27,3117,2.13
+Maharashtra,Sugarcane,2015,434,28,83,Alluvial,98,46,21,1410,3.3
+Maharashtra,Sugarcane,2016,561,28,93,Alluvial,87,23,29,858,3.16
+Maharashtra,Sugarcane,2017,1986,34,73,Loamy,48,51,33,3409,5.43
+Maharashtra,Sugarcane,2018,1146,27,65,Black,43,53,30,4068,3.49
+Maharashtra,Sugarcane,2019,1310,28,76,Clay,80,54,22,2009,4.3
+Maharashtra,Sugarcane,2020,755,17,60,Loamy,93,47,37,3971,3.97
+Maharashtra,Sugarcane,2021,1175,26,83,Red,41,42,39,3581,4.26
+Maharashtra,Sugarcane,2022,1356,17,81,Clay,55,35,42,2750,3.79
+Maharashtra,Sugarcane,2023,552,21,89,Laterite,47,47,60,3668,2.44
+Maharashtra,Sugarcane,2024,1502,28,43,Red,98,57,22,2301,5.3
+Maharashtra,Pulses,2015,1252,19,49,Black,54,50,53,4998,3.73
+Maharashtra,Pulses,2016,1861,32,86,Alluvial,86,36,57,4448,5.8
+Maharashtra,Pulses,2017,1818,17,78,Sandy,81,44,27,3316,4.78
+Maharashtra,Pulses,2018,517,24,56,Loamy,52,28,32,1629,2.81
+Maharashtra,Pulses,2019,523,21,35,Sandy,89,35,50,2746,2.61
+Maharashtra,Pulses,2020,642,25,38,Loamy,86,34,46,4948,2.99
+Maharashtra,Pulses,2021,1938,30,76,Sandy,44,49,44,4427,5.2
+Maharashtra,Pulses,2022,1846,30,89,Alluvial,96,21,28,2313,4.96
+Maharashtra,Pulses,2023,1919,23,85,Laterite,58,56,31,3790,4.92
+Maharashtra,Pulses,2024,705,29,71,Sandy,77,60,43,2387,3.56
+Maharashtra,Groundnut,2015,590,32,82,Alluvial,98,23,38,3914,3.34
+Maharashtra,Groundnut,2016,1689,19,57,Red,47,25,31,4869,4.28
+Maharashtra,Groundnut,2017,651,25,57,Sandy,97,30,37,3394,2.95
+Maharashtra,Groundnut,2018,1705,31,30,Black,44,26,27,3597,4.83
+Maharashtra,Groundnut,2019,785,25,66,Black,67,37,60,4907,3.48
+Maharashtra,Groundnut,2020,908,34,75,Laterite,55,49,21,3079,3.48
+Maharashtra,Groundnut,2021,1538,32,52,Alluvial,88,46,53,4658,4.6
+Maharashtra,Groundnut,2022,1971,26,92,Sandy,88,26,28,1165,5.12
+Maharashtra,Groundnut,2023,923,22,50,Laterite,55,44,44,2714,3.45
+Maharashtra,Groundnut,2024,1000,34,83,Sandy,61,35,21,4531,3.89
+Maharashtra,Soybean,2015,992,25,73,Clay,74,44,45,3628,3.64
+Maharashtra,Soybean,2016,1436,20,76,Black,41,34,48,3850,4.42
+Maharashtra,Soybean,2017,1854,17,80,Loamy,100,33,28,4140,4.93
+Maharashtra,Soybean,2018,892,24,95,Alluvial,84,57,36,3403,4.08
+Maharashtra,Soybean,2019,1744,29,75,Loamy,49,31,29,2477,4.84
+Maharashtra,Soybean,2020,626,25,51,Red,89,50,47,1713,2.87
+Maharashtra,Soybean,2021,992,15,51,Alluvial,50,34,34,712,3.15
+Maharashtra,Soybean,2022,1948,20,64,Alluvial,62,50,46,2370,5.21
+Maharashtra,Soybean,2023,920,16,64,Sandy,68,50,58,1534,3.96
+Maharashtra,Soybean,2024,712,25,62,Clay,80,46,45,4235,3.06
+Maharashtra,Tea,2015,1717,22,35,Loamy,74,32,37,3090,4.55
+Maharashtra,Tea,2016,556,17,44,Clay,84,24,54,2903,3.17
+Maharashtra,Tea,2017,1415,23,74,Clay,90,43,45,3873,4.96
+Maharashtra,Tea,2018,1391,18,90,Loamy,85,35,59,4364,4.93
+Maharashtra,Tea,2019,1311,31,93,Laterite,75,47,60,4211,4.15
+Maharashtra,Tea,2020,1600,31,60,Loamy,64,38,55,1894,4.43
+Maharashtra,Tea,2021,1371,31,91,Clay,100,29,39,3081,4.92
+Maharashtra,Tea,2022,1658,27,50,Loamy,64,50,20,3381,5.16
+Maharashtra,Tea,2023,1667,30,33,Alluvial,99,36,30,3981,5.54
+Maharashtra,Tea,2024,1500,17,89,Clay,60,27,20,1311,4.93
+Maharashtra,Coffee,2015,1290,18,72,Sandy,62,41,34,2433,3.75
+Maharashtra,Coffee,2016,1562,32,71,Black,98,54,27,2815,4.46
+Maharashtra,Coffee,2017,873,25,78,Black,45,40,28,3526,3.04
+Maharashtra,Coffee,2018,1073,31,71,Loamy,66,57,30,1366,4.25
+Maharashtra,Coffee,2019,1148,20,75,Sandy,99,56,38,1245,4.39
+Maharashtra,Coffee,2020,1117,29,65,Laterite,48,20,40,1481,3.41
+Maharashtra,Coffee,2021,971,24,63,Red,94,46,56,3752,4.26
+Maharashtra,Coffee,2022,1533,31,39,Black,67,51,60,3171,4.93
+Maharashtra,Coffee,2023,1386,23,49,Black,77,52,42,1504,4.46
+Maharashtra,Coffee,2024,970,32,92,Laterite,61,20,44,1689,3.4
+Manipur,Rice,2015,959,25,69,Sandy,46,32,60,2349,3.83
+Manipur,Rice,2016,1175,22,35,Red,80,55,31,2632,3.78
+Manipur,Rice,2017,814,31,59,Sandy,63,50,59,4585,3.49
+Manipur,Rice,2018,1649,26,45,Sandy,70,43,53,3806,4.54
+Manipur,Rice,2019,827,18,58,Alluvial,40,33,38,590,3.17
+Manipur,Rice,2020,1450,30,92,Clay,46,59,49,4943,4.27
+Manipur,Rice,2021,533,31,55,Black,67,57,39,2054,2.56
+Manipur,Rice,2022,975,20,37,Black,88,24,30,810,3.44
+Manipur,Rice,2023,786,28,80,Alluvial,75,56,44,1256,3.18
+Manipur,Rice,2024,1425,28,68,Alluvial,72,29,21,1934,4.32
+Manipur,Wheat,2015,1233,19,85,Red,76,53,58,761,3.89
+Manipur,Wheat,2016,1112,35,62,Red,70,55,44,1718,3.65
+Manipur,Wheat,2017,933,27,59,Laterite,77,50,53,2638,3.71
+Manipur,Wheat,2018,1757,16,36,Sandy,78,28,54,1939,5.33
+Manipur,Wheat,2019,1634,27,65,Sandy,71,50,53,3863,4.74
+Manipur,Wheat,2020,664,25,57,Laterite,80,29,23,2438,3.02
+Manipur,Wheat,2021,813,30,92,Red,40,43,51,4591,2.74
+Manipur,Wheat,2022,1677,23,48,Clay,66,50,53,4772,5.08
+Manipur,Wheat,2023,1034,26,67,Loamy,100,56,29,3068,3.67
+Manipur,Wheat,2024,974,28,60,Black,76,24,36,1728,3.29
+Manipur,Maize,2015,349,24,57,Clay,55,43,47,1991,2.49
+Manipur,Maize,2016,894,28,91,Sandy,52,34,35,2473,3.45
+Manipur,Maize,2017,1064,24,80,Black,79,34,45,1845,3.51
+Manipur,Maize,2018,1733,21,34,Black,84,43,41,2801,5.14
+Manipur,Maize,2019,1750,35,75,Loamy,74,39,44,1989,4.79
+Manipur,Maize,2020,830,22,38,Clay,68,53,21,1632,3.42
+Manipur,Maize,2021,1617,20,57,Laterite,93,20,45,1213,5.45
+Manipur,Maize,2022,1919,27,68,Clay,95,45,21,4989,5.87
+Manipur,Maize,2023,871,19,73,Red,49,33,26,2319,3.38
+Manipur,Maize,2024,649,34,52,Black,86,54,42,2594,3.35
+Manipur,Barley,2015,598,30,71,Black,42,58,22,2978,2.86
+Manipur,Barley,2016,1620,16,71,Clay,57,42,39,2892,4.43
+Manipur,Barley,2017,731,33,37,Sandy,51,23,57,4223,3.15
+Manipur,Barley,2018,443,17,63,Alluvial,49,33,22,4354,3.09
+Manipur,Barley,2019,1960,22,60,Laterite,70,21,29,1206,5.29
+Manipur,Barley,2020,1077,34,70,Clay,57,58,24,1685,3.78
+Manipur,Barley,2021,1655,26,50,Loamy,87,45,46,4324,4.76
+Manipur,Barley,2022,1161,33,80,Loamy,44,58,24,4059,3.54
+Manipur,Barley,2023,473,35,46,Black,62,27,29,4507,2.87
+Manipur,Barley,2024,1880,22,59,Black,86,30,45,1793,5.29
+Manipur,Millets,2015,1235,16,42,Laterite,61,59,28,4275,4.54
+Manipur,Millets,2016,1333,22,61,Laterite,67,59,31,1069,3.96
+Manipur,Millets,2017,559,32,47,Red,50,39,26,963,2.59
+Manipur,Millets,2018,1783,19,54,Sandy,48,57,33,3057,4.54
+Manipur,Millets,2019,567,19,69,Black,51,58,24,2597,3.09
+Manipur,Millets,2020,1109,15,52,Red,71,33,28,3841,3.75
+Manipur,Millets,2021,1825,27,57,Clay,44,47,59,4003,4.74
+Manipur,Millets,2022,1343,32,42,Black,40,42,41,3367,4.56
+Manipur,Millets,2023,526,34,75,Laterite,95,22,24,2567,2.72
+Manipur,Millets,2024,1712,29,80,Loamy,74,58,44,1830,4.81
+Manipur,Cotton,2015,1407,32,79,Alluvial,67,60,55,4554,4.27
+Manipur,Cotton,2016,1010,20,90,Loamy,67,20,40,4841,3.65
+Manipur,Cotton,2017,442,32,79,Sandy,68,37,35,4602,2.83
+Manipur,Cotton,2018,413,35,85,Sandy,58,40,21,2670,2.95
+Manipur,Cotton,2019,1714,19,85,Laterite,95,52,50,4673,5.4
+Manipur,Cotton,2020,369,32,88,Laterite,57,50,23,3985,2.92
+Manipur,Cotton,2021,1563,18,58,Black,49,41,28,2583,4.4
+Manipur,Cotton,2022,1763,27,54,Sandy,58,51,25,2273,5.08
+Manipur,Cotton,2023,664,28,38,Sandy,93,54,37,3654,3.25
+Manipur,Cotton,2024,1982,31,91,Clay,57,60,44,3538,5.22
+Manipur,Sugarcane,2015,787,35,47,Sandy,58,42,24,4719,2.89
+Manipur,Sugarcane,2016,1356,28,71,Loamy,66,57,56,4232,4.56
+Manipur,Sugarcane,2017,1458,24,77,Loamy,62,36,42,2462,3.96
+Manipur,Sugarcane,2018,1189,15,47,Red,64,37,28,4397,4.49
+Manipur,Sugarcane,2019,1405,35,50,Clay,60,30,40,3864,4.54
+Manipur,Sugarcane,2020,1792,30,37,Clay,63,53,27,687,5.49
+Manipur,Sugarcane,2021,1359,28,86,Loamy,100,44,46,4442,4.72
+Manipur,Sugarcane,2022,1929,28,74,Laterite,56,30,29,2896,5.43
+Manipur,Sugarcane,2023,1616,19,80,Red,93,60,56,2802,4.49
+Manipur,Sugarcane,2024,1858,26,30,Clay,47,42,34,584,4.51
+Manipur,Pulses,2015,1389,23,53,Red,96,32,47,2351,4.86
+Manipur,Pulses,2016,1407,22,37,Laterite,74,46,25,3974,4.11
+Manipur,Pulses,2017,1100,35,41,Black,51,30,22,2662,3.33
+Manipur,Pulses,2018,443,24,39,Loamy,63,60,52,3890,2.37
+Manipur,Pulses,2019,554,27,51,Laterite,85,42,49,2974,2.79
+Manipur,Pulses,2020,1463,20,88,Black,90,45,39,3066,5.0
+Manipur,Pulses,2021,306,27,46,Loamy,75,46,24,838,2.18
+Manipur,Pulses,2022,341,27,91,Loamy,40,47,24,3998,2.57
+Manipur,Pulses,2023,1297,28,51,Laterite,47,50,28,4777,4.51
+Manipur,Pulses,2024,436,19,56,Alluvial,98,41,48,2782,2.81
+Manipur,Groundnut,2015,309,18,89,Sandy,89,26,32,889,2.56
+Manipur,Groundnut,2016,390,21,76,Red,68,27,20,782,2.58
+Manipur,Groundnut,2017,855,21,68,Red,50,53,31,1725,2.85
+Manipur,Groundnut,2018,787,16,43,Black,83,53,34,4144,4.0
+Manipur,Groundnut,2019,1359,31,76,Clay,93,38,31,4398,4.92
+Manipur,Groundnut,2020,808,28,59,Loamy,75,33,24,4276,3.31
+Manipur,Groundnut,2021,476,31,59,Alluvial,71,26,29,3335,2.68
+Manipur,Groundnut,2022,633,31,70,Sandy,87,60,57,2797,3.19
+Manipur,Groundnut,2023,1071,32,40,Loamy,43,23,55,3775,3.19
+Manipur,Groundnut,2024,1203,34,77,Red,47,57,51,2380,4.36
+Manipur,Soybean,2015,788,24,43,Loamy,45,60,39,2830,2.75
+Manipur,Soybean,2016,338,19,52,Sandy,71,47,24,4822,3.11
+Manipur,Soybean,2017,1420,15,94,Red,65,43,28,1953,4.5
+Manipur,Soybean,2018,1609,28,64,Loamy,87,30,43,3291,4.78
+Manipur,Soybean,2019,1730,31,37,Alluvial,98,57,50,1743,4.88
+Manipur,Soybean,2020,740,18,93,Loamy,85,60,25,4381,3.9
+Manipur,Soybean,2021,1110,17,40,Alluvial,44,55,42,884,4.05
+Manipur,Soybean,2022,1855,21,50,Laterite,87,39,60,1843,5.03
+Manipur,Soybean,2023,1296,34,61,Alluvial,60,28,31,3278,3.95
+Manipur,Soybean,2024,1697,17,81,Red,94,49,30,4497,5.18
+Manipur,Tea,2015,1128,25,49,Loamy,73,38,33,2583,3.89
+Manipur,Tea,2016,1465,20,68,Sandy,95,55,27,1830,4.81
+Manipur,Tea,2017,929,18,67,Clay,87,51,39,3280,3.94
+Manipur,Tea,2018,1516,34,33,Loamy,79,43,57,710,5.15
+Manipur,Tea,2019,397,26,84,Red,77,20,26,3694,2.58
+Manipur,Tea,2020,1179,20,65,Loamy,58,39,41,4740,4.37
+Manipur,Tea,2021,1964,19,83,Laterite,78,59,31,3764,5.27
+Manipur,Tea,2022,1769,31,77,Red,100,53,26,1366,4.92
+Manipur,Tea,2023,1199,35,39,Laterite,51,43,38,4821,3.44
+Manipur,Tea,2024,1956,29,75,Clay,96,43,31,1939,5.94
+Manipur,Coffee,2015,1620,23,94,Red,46,54,38,4344,4.3
+Manipur,Coffee,2016,1469,17,47,Alluvial,65,36,37,4993,4.36
+Manipur,Coffee,2017,1244,31,43,Clay,77,52,26,756,4.07
+Manipur,Coffee,2018,1756,21,83,Alluvial,89,31,25,3075,5.01
+Manipur,Coffee,2019,601,22,45,Black,68,30,23,1506,3.52
+Manipur,Coffee,2020,1560,22,30,Clay,92,44,22,2330,5.03
+Manipur,Coffee,2021,691,15,90,Black,87,40,50,1846,3.81
+Manipur,Coffee,2022,1801,29,38,Laterite,64,38,41,3849,5.14
+Manipur,Coffee,2023,1188,27,32,Alluvial,63,24,47,1136,4.24
+Manipur,Coffee,2024,1580,22,45,Loamy,99,43,28,2823,5.15
+Meghalaya,Rice,2015,1194,20,71,Black,74,45,60,1964,4.08
+Meghalaya,Rice,2016,819,15,89,Laterite,85,24,50,1917,3.92
+Meghalaya,Rice,2017,782,22,87,Loamy,97,31,31,1600,3.92
+Meghalaya,Rice,2018,1203,24,47,Sandy,94,24,35,4180,3.87
+Meghalaya,Rice,2019,1759,27,30,Sandy,73,54,31,4262,4.78
+Meghalaya,Rice,2020,611,33,36,Alluvial,89,35,56,3664,3.27
+Meghalaya,Rice,2021,1203,24,41,Sandy,82,47,43,1423,4.6
+Meghalaya,Rice,2022,1471,34,40,Black,91,39,29,2682,4.9
+Meghalaya,Rice,2023,1700,22,44,Laterite,56,22,44,4547,4.49
+Meghalaya,Rice,2024,402,19,41,Black,50,45,36,4302,2.17
+Meghalaya,Wheat,2015,1329,26,67,Loamy,80,35,34,4414,4.02
+Meghalaya,Wheat,2016,1007,32,49,Laterite,66,25,45,4379,3.81
+Meghalaya,Wheat,2017,1566,19,35,Loamy,82,52,43,1141,5.03
+Meghalaya,Wheat,2018,1462,23,44,Red,74,53,37,1405,4.47
+Meghalaya,Wheat,2019,1183,35,74,Red,42,26,42,4130,4.0
+Meghalaya,Wheat,2020,1200,28,66,Black,74,23,53,2404,4.3
+Meghalaya,Wheat,2021,743,34,46,Sandy,65,31,58,3137,2.88
+Meghalaya,Wheat,2022,1526,29,87,Black,87,26,58,2654,5.13
+Meghalaya,Wheat,2023,1390,32,72,Clay,53,36,50,2960,4.45
+Meghalaya,Wheat,2024,1031,33,74,Loamy,86,54,33,3406,4.16
+Meghalaya,Maize,2015,1971,29,74,Red,83,50,42,1091,5.23
+Meghalaya,Maize,2016,577,20,65,Loamy,92,41,36,1143,2.86
+Meghalaya,Maize,2017,671,22,92,Loamy,88,46,50,3366,3.74
+Meghalaya,Maize,2018,1348,28,43,Alluvial,80,30,50,1919,4.54
+Meghalaya,Maize,2019,904,20,37,Clay,96,57,53,4780,4.22
+Meghalaya,Maize,2020,1880,27,38,Black,76,51,44,1915,5.02
+Meghalaya,Maize,2021,982,17,64,Loamy,43,57,20,4807,3.1
+Meghalaya,Maize,2022,340,19,60,Red,92,51,54,2791,3.21
+Meghalaya,Maize,2023,1077,19,64,Laterite,68,56,31,4711,3.53
+Meghalaya,Maize,2024,848,33,51,Clay,89,52,28,4143,3.37
+Meghalaya,Barley,2015,968,23,61,Alluvial,98,25,34,4479,4.02
+Meghalaya,Barley,2016,974,28,66,Clay,49,30,59,1435,3.92
+Meghalaya,Barley,2017,1078,28,64,Clay,88,20,52,2582,4.24
+Meghalaya,Barley,2018,773,24,39,Clay,47,56,58,1754,2.79
+Meghalaya,Barley,2019,642,16,73,Loamy,81,48,56,3367,3.14
+Meghalaya,Barley,2020,1924,26,35,Red,96,36,35,2893,5.05
+Meghalaya,Barley,2021,1250,34,38,Red,47,39,50,1288,3.71
+Meghalaya,Barley,2022,433,31,56,Loamy,56,53,22,1709,2.71
+Meghalaya,Barley,2023,461,17,50,Sandy,89,29,54,2213,3.06
+Meghalaya,Barley,2024,1387,33,95,Alluvial,68,48,23,4494,4.28
+Meghalaya,Millets,2015,1002,26,90,Black,40,24,38,1729,3.74
+Meghalaya,Millets,2016,1561,17,82,Clay,73,33,35,2349,4.37
+Meghalaya,Millets,2017,1214,18,86,Loamy,67,58,27,843,4.37
+Meghalaya,Millets,2018,732,28,86,Clay,98,29,49,1202,3.86
+Meghalaya,Millets,2019,1688,24,81,Black,90,56,59,1515,5.19
+Meghalaya,Millets,2020,624,15,71,Clay,41,31,51,4645,3.13
+Meghalaya,Millets,2021,850,35,79,Clay,64,54,49,1153,3.51
+Meghalaya,Millets,2022,983,19,54,Sandy,55,57,31,2362,4.06
+Meghalaya,Millets,2023,1102,31,94,Sandy,97,45,48,1353,3.92
+Meghalaya,Millets,2024,1662,21,75,Alluvial,64,47,42,2249,4.57
+Meghalaya,Cotton,2015,985,23,93,Black,61,24,44,2641,4.06
+Meghalaya,Cotton,2016,1935,34,41,Laterite,40,40,29,786,5.21
+Meghalaya,Cotton,2017,1722,27,80,Laterite,55,28,56,541,4.6
+Meghalaya,Cotton,2018,799,35,67,Sandy,66,59,41,3695,3.21
+Meghalaya,Cotton,2019,1388,30,66,Sandy,83,23,47,934,4.63
+Meghalaya,Cotton,2020,845,35,58,Alluvial,74,58,50,3428,3.63
+Meghalaya,Cotton,2021,372,15,60,Red,52,39,53,3638,2.9
+Meghalaya,Cotton,2022,1281,19,43,Black,80,20,51,2060,4.4
+Meghalaya,Cotton,2023,1042,32,83,Loamy,61,32,27,1928,4.24
+Meghalaya,Cotton,2024,1960,35,61,Laterite,74,30,35,1404,5.29
+Meghalaya,Sugarcane,2015,1785,27,56,Clay,90,56,47,1078,5.66
+Meghalaya,Sugarcane,2016,1876,19,34,Laterite,91,54,60,4813,5.61
+Meghalaya,Sugarcane,2017,556,29,56,Loamy,76,45,21,4246,3.32
+Meghalaya,Sugarcane,2018,1631,31,71,Sandy,41,21,45,824,4.93
+Meghalaya,Sugarcane,2019,570,21,83,Loamy,51,21,31,1885,2.9
+Meghalaya,Sugarcane,2020,667,29,92,Black,57,28,47,2766,3.19
+Meghalaya,Sugarcane,2021,853,33,75,Alluvial,87,39,35,4453,3.82
+Meghalaya,Sugarcane,2022,1918,15,86,Alluvial,91,60,41,1657,5.52
+Meghalaya,Sugarcane,2023,1658,15,75,Black,71,58,51,3430,4.59
+Meghalaya,Sugarcane,2024,1477,20,74,Clay,62,54,58,2628,4.92
+Meghalaya,Pulses,2015,1691,26,71,Sandy,75,56,40,1028,4.89
+Meghalaya,Pulses,2016,1225,31,71,Loamy,65,27,29,4060,4.26
+Meghalaya,Pulses,2017,1354,23,90,Loamy,63,46,50,2878,4.44
+Meghalaya,Pulses,2018,1681,29,64,Sandy,83,59,43,1311,4.76
+Meghalaya,Pulses,2019,1130,21,42,Red,83,41,51,4308,3.83
+Meghalaya,Pulses,2020,1426,31,79,Alluvial,62,30,39,1088,4.51
+Meghalaya,Pulses,2021,1795,32,35,Red,47,23,36,4589,4.97
+Meghalaya,Pulses,2022,867,23,74,Sandy,100,28,56,2861,4.16
+Meghalaya,Pulses,2023,1873,33,65,Clay,83,38,21,2540,5.51
+Meghalaya,Pulses,2024,1558,30,60,Red,58,48,41,1993,4.37
+Meghalaya,Groundnut,2015,1435,15,41,Loamy,49,35,42,4416,4.13
+Meghalaya,Groundnut,2016,1969,22,87,Clay,45,35,24,4106,4.66
+Meghalaya,Groundnut,2017,860,27,74,Laterite,88,46,23,3340,3.92
+Meghalaya,Groundnut,2018,825,32,34,Loamy,62,30,32,1053,2.93
+Meghalaya,Groundnut,2019,671,19,36,Loamy,93,52,37,2847,3.86
+Meghalaya,Groundnut,2020,1014,24,53,Sandy,50,43,22,4882,4.09
+Meghalaya,Groundnut,2021,1030,21,55,Clay,41,24,45,4524,3.07
+Meghalaya,Groundnut,2022,1905,20,39,Clay,87,32,43,2780,5.84
+Meghalaya,Groundnut,2023,1487,32,91,Black,100,49,57,1462,4.7
+Meghalaya,Groundnut,2024,1665,22,52,Sandy,87,21,33,2662,4.73
+Meghalaya,Soybean,2015,338,21,56,Black,70,44,58,579,2.41
+Meghalaya,Soybean,2016,1206,27,79,Clay,60,32,26,4496,4.47
+Meghalaya,Soybean,2017,1264,27,76,Sandy,56,49,36,655,3.67
+Meghalaya,Soybean,2018,543,31,37,Red,83,21,49,2343,3.5
+Meghalaya,Soybean,2019,1082,29,58,Sandy,88,52,50,1434,3.86
+Meghalaya,Soybean,2020,1948,33,79,Loamy,99,46,57,1995,5.33
+Meghalaya,Soybean,2021,511,18,66,Sandy,79,53,57,3375,3.3
+Meghalaya,Soybean,2022,853,18,89,Laterite,71,52,21,3883,3.81
+Meghalaya,Soybean,2023,1548,24,94,Laterite,100,47,36,4894,4.62
+Meghalaya,Soybean,2024,1318,27,71,Sandy,50,25,33,4382,3.81
+Meghalaya,Tea,2015,1678,17,74,Loamy,50,20,38,1095,4.23
+Meghalaya,Tea,2016,1798,26,45,Red,99,41,56,3630,4.94
+Meghalaya,Tea,2017,1963,22,58,Black,86,29,23,1290,5.6
+Meghalaya,Tea,2018,916,31,51,Alluvial,63,58,46,3391,3.53
+Meghalaya,Tea,2019,438,30,65,Black,67,34,24,4855,3.02
+Meghalaya,Tea,2020,1566,31,61,Red,84,60,53,1188,4.4
+Meghalaya,Tea,2021,1313,26,75,Red,60,29,50,4840,4.07
+Meghalaya,Tea,2022,1032,28,68,Loamy,94,39,28,4463,3.64
+Meghalaya,Tea,2023,545,20,85,Loamy,76,34,58,1236,2.69
+Meghalaya,Tea,2024,1672,22,69,Clay,42,57,27,3066,4.36
+Meghalaya,Coffee,2015,1639,25,93,Loamy,59,50,24,3578,4.73
+Meghalaya,Coffee,2016,1184,22,69,Black,78,22,41,2032,3.92
+Meghalaya,Coffee,2017,765,28,77,Sandy,78,20,56,3347,2.96
+Meghalaya,Coffee,2018,389,30,72,Alluvial,57,35,21,5000,2.46
+Meghalaya,Coffee,2019,1431,15,84,Loamy,48,25,42,4137,3.91
+Meghalaya,Coffee,2020,1776,21,66,Loamy,69,47,37,3158,4.64
+Meghalaya,Coffee,2021,1974,32,91,Red,42,44,30,4696,4.67
+Meghalaya,Coffee,2022,1388,30,59,Alluvial,41,51,52,4186,4.19
+Meghalaya,Coffee,2023,1527,26,70,Black,45,36,20,730,4.86
+Meghalaya,Coffee,2024,992,33,31,Laterite,81,35,48,2892,3.61
+Mizoram,Rice,2015,1661,21,57,Alluvial,66,26,53,893,4.44
+Mizoram,Rice,2016,1374,22,93,Loamy,72,27,44,4716,4.8
+Mizoram,Rice,2017,1661,21,44,Alluvial,43,41,38,3364,4.63
+Mizoram,Rice,2018,1815,34,34,Clay,57,21,55,2167,4.84
+Mizoram,Rice,2019,1938,30,40,Clay,42,37,23,2503,5.14
+Mizoram,Rice,2020,658,18,90,Red,74,24,52,1940,3.05
+Mizoram,Rice,2021,935,27,72,Black,89,30,57,4286,3.65
+Mizoram,Rice,2022,704,33,72,Black,88,21,23,3130,3.38
+Mizoram,Rice,2023,327,33,82,Clay,50,38,48,952,1.96
+Mizoram,Rice,2024,1330,22,87,Laterite,41,22,54,3444,3.59
+Mizoram,Wheat,2015,576,35,57,Laterite,84,60,38,2788,3.58
+Mizoram,Wheat,2016,482,27,47,Clay,74,43,45,1980,2.71
+Mizoram,Wheat,2017,1334,23,32,Loamy,50,57,48,2549,4.25
+Mizoram,Wheat,2018,615,32,92,Loamy,51,57,54,3430,2.79
+Mizoram,Wheat,2019,1839,19,41,Laterite,52,27,51,4661,5.05
+Mizoram,Wheat,2020,540,26,81,Red,98,46,46,989,2.8
+Mizoram,Wheat,2021,1857,29,79,Clay,46,43,22,2861,4.72
+Mizoram,Wheat,2022,789,21,90,Loamy,78,29,50,1662,3.69
+Mizoram,Wheat,2023,425,21,68,Sandy,48,20,53,4210,2.85
+Mizoram,Wheat,2024,1498,23,65,Clay,62,42,28,2384,5.0
+Mizoram,Maize,2015,1986,24,63,Clay,53,47,52,4790,5.12
+Mizoram,Maize,2016,1945,17,83,Alluvial,92,30,34,3468,5.23
+Mizoram,Maize,2017,1381,20,41,Alluvial,99,34,56,1483,4.28
+Mizoram,Maize,2018,579,25,74,Black,100,52,31,1760,3.48
+Mizoram,Maize,2019,1590,25,59,Loamy,91,49,49,1122,5.33
+Mizoram,Maize,2020,1243,33,41,Laterite,71,25,40,2443,3.72
+Mizoram,Maize,2021,404,23,94,Sandy,47,37,42,4577,2.72
+Mizoram,Maize,2022,859,19,47,Black,98,45,50,2554,4.08
+Mizoram,Maize,2023,1541,34,71,Black,46,46,34,869,4.65
+Mizoram,Maize,2024,1217,31,35,Alluvial,94,28,36,865,4.55
+Mizoram,Barley,2015,1025,23,94,Clay,48,35,30,1827,3.42
+Mizoram,Barley,2016,825,33,45,Black,70,56,33,4535,3.31
+Mizoram,Barley,2017,969,33,40,Loamy,86,23,26,1457,4.26
+Mizoram,Barley,2018,559,25,31,Alluvial,92,58,31,817,2.94
+Mizoram,Barley,2019,1037,26,93,Clay,68,46,30,4790,3.71
+Mizoram,Barley,2020,513,21,82,Alluvial,69,30,24,510,3.12
+Mizoram,Barley,2021,1547,25,81,Laterite,62,22,39,2414,4.54
+Mizoram,Barley,2022,626,29,38,Loamy,86,43,40,3000,3.31
+Mizoram,Barley,2023,989,16,30,Laterite,88,45,44,656,3.99
+Mizoram,Barley,2024,998,27,50,Clay,63,33,25,994,3.67
+Mizoram,Millets,2015,1993,27,66,Clay,44,51,22,3455,5.21
+Mizoram,Millets,2016,1964,22,78,Alluvial,93,46,59,4575,6.01
+Mizoram,Millets,2017,1119,16,90,Clay,72,24,48,1200,3.7
+Mizoram,Millets,2018,1130,26,40,Red,54,34,57,524,3.81
+Mizoram,Millets,2019,1020,16,46,Loamy,65,28,49,2387,3.74
+Mizoram,Millets,2020,1497,18,75,Red,43,37,27,1960,4.59
+Mizoram,Millets,2021,590,30,75,Black,74,38,20,3874,3.05
+Mizoram,Millets,2022,933,25,38,Red,62,59,40,2300,3.48
+Mizoram,Millets,2023,1567,22,69,Black,79,28,57,4919,4.69
+Mizoram,Millets,2024,592,31,60,Clay,79,22,23,3849,3.26
+Mizoram,Cotton,2015,765,35,55,Clay,77,30,28,1276,3.27
+Mizoram,Cotton,2016,1259,28,94,Clay,73,27,49,3146,4.41
+Mizoram,Cotton,2017,1522,24,70,Loamy,90,32,47,3675,5.15
+Mizoram,Cotton,2018,937,26,44,Laterite,64,29,22,1025,3.45
+Mizoram,Cotton,2019,1203,19,40,Black,81,38,59,3655,4.11
+Mizoram,Cotton,2020,906,33,39,Loamy,67,38,58,3534,3.19
+Mizoram,Cotton,2021,1655,24,71,Red,80,57,36,2275,4.92
+Mizoram,Cotton,2022,1511,16,63,Loamy,84,50,28,4759,4.34
+Mizoram,Cotton,2023,593,19,65,Clay,92,41,37,1902,2.99
+Mizoram,Cotton,2024,1944,21,37,Sandy,83,47,47,3408,5.17
+Mizoram,Sugarcane,2015,977,20,79,Black,42,33,55,4740,3.47
+Mizoram,Sugarcane,2016,1469,15,36,Red,82,51,47,3990,4.74
+Mizoram,Sugarcane,2017,581,28,32,Clay,68,33,37,1771,3.33
+Mizoram,Sugarcane,2018,814,22,42,Sandy,51,57,41,1855,2.82
+Mizoram,Sugarcane,2019,369,34,62,Red,58,26,28,800,2.44
+Mizoram,Sugarcane,2020,347,17,54,Laterite,69,22,22,3732,3.06
+Mizoram,Sugarcane,2021,1766,28,38,Sandy,57,43,54,622,5.07
+Mizoram,Sugarcane,2022,499,26,40,Red,97,23,49,2245,2.78
+Mizoram,Sugarcane,2023,792,25,68,Laterite,53,44,25,1705,3.49
+Mizoram,Sugarcane,2024,1033,29,61,Loamy,41,29,42,4987,3.88
+Mizoram,Pulses,2015,1361,34,93,Sandy,98,27,56,3615,4.52
+Mizoram,Pulses,2016,1652,19,49,Loamy,69,22,45,2957,4.88
+Mizoram,Pulses,2017,913,18,51,Loamy,57,40,58,4364,3.33
+Mizoram,Pulses,2018,1347,24,53,Laterite,68,36,36,4868,4.46
+Mizoram,Pulses,2019,765,35,56,Alluvial,59,24,28,2332,3.74
+Mizoram,Pulses,2020,1527,22,46,Loamy,83,34,50,1881,4.46
+Mizoram,Pulses,2021,1833,27,69,Black,59,38,54,1133,5.42
+Mizoram,Pulses,2022,433,15,54,Alluvial,94,52,46,2963,3.5
+Mizoram,Pulses,2023,1413,20,30,Laterite,66,46,50,875,4.61
+Mizoram,Pulses,2024,890,33,32,Laterite,69,51,32,3981,3.63
+Mizoram,Groundnut,2015,604,29,56,Loamy,42,46,21,1859,2.85
+Mizoram,Groundnut,2016,963,35,49,Black,74,33,53,1484,3.64
+Mizoram,Groundnut,2017,1528,19,73,Laterite,47,34,43,3577,4.12
+Mizoram,Groundnut,2018,1942,35,56,Sandy,89,50,41,2678,5.35
+Mizoram,Groundnut,2019,1437,33,63,Clay,45,22,51,715,4.17
+Mizoram,Groundnut,2020,1317,32,59,Loamy,50,21,36,3382,4.15
+Mizoram,Groundnut,2021,1481,16,91,Clay,53,41,20,808,4.83
+Mizoram,Groundnut,2022,1382,24,85,Red,92,29,21,831,4.82
+Mizoram,Groundnut,2023,950,20,42,Black,43,54,26,4813,3.08
+Mizoram,Groundnut,2024,1533,25,38,Black,78,43,42,4235,4.8
+Mizoram,Soybean,2015,447,19,33,Laterite,41,25,44,1939,2.18
+Mizoram,Soybean,2016,1171,19,87,Sandy,40,51,48,3818,3.35
+Mizoram,Soybean,2017,1148,35,82,Sandy,45,46,53,762,4.08
+Mizoram,Soybean,2018,1706,29,68,Red,51,34,38,1746,4.91
+Mizoram,Soybean,2019,1223,31,94,Clay,79,26,47,1835,3.77
+Mizoram,Soybean,2020,890,20,36,Sandy,100,32,35,500,4.13
+Mizoram,Soybean,2021,700,26,94,Black,71,31,21,2906,2.96
+Mizoram,Soybean,2022,1211,29,47,Sandy,53,56,47,4534,4.34
+Mizoram,Soybean,2023,1362,19,67,Laterite,61,24,46,3499,4.16
+Mizoram,Soybean,2024,1374,21,47,Sandy,100,51,58,1828,4.69
+Mizoram,Tea,2015,862,17,61,Sandy,66,24,35,2181,3.62
+Mizoram,Tea,2016,1715,34,82,Loamy,92,23,57,1391,5.04
+Mizoram,Tea,2017,1921,24,43,Sandy,70,28,37,3188,5.54
+Mizoram,Tea,2018,669,24,81,Loamy,87,60,56,1901,3.37
+Mizoram,Tea,2019,1518,25,63,Black,45,49,41,2271,4.12
+Mizoram,Tea,2020,415,23,59,Loamy,75,20,57,892,2.44
+Mizoram,Tea,2021,885,17,44,Sandy,85,54,27,4958,3.31
+Mizoram,Tea,2022,753,21,79,Red,66,60,57,3461,3.25
+Mizoram,Tea,2023,1688,26,60,Clay,55,55,49,2928,4.89
+Mizoram,Tea,2024,1469,33,58,Clay,87,34,42,2609,4.69
+Mizoram,Coffee,2015,1943,25,91,Alluvial,52,41,49,3956,5.11
+Mizoram,Coffee,2016,1361,25,38,Laterite,74,57,59,2789,4.77
+Mizoram,Coffee,2017,1795,29,62,Laterite,67,44,47,2273,4.86
+Mizoram,Coffee,2018,1676,16,42,Sandy,45,28,52,3300,4.27
+Mizoram,Coffee,2019,1892,23,47,Alluvial,98,60,36,1325,5.72
+Mizoram,Coffee,2020,627,22,55,Red,67,33,58,4682,3.49
+Mizoram,Coffee,2021,658,27,45,Alluvial,57,41,30,635,2.72
+Mizoram,Coffee,2022,1591,28,83,Alluvial,88,50,52,1862,4.75
+Mizoram,Coffee,2023,1911,30,43,Sandy,94,30,42,926,5.18
+Mizoram,Coffee,2024,1382,16,89,Red,79,30,35,4314,4.09
+Nagaland,Rice,2015,772,21,73,Clay,57,32,38,4432,3.54
+Nagaland,Rice,2016,1940,30,31,Black,84,48,31,4711,5.58
+Nagaland,Rice,2017,1389,26,47,Laterite,98,52,34,4208,4.21
+Nagaland,Rice,2018,1400,34,30,Laterite,66,40,43,4859,4.34
+Nagaland,Rice,2019,810,25,47,Clay,57,59,35,3988,3.6
+Nagaland,Rice,2020,1320,35,58,Clay,91,56,41,3075,4.27
+Nagaland,Rice,2021,1045,26,58,Sandy,59,56,44,4055,4.23
+Nagaland,Rice,2022,596,15,65,Black,40,45,44,4795,2.85
+Nagaland,Rice,2023,1925,25,63,Clay,61,29,36,2953,5.22
+Nagaland,Rice,2024,755,28,38,Alluvial,87,32,31,2647,3.67
+Nagaland,Wheat,2015,1667,29,53,Sandy,74,26,32,2125,4.68
+Nagaland,Wheat,2016,1049,31,40,Clay,100,55,50,1619,4.53
+Nagaland,Wheat,2017,1579,15,34,Red,62,32,28,3031,4.93
+Nagaland,Wheat,2018,1654,25,68,Laterite,82,55,53,4514,4.85
+Nagaland,Wheat,2019,395,27,91,Loamy,84,31,44,978,3.04
+Nagaland,Wheat,2020,1530,18,57,Loamy,49,54,59,2590,4.23
+Nagaland,Wheat,2021,1426,25,49,Loamy,63,28,21,3643,4.24
+Nagaland,Wheat,2022,1998,18,80,Sandy,95,43,39,1502,5.67
+Nagaland,Wheat,2023,1884,34,87,Alluvial,42,20,24,636,4.76
+Nagaland,Wheat,2024,1314,23,80,Red,55,58,59,4392,3.74
+Nagaland,Maize,2015,1414,24,94,Alluvial,87,48,42,3712,4.78
+Nagaland,Maize,2016,1218,16,95,Black,48,38,49,3450,4.21
+Nagaland,Maize,2017,1215,28,66,Laterite,80,31,24,3664,3.99
+Nagaland,Maize,2018,456,29,92,Clay,47,45,30,983,2.39
+Nagaland,Maize,2019,1125,19,36,Clay,63,22,60,3229,4.15
+Nagaland,Maize,2020,1381,23,54,Sandy,50,52,59,3785,3.77
+Nagaland,Maize,2021,530,33,87,Loamy,73,42,28,3941,3.47
+Nagaland,Maize,2022,658,15,95,Alluvial,55,46,33,2723,3.4
+Nagaland,Maize,2023,1626,23,35,Red,52,25,59,3158,4.33
+Nagaland,Maize,2024,939,20,38,Laterite,81,34,42,3858,3.85
+Nagaland,Barley,2015,748,21,39,Laterite,79,56,37,2852,3.76
+Nagaland,Barley,2016,999,30,46,Alluvial,42,20,51,4797,3.61
+Nagaland,Barley,2017,1645,22,34,Sandy,89,44,36,2591,4.55
+Nagaland,Barley,2018,1498,26,34,Sandy,83,24,25,3838,4.83
+Nagaland,Barley,2019,747,21,39,Sandy,84,26,37,2021,3.57
+Nagaland,Barley,2020,1795,30,95,Clay,98,26,52,2367,5.16
+Nagaland,Barley,2021,1309,18,43,Laterite,60,30,48,3841,4.59
+Nagaland,Barley,2022,911,25,62,Laterite,50,59,38,1277,3.39
+Nagaland,Barley,2023,337,33,43,Black,71,45,36,4641,2.37
+Nagaland,Barley,2024,809,25,93,Loamy,60,32,49,4448,3.52
+Nagaland,Millets,2015,1492,25,69,Black,98,36,49,2070,4.6
+Nagaland,Millets,2016,494,17,82,Black,83,56,46,969,3.0
+Nagaland,Millets,2017,1305,29,83,Clay,51,24,53,4169,3.92
+Nagaland,Millets,2018,1216,15,43,Clay,77,29,56,2681,4.27
+Nagaland,Millets,2019,1853,31,69,Loamy,57,57,58,1781,5.0
+Nagaland,Millets,2020,542,30,79,Black,51,56,59,700,3.08
+Nagaland,Millets,2021,1621,32,30,Sandy,67,35,43,697,4.77
+Nagaland,Millets,2022,1107,31,58,Alluvial,97,25,55,1783,3.84
+Nagaland,Millets,2023,938,32,34,Laterite,97,54,34,3561,3.98
+Nagaland,Millets,2024,695,23,30,Sandy,93,45,23,557,3.6
+Nagaland,Cotton,2015,863,23,74,Laterite,53,22,52,4172,3.02
+Nagaland,Cotton,2016,1459,27,30,Laterite,42,36,57,1669,3.99
+Nagaland,Cotton,2017,1272,17,55,Clay,96,29,20,4300,4.48
+Nagaland,Cotton,2018,1901,20,39,Black,65,24,52,4309,5.44
+Nagaland,Cotton,2019,1505,29,38,Red,88,40,35,923,5.15
+Nagaland,Cotton,2020,1110,29,47,Laterite,96,60,53,2081,4.47
+Nagaland,Cotton,2021,1860,24,82,Sandy,89,21,35,3031,5.22
+Nagaland,Cotton,2022,796,28,74,Red,64,26,33,4910,3.57
+Nagaland,Cotton,2023,1665,35,72,Black,47,25,29,3064,4.63
+Nagaland,Cotton,2024,1422,23,63,Loamy,81,52,48,4358,4.59
+Nagaland,Sugarcane,2015,312,28,78,Clay,91,28,45,4899,3.06
+Nagaland,Sugarcane,2016,597,25,79,Alluvial,94,52,56,1088,2.78
+Nagaland,Sugarcane,2017,1544,31,30,Loamy,82,29,24,1803,4.65
+Nagaland,Sugarcane,2018,1760,24,39,Black,45,48,47,3440,4.77
+Nagaland,Sugarcane,2019,1741,33,46,Black,75,58,53,1682,4.96
+Nagaland,Sugarcane,2020,1088,26,35,Alluvial,74,35,32,1799,3.79
+Nagaland,Sugarcane,2021,1568,25,37,Laterite,73,37,54,1992,4.9
+Nagaland,Sugarcane,2022,1339,29,77,Black,80,20,53,2996,4.69
+Nagaland,Sugarcane,2023,1388,31,68,Black,49,44,58,3138,3.8
+Nagaland,Sugarcane,2024,827,22,52,Loamy,41,27,20,2871,3.13
+Nagaland,Pulses,2015,446,28,50,Red,87,44,49,1137,3.1
+Nagaland,Pulses,2016,1302,30,35,Clay,78,50,50,1520,4.69
+Nagaland,Pulses,2017,1073,18,35,Loamy,72,50,45,4393,3.47
+Nagaland,Pulses,2018,1036,34,87,Black,46,20,29,1001,4.1
+Nagaland,Pulses,2019,1080,32,83,Laterite,58,43,34,2075,4.04
+Nagaland,Pulses,2020,1131,24,82,Sandy,62,26,36,3020,4.07
+Nagaland,Pulses,2021,305,31,55,Sandy,50,20,30,4280,2.5
+Nagaland,Pulses,2022,1478,17,71,Red,73,26,43,4549,4.89
+Nagaland,Pulses,2023,1611,18,56,Sandy,69,27,20,3985,4.96
+Nagaland,Pulses,2024,1315,35,74,Loamy,76,36,42,3098,3.9
+Nagaland,Groundnut,2015,1358,33,80,Sandy,79,60,27,1717,4.33
+Nagaland,Groundnut,2016,927,35,66,Alluvial,97,56,60,1320,3.39
+Nagaland,Groundnut,2017,859,32,76,Clay,90,35,57,4540,3.7
+Nagaland,Groundnut,2018,534,22,87,Red,55,52,51,4395,2.38
+Nagaland,Groundnut,2019,1312,28,55,Loamy,60,56,44,4045,3.91
+Nagaland,Groundnut,2020,819,20,68,Black,40,37,56,2421,3.19
+Nagaland,Groundnut,2021,1596,25,92,Laterite,44,28,27,1662,4.17
+Nagaland,Groundnut,2022,1303,34,52,Laterite,83,30,41,4261,4.76
+Nagaland,Groundnut,2023,1352,24,90,Black,70,55,37,4681,4.07
+Nagaland,Groundnut,2024,918,24,81,Clay,95,46,47,2025,3.63
+Nagaland,Soybean,2015,401,16,80,Loamy,73,27,55,885,3.02
+Nagaland,Soybean,2016,1698,17,84,Sandy,91,54,40,3025,5.51
+Nagaland,Soybean,2017,1834,33,58,Clay,74,30,34,1839,5.05
+Nagaland,Soybean,2018,1468,16,48,Laterite,94,25,39,1376,4.56
+Nagaland,Soybean,2019,1668,34,79,Clay,94,54,34,2869,4.95
+Nagaland,Soybean,2020,343,34,59,Alluvial,44,45,39,2708,2.28
+Nagaland,Soybean,2021,1852,29,76,Laterite,70,39,47,2373,5.21
+Nagaland,Soybean,2022,744,17,38,Alluvial,81,41,23,1185,3.14
+Nagaland,Soybean,2023,813,21,30,Laterite,47,56,40,3573,3.01
+Nagaland,Soybean,2024,1462,18,51,Loamy,76,55,46,2829,4.09
+Nagaland,Tea,2015,772,29,90,Red,85,27,48,3857,3.68
+Nagaland,Tea,2016,369,27,79,Red,78,25,49,1123,2.9
+Nagaland,Tea,2017,398,29,34,Laterite,79,55,55,4630,2.84
+Nagaland,Tea,2018,1897,23,34,Black,81,22,45,1608,5.12
+Nagaland,Tea,2019,508,35,64,Alluvial,80,33,59,4481,3.36
+Nagaland,Tea,2020,460,19,73,Alluvial,62,48,28,4126,2.63
+Nagaland,Tea,2021,1064,19,58,Sandy,94,28,26,2464,4.14
+Nagaland,Tea,2022,1127,18,80,Clay,52,43,25,1929,3.55
+Nagaland,Tea,2023,1155,34,63,Alluvial,67,56,57,2875,4.07
+Nagaland,Tea,2024,797,21,64,Laterite,44,41,20,1147,3.03
+Nagaland,Coffee,2015,1129,30,39,Loamy,70,27,49,3317,3.97
+Nagaland,Coffee,2016,978,17,80,Sandy,85,29,24,2425,3.62
+Nagaland,Coffee,2017,696,33,77,Loamy,68,43,34,2016,3.5
+Nagaland,Coffee,2018,633,17,80,Clay,74,55,28,1693,3.43
+Nagaland,Coffee,2019,1208,16,92,Sandy,43,21,44,3022,3.84
+Nagaland,Coffee,2020,1465,32,41,Clay,89,52,41,4266,4.65
+Nagaland,Coffee,2021,370,18,59,Clay,97,28,47,2388,2.73
+Nagaland,Coffee,2022,373,31,44,Red,93,45,56,2814,2.64
+Nagaland,Coffee,2023,1976,33,61,Red,70,32,34,509,5.32
+Nagaland,Coffee,2024,1024,30,54,Red,59,50,26,2677,3.52
+Odisha,Rice,2015,724,30,94,Clay,51,53,32,2847,2.73
+Odisha,Rice,2016,1518,18,36,Clay,55,38,25,4933,4.11
+Odisha,Rice,2017,533,34,45,Clay,100,27,26,2137,3.4
+Odisha,Rice,2018,1266,22,95,Laterite,87,23,42,850,4.78
+Odisha,Rice,2019,1568,19,47,Laterite,41,35,40,4934,4.41
+Odisha,Rice,2020,406,15,86,Alluvial,68,55,43,2233,2.39
+Odisha,Rice,2021,1225,35,61,Sandy,58,43,33,2968,3.7
+Odisha,Rice,2022,1577,18,31,Alluvial,52,59,48,3155,4.68
+Odisha,Rice,2023,568,34,93,Clay,53,38,60,3109,2.91
+Odisha,Rice,2024,747,31,49,Black,40,27,26,3401,3.54
+Odisha,Wheat,2015,691,17,51,Black,48,40,59,4950,3.0
+Odisha,Wheat,2016,963,35,64,Loamy,61,49,50,687,3.71
+Odisha,Wheat,2017,415,20,32,Loamy,94,57,43,3870,3.46
+Odisha,Wheat,2018,926,26,39,Alluvial,95,25,33,2988,3.94
+Odisha,Wheat,2019,496,25,80,Clay,50,53,50,651,2.77
+Odisha,Wheat,2020,1215,34,80,Laterite,57,20,33,2660,3.84
+Odisha,Wheat,2021,809,22,44,Loamy,70,28,42,1322,3.08
+Odisha,Wheat,2022,836,26,34,Sandy,74,60,59,835,3.91
+Odisha,Wheat,2023,522,26,82,Sandy,79,43,44,1793,3.15
+Odisha,Wheat,2024,1046,32,85,Clay,60,21,25,3918,3.25
+Odisha,Maize,2015,462,29,36,Loamy,88,34,36,4556,3.44
+Odisha,Maize,2016,1684,21,39,Sandy,98,32,23,780,5.6
+Odisha,Maize,2017,698,25,95,Sandy,40,44,58,4169,3.07
+Odisha,Maize,2018,399,28,90,Alluvial,85,57,27,4855,2.83
+Odisha,Maize,2019,1843,32,59,Black,49,49,39,1919,4.62
+Odisha,Maize,2020,1537,24,82,Red,75,45,49,1084,4.48
+Odisha,Maize,2021,733,34,55,Black,61,53,26,2985,3.28
+Odisha,Maize,2022,852,32,34,Sandy,63,48,60,3199,3.03
+Odisha,Maize,2023,857,25,78,Black,62,40,41,2994,3.78
+Odisha,Maize,2024,1774,28,50,Clay,48,37,58,4713,5.23
+Odisha,Barley,2015,1192,24,48,Alluvial,56,29,57,3288,4.44
+Odisha,Barley,2016,378,22,41,Clay,42,38,24,4781,2.58
+Odisha,Barley,2017,1095,30,84,Alluvial,68,52,38,3387,4.0
+Odisha,Barley,2018,306,29,83,Black,55,50,23,1447,2.76
+Odisha,Barley,2019,771,16,50,Black,81,24,50,991,3.51
+Odisha,Barley,2020,649,22,61,Sandy,58,39,58,1594,2.58
+Odisha,Barley,2021,1363,22,67,Black,65,37,50,2605,4.11
+Odisha,Barley,2022,636,25,79,Loamy,67,23,46,1042,2.95
+Odisha,Barley,2023,1076,29,87,Alluvial,77,47,37,2324,3.88
+Odisha,Barley,2024,1111,32,35,Clay,58,22,38,2577,4.19
+Odisha,Millets,2015,1382,35,37,Laterite,64,56,48,2528,4.56
+Odisha,Millets,2016,751,23,44,Laterite,73,40,31,4103,3.64
+Odisha,Millets,2017,1391,17,40,Loamy,87,20,53,1390,4.35
+Odisha,Millets,2018,539,20,73,Sandy,87,28,51,3859,3.42
+Odisha,Millets,2019,390,30,55,Alluvial,60,34,41,1002,2.95
+Odisha,Millets,2020,1077,29,32,Clay,89,23,54,2729,4.38
+Odisha,Millets,2021,523,17,52,Black,83,56,41,3211,3.14
+Odisha,Millets,2022,1911,33,73,Loamy,81,26,26,3066,5.83
+Odisha,Millets,2023,1679,19,73,Red,76,51,49,3957,4.89
+Odisha,Millets,2024,1115,15,67,Sandy,65,60,47,801,4.23
+Odisha,Cotton,2015,1071,25,74,Clay,62,38,25,2240,3.93
+Odisha,Cotton,2016,1681,34,51,Clay,43,22,21,4443,4.39
+Odisha,Cotton,2017,1916,29,78,Black,43,47,37,3099,5.13
+Odisha,Cotton,2018,881,23,80,Red,81,40,58,4790,3.81
+Odisha,Cotton,2019,959,17,95,Clay,43,24,39,1614,3.83
+Odisha,Cotton,2020,1079,25,41,Black,98,32,26,992,3.88
+Odisha,Cotton,2021,1446,29,73,Red,60,57,26,4231,4.29
+Odisha,Cotton,2022,333,26,95,Loamy,40,22,29,603,2.78
+Odisha,Cotton,2023,1082,19,66,Alluvial,69,23,52,1170,3.84
+Odisha,Cotton,2024,1310,35,84,Loamy,91,20,42,3748,3.95
+Odisha,Sugarcane,2015,973,17,84,Sandy,63,39,49,2915,4.14
+Odisha,Sugarcane,2016,1323,18,76,Clay,56,29,32,796,4.17
+Odisha,Sugarcane,2017,1647,19,67,Black,97,23,58,3381,5.11
+Odisha,Sugarcane,2018,1348,16,32,Black,45,20,41,1604,4.03
+Odisha,Sugarcane,2019,1269,33,72,Loamy,88,31,26,4558,4.36
+Odisha,Sugarcane,2020,923,15,64,Clay,88,28,24,4147,3.78
+Odisha,Sugarcane,2021,1592,25,46,Sandy,61,38,51,4893,5.09
+Odisha,Sugarcane,2022,1026,15,69,Laterite,55,59,55,545,3.66
+Odisha,Sugarcane,2023,1027,24,36,Red,54,55,47,2559,3.46
+Odisha,Sugarcane,2024,1009,25,52,Clay,96,57,20,2719,4.15
+Odisha,Pulses,2015,469,26,31,Black,64,34,52,644,2.55
+Odisha,Pulses,2016,500,19,79,Alluvial,56,27,20,1517,3.26
+Odisha,Pulses,2017,332,22,72,Black,75,50,34,3472,2.22
+Odisha,Pulses,2018,1207,28,55,Red,100,47,24,3034,4.1
+Odisha,Pulses,2019,1662,23,74,Sandy,68,43,20,2167,4.34
+Odisha,Pulses,2020,717,33,53,Alluvial,80,47,37,2042,3.42
+Odisha,Pulses,2021,913,32,66,Red,51,49,59,3304,3.72
+Odisha,Pulses,2022,747,16,32,Sandy,89,42,58,1378,3.46
+Odisha,Pulses,2023,883,27,54,Clay,64,22,38,1431,3.2
+Odisha,Pulses,2024,1418,35,80,Clay,59,36,29,965,4.55
+Odisha,Groundnut,2015,1546,19,84,Red,61,34,30,4498,4.26
+Odisha,Groundnut,2016,1563,35,84,Laterite,94,23,41,1934,5.07
+Odisha,Groundnut,2017,1024,17,55,Clay,82,57,44,1755,3.91
+Odisha,Groundnut,2018,1702,32,62,Alluvial,73,25,31,4637,4.48
+Odisha,Groundnut,2019,1567,35,78,Black,95,21,32,1725,4.98
+Odisha,Groundnut,2020,1622,35,89,Clay,87,23,21,4696,4.69
+Odisha,Groundnut,2021,1364,24,75,Clay,76,22,28,1044,4.82
+Odisha,Groundnut,2022,340,25,40,Red,84,21,32,3739,2.83
+Odisha,Groundnut,2023,684,18,91,Sandy,62,23,40,4100,3.16
+Odisha,Groundnut,2024,421,19,56,Sandy,69,35,42,1773,2.31
+Odisha,Soybean,2015,1254,31,38,Loamy,95,30,36,2674,4.6
+Odisha,Soybean,2016,1923,24,43,Laterite,97,27,20,4996,5.62
+Odisha,Soybean,2017,403,33,67,Sandy,53,57,51,1982,3.11
+Odisha,Soybean,2018,1419,35,70,Laterite,67,45,23,1187,4.04
+Odisha,Soybean,2019,894,23,66,Loamy,51,46,55,1822,3.9
+Odisha,Soybean,2020,390,31,89,Laterite,70,20,29,3794,2.51
+Odisha,Soybean,2021,1655,28,91,Red,78,57,53,2300,4.83
+Odisha,Soybean,2022,904,32,42,Loamy,63,55,58,3527,3.28
+Odisha,Soybean,2023,1962,29,86,Alluvial,73,46,59,1982,4.93
+Odisha,Soybean,2024,1400,22,95,Red,47,28,43,1919,4.68
+Odisha,Tea,2015,1491,34,92,Sandy,100,38,47,3273,4.85
+Odisha,Tea,2016,557,16,74,Sandy,88,21,54,4579,2.9
+Odisha,Tea,2017,1523,30,55,Black,68,59,34,929,4.72
+Odisha,Tea,2018,1483,20,52,Black,44,56,53,3392,4.81
+Odisha,Tea,2019,942,20,58,Loamy,70,48,42,4996,4.04
+Odisha,Tea,2020,1411,20,72,Laterite,97,53,24,2220,4.26
+Odisha,Tea,2021,1966,24,38,Black,46,55,48,3829,5.41
+Odisha,Tea,2022,996,18,79,Loamy,53,37,29,3980,3.83
+Odisha,Tea,2023,1186,15,62,Clay,56,21,33,1196,4.31
+Odisha,Tea,2024,508,34,66,Sandy,77,30,42,1150,3.36
+Odisha,Coffee,2015,727,32,75,Laterite,69,54,31,2681,3.5
+Odisha,Coffee,2016,956,21,49,Red,83,59,44,2473,3.71
+Odisha,Coffee,2017,634,17,42,Laterite,81,38,50,4823,3.51
+Odisha,Coffee,2018,1010,34,65,Clay,68,34,25,4367,4.06
+Odisha,Coffee,2019,1851,25,33,Laterite,60,32,55,2293,5.31
+Odisha,Coffee,2020,1876,23,91,Black,97,58,23,1414,5.31
+Odisha,Coffee,2021,1769,27,53,Black,48,39,21,3455,5.29
+Odisha,Coffee,2022,1781,34,83,Loamy,87,28,55,4934,5.51
+Odisha,Coffee,2023,1029,20,32,Laterite,79,29,57,3176,3.4
+Odisha,Coffee,2024,465,33,58,Laterite,66,56,32,1289,3.25
+Punjab,Rice,2015,834,22,46,Sandy,60,37,59,2069,3.4
+Punjab,Rice,2016,1344,27,76,Alluvial,79,32,52,4961,4.41
+Punjab,Rice,2017,1484,30,34,Red,42,57,59,4073,4.27
+Punjab,Rice,2018,405,28,85,Red,70,53,25,4288,2.78
+Punjab,Rice,2019,318,25,54,Black,98,56,55,2361,2.41
+Punjab,Rice,2020,1004,27,93,Loamy,52,56,27,1821,3.51
+Punjab,Rice,2021,967,22,60,Laterite,70,26,29,2806,3.21
+Punjab,Rice,2022,755,15,66,Alluvial,78,39,29,4995,3.56
+Punjab,Rice,2023,1651,34,94,Loamy,86,59,48,2287,4.95
+Punjab,Rice,2024,697,28,53,Red,44,30,51,759,3.31
+Punjab,Wheat,2015,1057,28,90,Laterite,48,42,47,710,4.05
+Punjab,Wheat,2016,1729,35,94,Loamy,52,33,33,2716,4.49
+Punjab,Wheat,2017,557,21,37,Alluvial,52,21,58,4450,2.38
+Punjab,Wheat,2018,1166,29,88,Red,62,26,34,1760,3.54
+Punjab,Wheat,2019,1760,23,93,Laterite,55,45,60,2927,5.16
+Punjab,Wheat,2020,1422,32,81,Red,72,43,26,3737,4.35
+Punjab,Wheat,2021,1600,34,45,Loamy,57,36,23,3552,4.77
+Punjab,Wheat,2022,1493,35,71,Alluvial,100,39,41,1905,4.71
+Punjab,Wheat,2023,1375,24,68,Red,76,33,44,1360,4.22
+Punjab,Wheat,2024,689,23,76,Red,49,53,36,1668,3.39
+Punjab,Maize,2015,459,29,74,Black,70,39,36,4872,2.72
+Punjab,Maize,2016,680,35,34,Alluvial,94,21,57,3585,3.55
+Punjab,Maize,2017,1593,24,68,Laterite,72,43,54,3033,4.36
+Punjab,Maize,2018,1112,15,87,Clay,100,47,56,1132,4.22
+Punjab,Maize,2019,1813,25,32,Laterite,59,29,42,2224,5.29
+Punjab,Maize,2020,343,17,39,Red,41,24,59,702,2.07
+Punjab,Maize,2021,1984,26,60,Sandy,69,34,60,4715,5.13
+Punjab,Maize,2022,476,28,80,Alluvial,70,29,56,3864,3.0
+Punjab,Maize,2023,1775,16,38,Laterite,53,49,60,3482,5.06
+Punjab,Maize,2024,494,27,91,Black,93,59,42,2487,3.57
+Punjab,Barley,2015,1157,28,93,Sandy,74,51,31,1978,3.68
+Punjab,Barley,2016,1281,33,43,Alluvial,91,57,54,2503,4.21
+Punjab,Barley,2017,767,23,47,Clay,81,33,30,4702,3.05
+Punjab,Barley,2018,676,30,51,Black,44,31,23,3683,3.34
+Punjab,Barley,2019,640,35,67,Laterite,75,46,27,1393,3.5
+Punjab,Barley,2020,1639,26,61,Alluvial,74,25,35,4596,4.94
+Punjab,Barley,2021,1203,26,64,Alluvial,71,23,50,511,4.03
+Punjab,Barley,2022,1223,22,80,Red,57,27,39,3416,4.09
+Punjab,Barley,2023,1674,28,64,Red,69,34,56,1340,4.58
+Punjab,Barley,2024,1398,27,51,Sandy,61,57,31,3728,3.89
+Punjab,Millets,2015,475,26,92,Clay,63,26,55,1388,2.7
+Punjab,Millets,2016,1723,29,31,Sandy,56,28,26,2576,4.59
+Punjab,Millets,2017,1833,34,69,Laterite,62,51,41,818,5.17
+Punjab,Millets,2018,334,25,62,Alluvial,84,36,24,1932,2.8
+Punjab,Millets,2019,1792,32,46,Red,96,31,35,619,5.41
+Punjab,Millets,2020,1027,32,93,Clay,42,24,58,1984,4.05
+Punjab,Millets,2021,702,19,95,Alluvial,47,43,47,2344,2.97
+Punjab,Millets,2022,1525,15,81,Laterite,45,50,48,2672,3.93
+Punjab,Millets,2023,828,32,44,Laterite,87,34,21,2290,3.92
+Punjab,Millets,2024,1096,17,74,Sandy,82,52,32,1675,3.67
+Punjab,Cotton,2015,962,15,86,Black,49,29,43,2579,3.9
+Punjab,Cotton,2016,939,26,94,Red,63,42,55,1600,3.82
+Punjab,Cotton,2017,1489,22,45,Loamy,82,28,47,1515,4.52
+Punjab,Cotton,2018,1519,25,51,Alluvial,90,49,23,1832,4.59
+Punjab,Cotton,2019,859,35,53,Loamy,95,59,25,4559,3.48
+Punjab,Cotton,2020,884,17,65,Alluvial,92,43,46,3604,3.67
+Punjab,Cotton,2021,710,23,49,Sandy,74,35,21,1826,2.98
+Punjab,Cotton,2022,1067,15,36,Black,73,24,49,3968,3.76
+Punjab,Cotton,2023,507,32,61,Sandy,44,59,49,1010,3.03
+Punjab,Cotton,2024,691,31,92,Loamy,59,56,42,1253,2.87
+Punjab,Sugarcane,2015,1426,24,31,Black,45,41,37,1553,4.2
+Punjab,Sugarcane,2016,1683,27,32,Sandy,60,42,51,2502,5.14
+Punjab,Sugarcane,2017,750,25,54,Red,96,47,37,834,3.23
+Punjab,Sugarcane,2018,754,34,47,Clay,61,28,26,2650,3.55
+Punjab,Sugarcane,2019,1489,32,80,Clay,99,39,55,3113,4.85
+Punjab,Sugarcane,2020,1602,24,77,Black,99,27,22,4518,4.8
+Punjab,Sugarcane,2021,1790,28,90,Sandy,41,50,32,3552,4.7
+Punjab,Sugarcane,2022,730,21,89,Red,47,41,23,3934,3.58
+Punjab,Sugarcane,2023,787,19,66,Loamy,93,27,49,2358,3.12
+Punjab,Sugarcane,2024,573,35,61,Sandy,59,28,40,626,2.85
+Punjab,Pulses,2015,655,33,35,Sandy,96,46,35,4722,3.7
+Punjab,Pulses,2016,372,31,32,Black,50,43,20,4107,2.49
+Punjab,Pulses,2017,766,17,93,Loamy,72,46,23,2116,3.76
+Punjab,Pulses,2018,1974,22,82,Laterite,87,24,41,4182,5.67
+Punjab,Pulses,2019,718,22,42,Black,64,26,33,3052,3.56
+Punjab,Pulses,2020,1067,23,80,Alluvial,44,21,42,4247,3.15
+Punjab,Pulses,2021,1563,35,88,Clay,82,27,22,3193,4.86
+Punjab,Pulses,2022,1357,29,37,Red,50,40,31,2847,4.16
+Punjab,Pulses,2023,874,28,83,Alluvial,84,27,40,4329,3.52
+Punjab,Pulses,2024,1937,35,47,Loamy,51,20,47,1754,4.87
+Punjab,Groundnut,2015,827,27,46,Alluvial,50,24,24,578,3.73
+Punjab,Groundnut,2016,1569,26,75,Red,62,34,42,4558,4.52
+Punjab,Groundnut,2017,627,26,37,Laterite,95,28,44,2002,3.45
+Punjab,Groundnut,2018,896,33,54,Alluvial,62,41,34,1763,3.37
+Punjab,Groundnut,2019,860,15,36,Red,52,35,51,3945,2.88
+Punjab,Groundnut,2020,1108,30,68,Sandy,77,45,58,1973,3.76
+Punjab,Groundnut,2021,1936,31,34,Alluvial,41,38,55,936,5.22
+Punjab,Groundnut,2022,585,35,76,Laterite,43,60,24,2909,2.73
+Punjab,Groundnut,2023,384,15,80,Laterite,58,45,45,1069,2.6
+Punjab,Groundnut,2024,1716,21,43,Loamy,76,57,45,1864,5.05
+Punjab,Soybean,2015,1209,15,62,Clay,42,21,44,4550,3.88
+Punjab,Soybean,2016,516,30,39,Red,60,45,56,1731,2.77
+Punjab,Soybean,2017,1233,15,47,Sandy,65,33,42,3820,3.9
+Punjab,Soybean,2018,689,23,31,Laterite,100,54,29,1096,3.05
+Punjab,Soybean,2019,1333,17,39,Laterite,62,45,49,762,4.52
+Punjab,Soybean,2020,365,29,77,Sandy,42,45,52,2731,2.93
+Punjab,Soybean,2021,905,23,38,Laterite,69,36,31,4095,4.03
+Punjab,Soybean,2022,801,29,89,Sandy,78,38,24,4117,3.38
+Punjab,Soybean,2023,1882,30,53,Laterite,60,40,58,1607,5.55
+Punjab,Soybean,2024,1256,33,58,Sandy,55,55,44,4392,4.46
+Punjab,Tea,2015,649,31,44,Alluvial,55,23,52,4062,3.09
+Punjab,Tea,2016,720,35,35,Sandy,47,29,33,2006,3.56
+Punjab,Tea,2017,853,24,50,Clay,88,26,46,4030,3.49
+Punjab,Tea,2018,695,32,30,Red,41,41,55,1295,3.2
+Punjab,Tea,2019,1977,33,31,Laterite,81,37,60,2866,5.68
+Punjab,Tea,2020,404,35,87,Loamy,67,58,20,4465,2.42
+Punjab,Tea,2021,1665,27,93,Red,98,53,60,1547,5.07
+Punjab,Tea,2022,1141,18,60,Sandy,97,60,44,4617,4.36
+Punjab,Tea,2023,1244,34,70,Loamy,57,58,50,613,3.99
+Punjab,Tea,2024,1635,23,94,Alluvial,75,52,38,3383,4.6
+Punjab,Coffee,2015,1044,29,40,Loamy,55,37,21,911,4.01
+Punjab,Coffee,2016,539,17,66,Clay,74,25,30,727,3.5
+Punjab,Coffee,2017,794,21,84,Red,86,58,21,2515,3.83
+Punjab,Coffee,2018,1743,21,31,Sandy,63,40,36,726,4.62
+Punjab,Coffee,2019,1898,28,48,Black,99,50,28,3355,5.36
+Punjab,Coffee,2020,476,18,84,Clay,92,50,39,4757,3.52
+Punjab,Coffee,2021,1913,30,38,Red,67,27,59,3260,5.03
+Punjab,Coffee,2022,1926,32,80,Clay,71,45,23,4018,5.77
+Punjab,Coffee,2023,876,19,30,Red,71,55,38,3005,3.42
+Punjab,Coffee,2024,1872,33,80,Sandy,66,50,52,628,4.92
+Rajasthan,Rice,2015,1979,23,82,Black,63,31,41,3809,5.74
+Rajasthan,Rice,2016,619,31,39,Red,72,34,28,1902,3.3
+Rajasthan,Rice,2017,1938,34,30,Red,86,35,28,4245,5.86
+Rajasthan,Rice,2018,706,27,30,Clay,44,25,24,3507,3.45
+Rajasthan,Rice,2019,1353,16,81,Red,55,58,20,4562,3.75
+Rajasthan,Rice,2020,1084,25,59,Loamy,74,31,39,3154,3.82
+Rajasthan,Rice,2021,1565,21,73,Sandy,79,25,56,4157,4.52
+Rajasthan,Rice,2022,1093,34,72,Sandy,71,22,31,4147,3.64
+Rajasthan,Rice,2023,766,21,94,Alluvial,60,23,38,1758,2.81
+Rajasthan,Rice,2024,1613,23,39,Clay,45,52,22,4399,4.2
+Rajasthan,Wheat,2015,444,34,50,Clay,54,54,27,4192,3.04
+Rajasthan,Wheat,2016,1147,24,70,Loamy,49,45,33,1728,3.57
+Rajasthan,Wheat,2017,827,28,49,Sandy,57,38,40,1945,3.76
+Rajasthan,Wheat,2018,389,18,31,Black,96,52,37,1594,3.15
+Rajasthan,Wheat,2019,1044,18,71,Laterite,86,37,29,1980,3.91
+Rajasthan,Wheat,2020,1966,17,85,Laterite,70,33,55,501,5.5
+Rajasthan,Wheat,2021,492,17,69,Loamy,67,35,41,1670,2.84
+Rajasthan,Wheat,2022,638,33,50,Alluvial,65,22,45,3030,3.55
+Rajasthan,Wheat,2023,537,24,84,Alluvial,93,45,58,2174,3.28
+Rajasthan,Wheat,2024,1512,27,82,Alluvial,58,59,36,1162,4.62
+Rajasthan,Maize,2015,322,27,79,Loamy,60,57,49,3118,3.01
+Rajasthan,Maize,2016,926,20,32,Loamy,66,36,35,4655,3.25
+Rajasthan,Maize,2017,1341,30,67,Sandy,97,44,30,4391,4.06
+Rajasthan,Maize,2018,646,28,75,Loamy,87,47,59,1583,3.18
+Rajasthan,Maize,2019,416,20,38,Alluvial,56,49,40,4637,2.9
+Rajasthan,Maize,2020,1596,20,81,Clay,45,26,37,3792,4.22
+Rajasthan,Maize,2021,1567,21,74,Laterite,77,45,44,3811,5.19
+Rajasthan,Maize,2022,1185,16,90,Red,83,56,21,1099,3.88
+Rajasthan,Maize,2023,1050,28,90,Red,89,34,51,4588,3.96
+Rajasthan,Maize,2024,444,17,71,Clay,90,47,56,3433,3.17
+Rajasthan,Barley,2015,505,29,44,Sandy,86,21,43,1944,3.29
+Rajasthan,Barley,2016,843,29,47,Red,78,34,39,4534,3.54
+Rajasthan,Barley,2017,821,34,91,Loamy,44,21,26,3636,3.03
+Rajasthan,Barley,2018,1494,28,47,Alluvial,73,22,54,1173,4.43
+Rajasthan,Barley,2019,1698,29,43,Sandy,68,47,52,1459,5.0
+Rajasthan,Barley,2020,1153,27,85,Loamy,91,46,58,2694,4.07
+Rajasthan,Barley,2021,372,21,44,Black,54,30,53,2592,2.57
+Rajasthan,Barley,2022,1298,29,84,Alluvial,53,60,46,4955,3.67
+Rajasthan,Barley,2023,302,18,30,Black,86,26,31,1648,2.9
+Rajasthan,Barley,2024,1077,22,47,Laterite,42,52,24,3524,3.52
+Rajasthan,Millets,2015,1719,19,34,Red,77,46,41,2521,4.63
+Rajasthan,Millets,2016,469,23,38,Laterite,49,46,54,3221,2.42
+Rajasthan,Millets,2017,331,33,33,Red,71,30,29,2574,3.09
+Rajasthan,Millets,2018,369,34,50,Red,60,37,59,3888,3.04
+Rajasthan,Millets,2019,1551,21,82,Loamy,99,30,22,1011,5.15
+Rajasthan,Millets,2020,362,35,78,Sandy,88,48,33,3189,2.9
+Rajasthan,Millets,2021,918,19,36,Clay,72,48,57,3831,3.26
+Rajasthan,Millets,2022,914,17,34,Loamy,79,34,37,2007,3.66
+Rajasthan,Millets,2023,457,27,67,Clay,42,40,34,1883,2.92
+Rajasthan,Millets,2024,925,32,95,Sandy,73,33,57,2460,3.47
+Rajasthan,Cotton,2015,913,33,93,Red,100,35,46,769,3.78
+Rajasthan,Cotton,2016,1711,17,74,Alluvial,90,51,31,1030,5.33
+Rajasthan,Cotton,2017,977,23,74,Loamy,52,22,47,2727,3.46
+Rajasthan,Cotton,2018,811,22,47,Clay,93,28,32,4766,3.74
+Rajasthan,Cotton,2019,1783,19,40,Clay,69,45,56,4556,4.64
+Rajasthan,Cotton,2020,809,31,54,Red,48,46,52,4390,3.61
+Rajasthan,Cotton,2021,1173,35,41,Loamy,54,51,38,2593,3.97
+Rajasthan,Cotton,2022,1840,22,83,Laterite,63,50,37,2813,5.24
+Rajasthan,Cotton,2023,1285,27,73,Clay,67,40,56,4303,4.21
+Rajasthan,Cotton,2024,1245,22,66,Clay,46,26,28,3383,3.61
+Rajasthan,Sugarcane,2015,1664,24,43,Clay,43,39,60,2459,4.56
+Rajasthan,Sugarcane,2016,1975,28,58,Loamy,75,46,20,2189,5.36
+Rajasthan,Sugarcane,2017,784,28,38,Red,74,46,37,4650,3.86
+Rajasthan,Sugarcane,2018,1159,19,34,Black,46,22,32,585,3.44
+Rajasthan,Sugarcane,2019,1383,23,75,Alluvial,95,24,53,2324,4.22
+Rajasthan,Sugarcane,2020,1426,19,34,Clay,89,33,25,2996,4.96
+Rajasthan,Sugarcane,2021,1484,18,49,Red,94,27,57,1235,4.99
+Rajasthan,Sugarcane,2022,355,29,80,Sandy,77,37,50,1265,2.36
+Rajasthan,Sugarcane,2023,1418,17,87,Alluvial,84,50,39,2869,4.97
+Rajasthan,Sugarcane,2024,1284,20,68,Clay,88,30,53,4210,4.5
+Rajasthan,Pulses,2015,784,30,67,Loamy,93,58,26,2253,4.05
+Rajasthan,Pulses,2016,1181,28,37,Sandy,48,39,45,1745,4.03
+Rajasthan,Pulses,2017,1077,17,32,Alluvial,88,29,58,4274,4.04
+Rajasthan,Pulses,2018,1312,19,84,Clay,93,30,49,2585,4.83
+Rajasthan,Pulses,2019,1110,19,36,Red,58,58,51,3712,4.1
+Rajasthan,Pulses,2020,1901,23,76,Black,70,60,34,2988,4.8
+Rajasthan,Pulses,2021,1967,28,33,Loamy,53,36,51,2846,5.41
+Rajasthan,Pulses,2022,778,33,60,Red,66,55,28,4196,3.69
+Rajasthan,Pulses,2023,752,33,53,Clay,90,58,37,1955,3.14
+Rajasthan,Pulses,2024,1931,23,84,Black,91,52,52,3027,5.8
+Rajasthan,Groundnut,2015,1876,17,84,Sandy,45,54,34,1003,4.62
+Rajasthan,Groundnut,2016,1448,19,57,Red,62,49,32,2150,4.73
+Rajasthan,Groundnut,2017,1040,26,49,Loamy,90,48,25,1031,3.89
+Rajasthan,Groundnut,2018,1747,24,36,Black,94,51,47,1372,5.08
+Rajasthan,Groundnut,2019,1087,21,34,Red,65,40,32,1926,3.91
+Rajasthan,Groundnut,2020,1206,16,89,Sandy,48,32,21,3341,4.26
+Rajasthan,Groundnut,2021,1791,28,95,Black,57,39,41,1679,5.15
+Rajasthan,Groundnut,2022,1771,24,47,Clay,86,40,22,2496,5.61
+Rajasthan,Groundnut,2023,1431,31,36,Red,41,54,33,1797,4.63
+Rajasthan,Groundnut,2024,952,24,34,Black,70,49,24,1816,4.01
+Rajasthan,Soybean,2015,1792,20,72,Red,85,24,20,4523,5.56
+Rajasthan,Soybean,2016,983,19,47,Black,85,25,22,1233,3.74
+Rajasthan,Soybean,2017,353,26,92,Alluvial,85,48,27,2063,2.8
+Rajasthan,Soybean,2018,1611,20,39,Clay,96,30,24,2373,5.05
+Rajasthan,Soybean,2019,1303,34,52,Red,87,30,35,2523,4.77
+Rajasthan,Soybean,2020,1374,31,44,Laterite,85,30,20,1777,4.68
+Rajasthan,Soybean,2021,1095,32,93,Black,81,43,46,3351,4.04
+Rajasthan,Soybean,2022,616,21,42,Loamy,50,34,37,1470,3.12
+Rajasthan,Soybean,2023,986,34,41,Clay,62,29,47,2802,4.08
+Rajasthan,Soybean,2024,1088,15,56,Laterite,46,50,58,734,3.66
+Rajasthan,Tea,2015,932,30,79,Clay,90,30,56,1170,4.17
+Rajasthan,Tea,2016,505,31,41,Sandy,64,57,52,3730,2.97
+Rajasthan,Tea,2017,1297,35,84,Black,80,50,28,2908,4.61
+Rajasthan,Tea,2018,1255,21,90,Laterite,69,45,42,2505,4.65
+Rajasthan,Tea,2019,940,28,79,Red,93,46,46,3764,3.7
+Rajasthan,Tea,2020,755,21,42,Red,86,60,28,3615,3.42
+Rajasthan,Tea,2021,1343,23,90,Alluvial,57,27,56,1277,4.2
+Rajasthan,Tea,2022,466,20,90,Black,62,49,30,3468,2.54
+Rajasthan,Tea,2023,1761,34,79,Alluvial,66,42,28,1892,4.77
+Rajasthan,Tea,2024,1947,31,62,Alluvial,77,24,40,3471,5.21
+Rajasthan,Coffee,2015,487,31,34,Laterite,79,46,39,1781,3.37
+Rajasthan,Coffee,2016,1658,25,81,Black,49,59,41,4037,4.82
+Rajasthan,Coffee,2017,1148,18,45,Red,54,35,30,1582,3.48
+Rajasthan,Coffee,2018,1207,25,53,Clay,58,47,41,4153,3.87
+Rajasthan,Coffee,2019,865,27,38,Clay,48,29,59,593,3.39
+Rajasthan,Coffee,2020,1981,30,90,Black,90,31,37,755,5.41
+Rajasthan,Coffee,2021,1757,30,62,Clay,43,40,42,4118,4.89
+Rajasthan,Coffee,2022,1396,31,44,Laterite,75,41,45,4368,4.24
+Rajasthan,Coffee,2023,933,17,60,Red,71,36,36,1780,3.78
+Rajasthan,Coffee,2024,1903,24,52,Laterite,53,45,32,2732,5.08
+Sikkim,Rice,2015,403,19,86,Loamy,99,51,21,2331,3.31
+Sikkim,Rice,2016,1944,25,68,Alluvial,55,32,31,2668,5.13
+Sikkim,Rice,2017,387,15,94,Sandy,84,34,25,2554,3.21
+Sikkim,Rice,2018,1965,35,53,Sandy,61,26,25,3696,5.61
+Sikkim,Rice,2019,1136,18,52,Red,50,51,42,3824,4.05
+Sikkim,Rice,2020,1693,28,80,Clay,88,41,20,1381,4.68
+Sikkim,Rice,2021,324,15,95,Black,47,53,22,4838,2.47
+Sikkim,Rice,2022,381,28,48,Clay,47,30,32,3404,2.24
+Sikkim,Rice,2023,775,24,50,Sandy,44,35,49,715,3.25
+Sikkim,Rice,2024,1974,26,53,Black,78,53,45,1852,5.41
+Sikkim,Wheat,2015,771,26,31,Laterite,80,22,28,780,3.69
+Sikkim,Wheat,2016,1052,21,45,Loamy,49,20,50,735,3.75
+Sikkim,Wheat,2017,877,21,30,Laterite,41,40,53,4007,3.65
+Sikkim,Wheat,2018,1613,19,67,Sandy,42,45,54,837,4.81
+Sikkim,Wheat,2019,1983,28,83,Clay,44,52,52,853,5.44
+Sikkim,Wheat,2020,1215,21,73,Black,73,29,33,3783,4.47
+Sikkim,Wheat,2021,886,33,60,Sandy,77,31,34,1025,4.07
+Sikkim,Wheat,2022,499,18,77,Clay,71,20,32,2399,3.28
+Sikkim,Wheat,2023,1644,29,59,Black,73,21,54,2187,4.76
+Sikkim,Wheat,2024,430,27,53,Loamy,72,36,57,1020,3.18
+Sikkim,Maize,2015,602,25,41,Sandy,76,50,51,4458,3.39
+Sikkim,Maize,2016,586,17,90,Clay,63,21,59,1379,3.25
+Sikkim,Maize,2017,727,20,89,Loamy,55,36,58,4648,3.41
+Sikkim,Maize,2018,868,18,47,Black,63,54,36,2150,3.55
+Sikkim,Maize,2019,717,34,46,Sandy,93,29,24,641,3.2
+Sikkim,Maize,2020,1984,33,79,Black,41,24,57,4270,4.93
+Sikkim,Maize,2021,1241,30,49,Red,51,48,34,3184,3.64
+Sikkim,Maize,2022,1028,26,91,Clay,63,35,30,2955,3.98
+Sikkim,Maize,2023,1099,20,44,Clay,82,25,41,943,4.12
+Sikkim,Maize,2024,1955,24,39,Loamy,74,38,48,1170,5.06
+Sikkim,Barley,2015,1056,23,43,Sandy,81,42,23,4795,4.39
+Sikkim,Barley,2016,480,24,52,Red,84,34,36,3945,2.61
+Sikkim,Barley,2017,526,29,56,Black,40,42,51,3134,2.88
+Sikkim,Barley,2018,682,20,75,Loamy,41,39,46,4358,3.24
+Sikkim,Barley,2019,1816,22,86,Red,83,29,35,2229,4.99
+Sikkim,Barley,2020,1022,32,68,Black,98,26,24,3587,4.29
+Sikkim,Barley,2021,1813,26,43,Laterite,47,51,28,1236,4.83
+Sikkim,Barley,2022,939,17,43,Sandy,72,36,47,4664,4.14
+Sikkim,Barley,2023,1418,27,57,Black,91,36,24,4068,4.45
+Sikkim,Barley,2024,1804,23,69,Sandy,63,50,31,779,5.15
+Sikkim,Millets,2015,677,18,82,Clay,84,26,29,2732,2.97
+Sikkim,Millets,2016,564,28,63,Red,59,43,50,1415,3.31
+Sikkim,Millets,2017,1282,27,88,Loamy,42,25,58,3419,3.87
+Sikkim,Millets,2018,1855,35,80,Black,64,31,21,4903,5.2
+Sikkim,Millets,2019,1832,17,68,Clay,62,53,54,3513,4.76
+Sikkim,Millets,2020,1444,31,71,Red,65,21,43,2894,4.48
+Sikkim,Millets,2021,1263,34,85,Black,66,36,49,3202,4.41
+Sikkim,Millets,2022,1969,16,45,Clay,51,20,50,1341,5.39
+Sikkim,Millets,2023,919,35,60,Loamy,52,23,29,4559,3.11
+Sikkim,Millets,2024,421,18,64,Clay,89,24,27,4463,3.24
+Sikkim,Cotton,2015,1375,18,71,Red,78,38,49,4111,4.23
+Sikkim,Cotton,2016,1378,35,94,Red,49,53,41,3812,3.75
+Sikkim,Cotton,2017,709,35,75,Sandy,60,24,31,4455,3.33
+Sikkim,Cotton,2018,398,16,80,Alluvial,89,50,35,2570,3.04
+Sikkim,Cotton,2019,468,33,88,Clay,97,31,21,4334,3.06
+Sikkim,Cotton,2020,1249,25,49,Black,75,38,49,4179,4.5
+Sikkim,Cotton,2021,1968,30,65,Alluvial,70,32,35,3848,5.7
+Sikkim,Cotton,2022,1723,27,49,Loamy,53,27,25,4733,5.1
+Sikkim,Cotton,2023,1984,19,87,Laterite,65,36,48,3757,5.46
+Sikkim,Cotton,2024,1144,17,31,Loamy,53,56,41,1458,4.12
+Sikkim,Sugarcane,2015,1757,24,56,Loamy,80,27,32,2457,4.9
+Sikkim,Sugarcane,2016,1076,32,92,Clay,75,26,22,2600,3.67
+Sikkim,Sugarcane,2017,1800,18,35,Black,96,60,37,4120,4.9
+Sikkim,Sugarcane,2018,585,22,54,Black,80,55,29,2216,3.55
+Sikkim,Sugarcane,2019,1213,31,35,Alluvial,62,23,38,2979,4.1
+Sikkim,Sugarcane,2020,666,33,43,Alluvial,94,27,53,3791,2.97
+Sikkim,Sugarcane,2021,325,31,94,Loamy,72,46,33,3386,2.52
+Sikkim,Sugarcane,2022,1959,15,65,Black,93,55,44,3578,6.0
+Sikkim,Sugarcane,2023,498,17,79,Red,51,26,38,1008,3.06
+Sikkim,Sugarcane,2024,1139,21,62,Red,41,38,36,572,3.26
+Sikkim,Pulses,2015,1106,18,38,Sandy,86,36,28,2286,4.26
+Sikkim,Pulses,2016,1457,18,32,Clay,77,50,23,2610,4.6
+Sikkim,Pulses,2017,859,32,42,Laterite,70,57,24,2448,3.9
+Sikkim,Pulses,2018,717,20,52,Black,100,39,20,2885,3.21
+Sikkim,Pulses,2019,1172,34,80,Red,41,28,53,1984,4.25
+Sikkim,Pulses,2020,955,24,76,Red,97,38,43,4638,3.88
+Sikkim,Pulses,2021,1626,20,86,Sandy,87,29,30,2450,5.28
+Sikkim,Pulses,2022,1873,29,55,Red,64,43,39,3789,5.46
+Sikkim,Pulses,2023,331,32,69,Clay,93,23,26,3103,2.64
+Sikkim,Pulses,2024,768,29,39,Alluvial,76,37,29,3883,2.97
+Sikkim,Groundnut,2015,1598,20,74,Sandy,94,33,34,591,5.22
+Sikkim,Groundnut,2016,1405,35,94,Laterite,63,35,46,1412,4.17
+Sikkim,Groundnut,2017,1499,32,54,Loamy,98,31,56,674,4.57
+Sikkim,Groundnut,2018,1874,32,36,Loamy,44,34,44,4037,4.52
+Sikkim,Groundnut,2019,658,18,78,Loamy,62,34,36,4945,3.4
+Sikkim,Groundnut,2020,1827,24,34,Laterite,56,40,42,3713,5.21
+Sikkim,Groundnut,2021,1082,20,63,Loamy,64,60,24,3584,4.05
+Sikkim,Groundnut,2022,1782,23,41,Laterite,53,50,35,1011,4.6
+Sikkim,Groundnut,2023,622,15,31,Loamy,63,54,26,3791,3.24
+Sikkim,Groundnut,2024,647,27,42,Laterite,99,41,23,1828,3.78
+Sikkim,Soybean,2015,838,17,83,Sandy,54,52,54,2302,2.9
+Sikkim,Soybean,2016,727,22,80,Clay,90,21,44,4442,3.78
+Sikkim,Soybean,2017,1006,24,93,Red,91,21,27,1393,3.54
+Sikkim,Soybean,2018,313,29,89,Black,54,49,57,2142,2.66
+Sikkim,Soybean,2019,926,20,87,Laterite,85,20,25,3870,3.7
+Sikkim,Soybean,2020,1864,26,71,Sandy,98,20,34,2390,5.7
+Sikkim,Soybean,2021,675,18,39,Alluvial,76,59,56,3717,3.03
+Sikkim,Soybean,2022,1281,29,70,Clay,90,37,54,3326,4.39
+Sikkim,Soybean,2023,1002,22,54,Loamy,51,50,25,3391,3.98
+Sikkim,Soybean,2024,870,31,58,Black,78,26,40,2646,3.17
+Sikkim,Tea,2015,996,35,56,Red,63,55,57,3266,3.72
+Sikkim,Tea,2016,1513,16,36,Alluvial,41,24,54,3313,4.56
+Sikkim,Tea,2017,811,30,36,Red,46,43,35,2063,3.57
+Sikkim,Tea,2018,1604,17,52,Clay,58,43,42,1402,4.55
+Sikkim,Tea,2019,1745,29,60,Loamy,64,49,34,2852,4.87
+Sikkim,Tea,2020,1721,21,82,Sandy,46,31,26,2301,4.66
+Sikkim,Tea,2021,1232,29,76,Red,85,31,38,1037,4.17
+Sikkim,Tea,2022,1167,17,47,Black,74,56,21,1016,4.5
+Sikkim,Tea,2023,970,19,70,Red,43,23,42,2561,3.89
+Sikkim,Tea,2024,1264,22,55,Laterite,66,41,29,2887,3.67
+Sikkim,Coffee,2015,1119,35,75,Black,46,26,50,2250,4.24
+Sikkim,Coffee,2016,1429,21,71,Loamy,99,32,37,2853,4.46
+Sikkim,Coffee,2017,1605,33,62,Alluvial,99,40,24,2423,5.46
+Sikkim,Coffee,2018,625,22,50,Black,100,57,23,2039,3.12
+Sikkim,Coffee,2019,1491,23,83,Loamy,57,21,29,1195,4.7
+Sikkim,Coffee,2020,1227,30,57,Alluvial,97,20,53,1999,4.37
+Sikkim,Coffee,2021,942,34,57,Black,82,22,29,2976,3.47
+Sikkim,Coffee,2022,941,16,80,Clay,72,37,29,2027,3.37
+Sikkim,Coffee,2023,507,24,69,Black,63,52,27,1029,2.78
+Sikkim,Coffee,2024,1725,21,68,Red,49,24,37,959,5.23
+Tamil Nadu,Rice,2015,1454,33,63,Laterite,68,49,42,784,4.09
+Tamil Nadu,Rice,2016,634,18,75,Alluvial,43,26,43,3155,2.67
+Tamil Nadu,Rice,2017,875,28,63,Laterite,47,21,32,2850,3.42
+Tamil Nadu,Rice,2018,1461,33,91,Black,68,46,21,584,4.49
+Tamil Nadu,Rice,2019,714,33,51,Black,47,32,58,3863,3.49
+Tamil Nadu,Rice,2020,1283,21,36,Red,52,45,53,3173,4.28
+Tamil Nadu,Rice,2021,1331,22,66,Black,51,53,24,4812,3.84
+Tamil Nadu,Rice,2022,860,31,50,Red,54,55,33,3554,3.21
+Tamil Nadu,Rice,2023,1401,31,55,Red,77,46,38,2464,4.25
+Tamil Nadu,Rice,2024,1502,16,68,Laterite,77,45,53,2008,4.93
+Tamil Nadu,Wheat,2015,309,18,73,Black,50,46,44,1393,2.16
+Tamil Nadu,Wheat,2016,1607,34,47,Loamy,51,29,39,3474,4.49
+Tamil Nadu,Wheat,2017,672,20,30,Clay,49,20,52,1639,2.93
+Tamil Nadu,Wheat,2018,669,19,90,Clay,50,45,55,1207,3.02
+Tamil Nadu,Wheat,2019,1043,16,75,Black,58,53,29,4040,3.22
+Tamil Nadu,Wheat,2020,1872,15,64,Clay,60,55,22,1824,4.78
+Tamil Nadu,Wheat,2021,659,26,44,Clay,42,28,58,3545,2.57
+Tamil Nadu,Wheat,2022,1642,23,95,Clay,98,42,37,1162,4.63
+Tamil Nadu,Wheat,2023,1265,17,60,Sandy,85,31,59,1750,4.29
+Tamil Nadu,Wheat,2024,1297,22,30,Sandy,86,37,25,4923,4.52
+Tamil Nadu,Maize,2015,1356,20,47,Loamy,98,41,21,4721,4.57
+Tamil Nadu,Maize,2016,1732,30,78,Laterite,55,32,24,1311,5.05
+Tamil Nadu,Maize,2017,647,34,73,Loamy,70,52,27,4397,3.06
+Tamil Nadu,Maize,2018,721,27,90,Laterite,69,31,42,2215,3.55
+Tamil Nadu,Maize,2019,1079,30,61,Laterite,64,57,29,1782,3.45
+Tamil Nadu,Maize,2020,1293,26,62,Black,82,59,22,3836,4.1
+Tamil Nadu,Maize,2021,1502,16,93,Black,41,44,33,4544,4.32
+Tamil Nadu,Maize,2022,1983,33,48,Alluvial,55,42,23,4347,4.86
+Tamil Nadu,Maize,2023,321,35,64,Red,68,21,21,1826,2.86
+Tamil Nadu,Maize,2024,711,29,77,Red,84,34,30,4002,3.88
+Tamil Nadu,Barley,2015,343,19,32,Alluvial,81,58,44,3308,2.78
+Tamil Nadu,Barley,2016,737,31,77,Clay,47,52,35,4385,2.73
+Tamil Nadu,Barley,2017,341,32,59,Clay,48,28,26,1217,2.53
+Tamil Nadu,Barley,2018,466,24,35,Alluvial,42,20,29,766,2.86
+Tamil Nadu,Barley,2019,428,17,44,Alluvial,63,38,57,2553,2.6
+Tamil Nadu,Barley,2020,1317,33,92,Loamy,46,54,35,3382,4.09
+Tamil Nadu,Barley,2021,723,33,36,Clay,94,42,53,3072,3.32
+Tamil Nadu,Barley,2022,1701,20,88,Clay,58,55,45,852,4.78
+Tamil Nadu,Barley,2023,758,25,71,Alluvial,89,24,42,3131,3.63
+Tamil Nadu,Barley,2024,1400,26,48,Laterite,60,40,26,1297,3.86
+Tamil Nadu,Millets,2015,1898,15,31,Black,84,47,53,991,5.23
+Tamil Nadu,Millets,2016,965,17,76,Clay,59,28,56,4443,3.33
+Tamil Nadu,Millets,2017,622,16,69,Loamy,82,29,33,2816,3.46
+Tamil Nadu,Millets,2018,373,28,41,Black,70,35,46,786,2.56
+Tamil Nadu,Millets,2019,1880,18,82,Loamy,80,46,43,2958,5.1
+Tamil Nadu,Millets,2020,1210,29,35,Laterite,52,51,21,2824,4.42
+Tamil Nadu,Millets,2021,1914,25,46,Sandy,61,24,50,2993,5.32
+Tamil Nadu,Millets,2022,1330,22,42,Laterite,56,50,48,3758,4.39
+Tamil Nadu,Millets,2023,1348,26,37,Sandy,82,45,34,1587,4.03
+Tamil Nadu,Millets,2024,1719,22,82,Laterite,44,60,22,1220,4.26
+Tamil Nadu,Cotton,2015,986,30,33,Alluvial,70,34,41,1242,3.84
+Tamil Nadu,Cotton,2016,797,26,55,Laterite,76,36,37,943,3.83
+Tamil Nadu,Cotton,2017,622,26,38,Loamy,70,52,34,2189,3.02
+Tamil Nadu,Cotton,2018,1873,25,87,Clay,46,37,32,1308,4.81
+Tamil Nadu,Cotton,2019,1102,33,57,Loamy,72,41,37,3901,4.01
+Tamil Nadu,Cotton,2020,1788,15,76,Black,77,54,46,1899,5.39
+Tamil Nadu,Cotton,2021,398,26,32,Alluvial,59,59,27,4021,2.94
+Tamil Nadu,Cotton,2022,1156,21,88,Black,47,40,29,2225,3.85
+Tamil Nadu,Cotton,2023,454,23,48,Clay,96,51,46,536,2.84
+Tamil Nadu,Cotton,2024,863,22,91,Laterite,93,23,60,719,4.0
+Tamil Nadu,Sugarcane,2015,586,27,75,Alluvial,41,22,39,4089,2.73
+Tamil Nadu,Sugarcane,2016,1681,20,75,Black,99,48,30,4444,4.64
+Tamil Nadu,Sugarcane,2017,1533,31,54,Loamy,73,40,43,1183,4.66
+Tamil Nadu,Sugarcane,2018,1546,27,31,Sandy,48,29,40,4833,4.62
+Tamil Nadu,Sugarcane,2019,1437,23,91,Clay,71,41,29,4909,4.77
+Tamil Nadu,Sugarcane,2020,751,27,30,Laterite,74,42,57,2224,3.62
+Tamil Nadu,Sugarcane,2021,453,35,82,Red,65,28,45,2201,2.33
+Tamil Nadu,Sugarcane,2022,1992,27,48,Alluvial,71,26,27,728,5.61
+Tamil Nadu,Sugarcane,2023,1835,18,76,Laterite,81,28,46,3327,5.45
+Tamil Nadu,Sugarcane,2024,1331,35,77,Black,58,26,34,3284,4.24
+Tamil Nadu,Pulses,2015,1916,22,88,Red,49,39,27,3314,5.37
+Tamil Nadu,Pulses,2016,809,22,69,Red,60,23,40,1136,3.32
+Tamil Nadu,Pulses,2017,1077,22,64,Black,50,50,39,1946,3.74
+Tamil Nadu,Pulses,2018,1905,30,67,Clay,95,56,36,2452,5.27
+Tamil Nadu,Pulses,2019,452,22,60,Red,50,27,60,3934,3.04
+Tamil Nadu,Pulses,2020,1362,29,75,Black,96,25,58,1043,4.89
+Tamil Nadu,Pulses,2021,1029,35,63,Alluvial,78,38,38,755,3.69
+Tamil Nadu,Pulses,2022,813,17,72,Red,76,25,57,3379,3.53
+Tamil Nadu,Pulses,2023,446,32,54,Black,53,23,47,2153,3.05
+Tamil Nadu,Pulses,2024,1570,19,47,Sandy,74,50,49,1760,4.48
+Tamil Nadu,Groundnut,2015,556,28,56,Red,79,29,35,3364,3.07
+Tamil Nadu,Groundnut,2016,845,21,77,Red,88,30,35,2437,3.75
+Tamil Nadu,Groundnut,2017,1392,31,30,Clay,95,31,41,2265,4.91
+Tamil Nadu,Groundnut,2018,1637,18,45,Sandy,68,42,35,672,4.3
+Tamil Nadu,Groundnut,2019,1213,34,34,Loamy,95,29,23,2716,3.98
+Tamil Nadu,Groundnut,2020,1264,25,65,Laterite,74,24,52,3005,4.04
+Tamil Nadu,Groundnut,2021,1579,30,48,Black,55,35,48,2833,4.62
+Tamil Nadu,Groundnut,2022,996,28,69,Alluvial,61,34,20,1228,3.28
+Tamil Nadu,Groundnut,2023,1051,26,55,Laterite,86,59,51,3067,3.68
+Tamil Nadu,Groundnut,2024,965,21,90,Laterite,73,35,34,847,3.66
+Tamil Nadu,Soybean,2015,1268,23,69,Alluvial,84,28,53,4633,4.15
+Tamil Nadu,Soybean,2016,1581,21,57,Black,50,50,45,4183,4.82
+Tamil Nadu,Soybean,2017,494,25,52,Sandy,83,44,46,2394,3.17
+Tamil Nadu,Soybean,2018,1386,22,53,Alluvial,62,57,56,4091,4.47
+Tamil Nadu,Soybean,2019,1114,35,33,Sandy,67,50,44,4969,4.11
+Tamil Nadu,Soybean,2020,1015,31,59,Loamy,75,60,22,575,3.97
+Tamil Nadu,Soybean,2021,1069,24,64,Loamy,70,54,25,2716,3.74
+Tamil Nadu,Soybean,2022,1349,27,45,Clay,95,20,46,969,4.48
+Tamil Nadu,Soybean,2023,336,21,36,Loamy,58,53,51,2435,2.98
+Tamil Nadu,Soybean,2024,900,30,39,Alluvial,76,36,24,1766,3.88
+Tamil Nadu,Tea,2015,1887,20,69,Laterite,88,32,60,4436,5.25
+Tamil Nadu,Tea,2016,409,21,77,Laterite,100,54,32,4158,2.98
+Tamil Nadu,Tea,2017,514,26,52,Alluvial,40,20,31,3623,2.64
+Tamil Nadu,Tea,2018,1669,18,34,Black,96,34,58,1206,4.95
+Tamil Nadu,Tea,2019,1127,28,59,Sandy,96,36,22,4278,4.06
+Tamil Nadu,Tea,2020,1601,26,53,Loamy,71,60,51,1636,5.18
+Tamil Nadu,Tea,2021,340,19,76,Laterite,89,48,23,2308,3.3
+Tamil Nadu,Tea,2022,397,26,80,Clay,88,25,37,2325,2.85
+Tamil Nadu,Tea,2023,834,18,39,Sandy,100,45,45,2225,3.3
+Tamil Nadu,Tea,2024,1662,28,68,Black,54,39,51,4937,4.42
+Tamil Nadu,Coffee,2015,1222,35,89,Clay,82,58,41,2856,4.4
+Tamil Nadu,Coffee,2016,424,29,47,Red,50,38,26,1795,2.3
+Tamil Nadu,Coffee,2017,1440,25,79,Black,94,54,30,4635,4.99
+Tamil Nadu,Coffee,2018,521,34,73,Red,83,31,22,4753,2.97
+Tamil Nadu,Coffee,2019,531,15,30,Laterite,72,58,30,3493,2.51
+Tamil Nadu,Coffee,2020,1030,18,35,Loamy,49,26,52,3952,3.94
+Tamil Nadu,Coffee,2021,1359,21,44,Sandy,92,55,41,1033,4.37
+Tamil Nadu,Coffee,2022,1833,31,70,Clay,98,24,29,4693,5.12
+Tamil Nadu,Coffee,2023,451,29,53,Red,52,35,49,2333,2.28
+Tamil Nadu,Coffee,2024,528,17,47,Black,70,28,30,895,3.08
+Telangana,Rice,2015,1404,28,50,Alluvial,97,46,24,4770,4.67
+Telangana,Rice,2016,746,23,62,Black,83,48,22,3026,3.17
+Telangana,Rice,2017,1157,20,80,Alluvial,52,37,23,2966,3.9
+Telangana,Rice,2018,1689,26,38,Clay,89,24,23,2942,5.42
+Telangana,Rice,2019,1682,34,67,Black,67,34,33,2525,4.9
+Telangana,Rice,2020,1444,35,89,Clay,97,43,30,2183,4.69
+Telangana,Rice,2021,1644,27,69,Sandy,60,33,48,2404,4.92
+Telangana,Rice,2022,514,33,66,Laterite,50,28,59,1630,2.69
+Telangana,Rice,2023,1628,17,57,Sandy,97,37,33,3266,5.25
+Telangana,Rice,2024,1973,32,43,Sandy,66,28,20,3526,5.28
+Telangana,Wheat,2015,1091,28,44,Alluvial,65,54,35,1134,4.19
+Telangana,Wheat,2016,722,29,66,Alluvial,88,52,33,3872,3.11
+Telangana,Wheat,2017,1185,20,95,Clay,94,23,60,4386,4.24
+Telangana,Wheat,2018,593,17,44,Red,100,23,47,3013,3.2
+Telangana,Wheat,2019,1242,26,71,Black,54,22,36,3165,3.57
+Telangana,Wheat,2020,1575,23,68,Laterite,80,42,21,3335,4.52
+Telangana,Wheat,2021,1098,16,36,Red,94,29,43,1101,4.26
+Telangana,Wheat,2022,1885,15,59,Clay,61,41,26,1379,4.76
+Telangana,Wheat,2023,1359,29,37,Loamy,56,50,20,2895,3.79
+Telangana,Wheat,2024,719,28,73,Loamy,89,39,40,743,3.93
+Telangana,Maize,2015,1737,28,72,Sandy,48,38,59,1516,4.8
+Telangana,Maize,2016,1712,35,48,Sandy,72,60,50,3060,5.43
+Telangana,Maize,2017,355,19,70,Sandy,46,45,40,4135,2.39
+Telangana,Maize,2018,1414,28,38,Sandy,47,43,56,1540,4.22
+Telangana,Maize,2019,1436,22,33,Loamy,52,30,50,4047,4.63
+Telangana,Maize,2020,1585,22,95,Sandy,78,60,44,1567,4.44
+Telangana,Maize,2021,1149,29,70,Loamy,41,34,46,2272,3.81
+Telangana,Maize,2022,1239,30,70,Alluvial,84,25,39,3759,4.33
+Telangana,Maize,2023,724,31,42,Laterite,49,51,56,3256,3.51
+Telangana,Maize,2024,927,21,76,Clay,91,55,38,3384,3.91
+Telangana,Barley,2015,881,27,74,Red,43,34,34,2418,3.32
+Telangana,Barley,2016,659,29,61,Laterite,82,38,43,918,3.29
+Telangana,Barley,2017,1420,21,87,Laterite,98,28,21,800,5.15
+Telangana,Barley,2018,673,18,49,Clay,58,60,32,1924,3.5
+Telangana,Barley,2019,1575,34,50,Alluvial,82,23,38,2585,4.56
+Telangana,Barley,2020,1699,27,38,Sandy,50,43,21,4653,4.5
+Telangana,Barley,2021,1120,33,65,Laterite,75,57,49,3493,3.62
+Telangana,Barley,2022,1269,35,40,Clay,58,34,48,2781,3.7
+Telangana,Barley,2023,1014,23,54,Sandy,71,38,42,723,3.46
+Telangana,Barley,2024,668,35,53,Loamy,47,45,47,4514,3.4
+Telangana,Millets,2015,1176,25,82,Sandy,87,24,25,2961,3.85
+Telangana,Millets,2016,1514,31,81,Loamy,47,42,59,3295,4.86
+Telangana,Millets,2017,1581,21,43,Sandy,58,50,21,4957,5.12
+Telangana,Millets,2018,930,27,86,Red,48,50,40,1867,3.25
+Telangana,Millets,2019,1999,34,52,Clay,61,38,38,902,4.93
+Telangana,Millets,2020,694,35,34,Black,77,40,20,1784,3.09
+Telangana,Millets,2021,1316,19,77,Sandy,65,42,37,2888,4.5
+Telangana,Millets,2022,1828,25,36,Alluvial,54,43,34,4984,4.87
+Telangana,Millets,2023,899,30,61,Clay,63,34,51,1646,3.81
+Telangana,Millets,2024,396,15,94,Loamy,40,29,39,4132,2.06
+Telangana,Cotton,2015,676,17,48,Alluvial,94,39,37,2305,3.54
+Telangana,Cotton,2016,403,19,47,Loamy,89,53,29,4916,3.24
+Telangana,Cotton,2017,1240,25,58,Red,72,32,25,1620,4.05
+Telangana,Cotton,2018,1330,20,91,Loamy,87,27,58,3500,4.3
+Telangana,Cotton,2019,1222,30,91,Black,47,34,30,719,4.32
+Telangana,Cotton,2020,1936,32,91,Alluvial,61,43,53,2923,5.35
+Telangana,Cotton,2021,1879,35,67,Alluvial,73,48,28,2599,4.86
+Telangana,Cotton,2022,384,26,35,Loamy,86,32,55,1105,2.8
+Telangana,Cotton,2023,1309,25,34,Black,40,55,37,1146,3.54
+Telangana,Cotton,2024,308,35,64,Sandy,91,47,43,1947,2.63
+Telangana,Sugarcane,2015,961,32,36,Sandy,87,54,42,2327,4.26
+Telangana,Sugarcane,2016,1762,15,48,Clay,40,60,47,4736,4.72
+Telangana,Sugarcane,2017,1702,19,69,Loamy,62,38,28,3619,5.25
+Telangana,Sugarcane,2018,1350,30,81,Laterite,88,36,47,732,4.29
+Telangana,Sugarcane,2019,519,35,89,Sandy,64,54,60,1774,2.54
+Telangana,Sugarcane,2020,1480,16,48,Black,49,56,55,993,4.1
+Telangana,Sugarcane,2021,650,23,65,Loamy,50,54,45,1543,3.4
+Telangana,Sugarcane,2022,603,30,53,Loamy,81,53,41,1381,3.56
+Telangana,Sugarcane,2023,833,32,51,Black,97,22,25,3579,4.1
+Telangana,Sugarcane,2024,603,25,95,Clay,95,24,60,4703,2.95
+Telangana,Pulses,2015,1678,19,43,Sandy,78,27,58,2086,4.76
+Telangana,Pulses,2016,429,30,95,Black,64,30,53,3887,2.47
+Telangana,Pulses,2017,368,29,71,Alluvial,62,31,40,4283,3.08
+Telangana,Pulses,2018,1947,19,54,Loamy,89,27,54,1897,5.04
+Telangana,Pulses,2019,670,30,75,Alluvial,56,40,48,4034,2.78
+Telangana,Pulses,2020,316,34,50,Clay,78,31,44,2296,2.2
+Telangana,Pulses,2021,1677,34,91,Laterite,75,43,35,4249,4.57
+Telangana,Pulses,2022,313,27,46,Sandy,79,59,41,3854,3.04
+Telangana,Pulses,2023,740,15,45,Laterite,89,23,40,2984,3.48
+Telangana,Pulses,2024,566,26,85,Laterite,72,28,25,4229,3.22
+Telangana,Groundnut,2015,1159,31,63,Laterite,71,47,28,4819,3.73
+Telangana,Groundnut,2016,605,20,77,Clay,42,39,57,3222,2.86
+Telangana,Groundnut,2017,1105,17,93,Alluvial,50,24,37,3528,3.84
+Telangana,Groundnut,2018,1447,15,75,Alluvial,95,24,45,3953,4.94
+Telangana,Groundnut,2019,1930,32,44,Clay,74,43,32,3252,5.45
+Telangana,Groundnut,2020,1836,19,48,Black,55,35,38,2873,4.87
+Telangana,Groundnut,2021,1255,22,38,Black,56,24,39,2458,4.21
+Telangana,Groundnut,2022,1080,21,93,Clay,70,43,49,3751,4.2
+Telangana,Groundnut,2023,1328,19,58,Red,94,24,44,1237,4.06
+Telangana,Groundnut,2024,1821,30,61,Black,63,57,42,4419,4.58
+Telangana,Soybean,2015,1811,23,38,Laterite,100,36,52,3847,5.17
+Telangana,Soybean,2016,630,19,41,Black,41,30,49,3974,3.3
+Telangana,Soybean,2017,428,31,78,Black,96,59,35,3297,3.47
+Telangana,Soybean,2018,912,31,56,Red,98,39,29,2893,3.82
+Telangana,Soybean,2019,1782,20,56,Loamy,97,24,30,785,5.08
+Telangana,Soybean,2020,685,31,56,Alluvial,69,44,46,1716,3.55
+Telangana,Soybean,2021,1372,15,64,Laterite,53,45,52,1232,4.4
+Telangana,Soybean,2022,1071,34,46,Loamy,75,35,55,1300,3.45
+Telangana,Soybean,2023,772,19,31,Black,85,47,24,4337,3.83
+Telangana,Soybean,2024,530,17,91,Black,76,59,36,3716,2.98
+Telangana,Tea,2015,1153,33,43,Loamy,97,30,31,3174,3.78
+Telangana,Tea,2016,1232,20,47,Sandy,86,57,48,4414,3.92
+Telangana,Tea,2017,422,33,67,Alluvial,71,56,38,2684,2.59
+Telangana,Tea,2018,447,20,44,Clay,48,46,27,2710,2.96
+Telangana,Tea,2019,517,34,66,Laterite,67,49,51,1053,2.96
+Telangana,Tea,2020,339,35,93,Laterite,61,43,35,3488,2.44
+Telangana,Tea,2021,950,19,41,Clay,48,32,43,2278,3.86
+Telangana,Tea,2022,1360,29,83,Alluvial,43,23,49,698,3.97
+Telangana,Tea,2023,568,24,81,Clay,65,46,53,2809,3.22
+Telangana,Tea,2024,1735,22,78,Laterite,41,60,53,2288,5.1
+Telangana,Coffee,2015,797,28,33,Black,44,38,31,1546,3.56
+Telangana,Coffee,2016,1487,18,73,Alluvial,76,60,54,1533,4.44
+Telangana,Coffee,2017,1090,15,57,Black,81,50,44,4010,3.83
+Telangana,Coffee,2018,1384,34,43,Black,62,36,48,4619,4.06
+Telangana,Coffee,2019,739,31,32,Laterite,58,41,38,3443,2.75
+Telangana,Coffee,2020,317,34,37,Alluvial,92,25,28,676,2.55
+Telangana,Coffee,2021,1657,22,56,Clay,74,54,49,4130,4.79
+Telangana,Coffee,2022,1300,25,49,Loamy,46,22,28,1734,4.13
+Telangana,Coffee,2023,1595,34,50,Black,90,30,32,4077,4.86
+Telangana,Coffee,2024,1873,26,32,Alluvial,56,25,33,1570,4.99
+Tripura,Rice,2015,1144,17,92,Laterite,58,39,43,4692,4.07
+Tripura,Rice,2016,519,20,78,Laterite,85,59,47,2691,3.3
+Tripura,Rice,2017,543,33,84,Black,61,30,38,2363,2.57
+Tripura,Rice,2018,932,27,44,Sandy,40,37,32,4739,3.39
+Tripura,Rice,2019,1033,16,64,Black,63,56,54,3470,3.48
+Tripura,Rice,2020,985,25,70,Loamy,47,50,56,3642,3.54
+Tripura,Rice,2021,1781,23,37,Red,76,59,58,2984,5.13
+Tripura,Rice,2022,326,32,35,Loamy,73,37,30,3793,2.34
+Tripura,Rice,2023,1181,15,65,Black,81,43,45,3361,4.56
+Tripura,Rice,2024,1494,21,47,Clay,78,37,40,1811,4.47
+Tripura,Wheat,2015,482,21,46,Red,94,31,37,1753,3.27
+Tripura,Wheat,2016,871,20,49,Sandy,96,25,36,3319,3.7
+Tripura,Wheat,2017,1904,30,82,Red,47,46,42,2189,5.13
+Tripura,Wheat,2018,477,33,78,Alluvial,52,37,44,3049,2.82
+Tripura,Wheat,2019,1193,18,53,Red,86,48,28,4504,4.7
+Tripura,Wheat,2020,1892,20,64,Red,51,34,42,708,4.82
+Tripura,Wheat,2021,911,15,37,Black,58,44,20,4178,3.55
+Tripura,Wheat,2022,1463,31,72,Sandy,73,59,49,1521,4.26
+Tripura,Wheat,2023,1842,29,71,Alluvial,61,60,42,724,5.37
+Tripura,Wheat,2024,998,35,89,Sandy,97,43,24,3543,3.53
+Tripura,Maize,2015,1641,23,74,Black,70,47,36,3166,4.89
+Tripura,Maize,2016,784,17,47,Sandy,45,32,40,911,3.52
+Tripura,Maize,2017,1644,30,66,Sandy,91,59,43,2337,4.9
+Tripura,Maize,2018,371,23,72,Alluvial,76,54,58,3784,2.94
+Tripura,Maize,2019,1614,20,71,Loamy,70,25,34,1415,4.87
+Tripura,Maize,2020,1374,20,45,Clay,96,48,50,1517,4.87
+Tripura,Maize,2021,461,31,89,Laterite,68,20,23,934,3.15
+Tripura,Maize,2022,1569,32,30,Loamy,50,34,60,3294,5.03
+Tripura,Maize,2023,725,35,43,Black,92,48,46,3977,3.97
+Tripura,Maize,2024,1104,26,43,Black,48,21,38,1153,3.39
+Tripura,Barley,2015,978,16,59,Laterite,75,34,27,1328,3.83
+Tripura,Barley,2016,1468,31,47,Loamy,54,27,37,2492,3.97
+Tripura,Barley,2017,344,26,70,Sandy,92,51,45,1862,3.05
+Tripura,Barley,2018,722,15,48,Black,80,60,37,2636,3.35
+Tripura,Barley,2019,724,20,95,Loamy,83,40,24,720,3.3
+Tripura,Barley,2020,1448,31,85,Black,54,35,39,4350,4.31
+Tripura,Barley,2021,865,25,34,Clay,74,51,57,4067,3.48
+Tripura,Barley,2022,1761,16,37,Red,45,57,59,3355,5.16
+Tripura,Barley,2023,1690,25,75,Loamy,68,52,41,1498,4.6
+Tripura,Barley,2024,561,29,76,Clay,86,31,20,2556,3.27
+Tripura,Millets,2015,481,32,55,Alluvial,73,27,57,4499,3.23
+Tripura,Millets,2016,1143,35,93,Sandy,53,26,58,3489,3.92
+Tripura,Millets,2017,1764,32,42,Loamy,69,43,53,3649,4.56
+Tripura,Millets,2018,975,22,59,Red,73,35,39,2785,3.53
+Tripura,Millets,2019,1095,34,63,Sandy,73,45,42,2870,3.75
+Tripura,Millets,2020,1189,35,92,Black,41,47,32,2627,4.05
+Tripura,Millets,2021,927,17,91,Sandy,71,29,51,638,3.81
+Tripura,Millets,2022,1901,23,76,Red,97,57,23,4493,5.9
+Tripura,Millets,2023,556,34,93,Loamy,89,53,42,2126,3.31
+Tripura,Millets,2024,1785,24,57,Red,70,38,39,3083,5.02
+Tripura,Cotton,2015,777,25,75,Laterite,44,60,21,2174,2.98
+Tripura,Cotton,2016,464,18,64,Sandy,42,22,57,4542,2.97
+Tripura,Cotton,2017,1578,18,30,Loamy,68,54,40,1123,4.23
+Tripura,Cotton,2018,839,26,36,Alluvial,41,24,51,1530,3.24
+Tripura,Cotton,2019,574,17,89,Red,56,33,28,1649,3.17
+Tripura,Cotton,2020,905,30,64,Loamy,82,36,26,2385,3.54
+Tripura,Cotton,2021,398,27,51,Sandy,85,35,49,3770,2.56
+Tripura,Cotton,2022,1917,30,41,Sandy,65,40,40,3670,5.33
+Tripura,Cotton,2023,1234,34,71,Black,88,32,39,1115,4.78
+Tripura,Cotton,2024,1759,31,85,Red,86,20,22,4572,5.33
+Tripura,Sugarcane,2015,1824,17,72,Black,46,30,20,2159,4.49
+Tripura,Sugarcane,2016,1287,35,44,Alluvial,81,37,27,1448,4.24
+Tripura,Sugarcane,2017,1220,23,84,Loamy,64,38,52,3120,4.42
+Tripura,Sugarcane,2018,1676,34,55,Black,52,28,55,2640,5.05
+Tripura,Sugarcane,2019,1675,19,70,Clay,93,27,42,749,5.23
+Tripura,Sugarcane,2020,838,32,58,Laterite,89,51,51,2918,3.86
+Tripura,Sugarcane,2021,930,18,73,Alluvial,89,20,36,1251,3.43
+Tripura,Sugarcane,2022,1759,24,89,Clay,95,22,59,2918,5.63
+Tripura,Sugarcane,2023,1762,25,39,Red,75,51,27,3781,5.42
+Tripura,Sugarcane,2024,1060,26,65,Black,67,36,60,4096,3.36
+Tripura,Pulses,2015,1690,27,30,Laterite,97,54,50,3604,4.95
+Tripura,Pulses,2016,1195,15,40,Clay,96,21,25,3605,4.21
+Tripura,Pulses,2017,1891,29,61,Laterite,50,46,28,969,4.71
+Tripura,Pulses,2018,1646,31,77,Clay,90,53,23,4099,5.08
+Tripura,Pulses,2019,1088,30,89,Laterite,86,54,55,4692,3.76
+Tripura,Pulses,2020,913,31,48,Laterite,65,30,33,2491,4.02
+Tripura,Pulses,2021,1913,22,42,Clay,89,26,40,4952,5.48
+Tripura,Pulses,2022,1801,17,72,Black,84,47,45,1066,5.54
+Tripura,Pulses,2023,455,32,40,Clay,71,41,60,998,2.72
+Tripura,Pulses,2024,1834,22,87,Laterite,53,43,56,4837,4.93
+Tripura,Groundnut,2015,1668,22,40,Clay,40,25,54,870,4.51
+Tripura,Groundnut,2016,1509,31,63,Alluvial,42,43,28,1279,4.8
+Tripura,Groundnut,2017,813,23,41,Loamy,64,34,50,2901,3.2
+Tripura,Groundnut,2018,733,24,76,Black,88,30,32,4135,3.68
+Tripura,Groundnut,2019,1905,25,71,Laterite,88,33,22,3275,5.67
+Tripura,Groundnut,2020,763,27,74,Clay,74,36,46,4549,2.95
+Tripura,Groundnut,2021,1138,23,85,Laterite,91,45,60,3920,3.8
+Tripura,Groundnut,2022,413,15,85,Black,73,52,43,2868,3.0
+Tripura,Groundnut,2023,1923,24,44,Alluvial,82,49,30,2685,5.82
+Tripura,Groundnut,2024,517,17,37,Laterite,98,39,22,910,3.48
+Tripura,Soybean,2015,861,19,74,Alluvial,96,51,42,2327,4.08
+Tripura,Soybean,2016,1277,17,30,Alluvial,70,56,52,3963,4.1
+Tripura,Soybean,2017,368,27,69,Alluvial,83,34,56,583,2.44
+Tripura,Soybean,2018,697,27,38,Alluvial,49,48,48,2054,2.73
+Tripura,Soybean,2019,1561,23,45,Red,59,44,55,2606,4.16
+Tripura,Soybean,2020,1739,25,55,Loamy,47,58,46,2250,5.16
+Tripura,Soybean,2021,1895,25,67,Red,86,37,36,4339,5.51
+Tripura,Soybean,2022,997,22,55,Loamy,68,25,41,1327,3.42
+Tripura,Soybean,2023,513,29,57,Black,90,31,45,617,2.91
+Tripura,Soybean,2024,518,33,68,Clay,86,33,35,1993,2.91
+Tripura,Tea,2015,1600,22,61,Sandy,66,56,30,3267,5.12
+Tripura,Tea,2016,429,23,64,Clay,84,33,24,1378,2.9
+Tripura,Tea,2017,873,24,72,Black,59,22,30,2696,3.49
+Tripura,Tea,2018,813,34,65,Black,41,20,53,1649,3.19
+Tripura,Tea,2019,1224,30,52,Black,62,23,38,4303,4.38
+Tripura,Tea,2020,1434,22,87,Alluvial,88,47,36,767,4.79
+Tripura,Tea,2021,1471,18,35,Loamy,65,23,59,1653,4.25
+Tripura,Tea,2022,973,21,54,Laterite,75,57,36,1685,3.86
+Tripura,Tea,2023,1725,27,42,Black,58,21,50,2887,5.04
+Tripura,Tea,2024,311,32,45,Red,89,25,56,4362,2.54
+Tripura,Coffee,2015,1705,21,46,Alluvial,58,29,44,4633,4.5
+Tripura,Coffee,2016,574,25,82,Alluvial,95,51,20,3062,3.2
+Tripura,Coffee,2017,1555,24,93,Clay,94,36,34,2941,5.04
+Tripura,Coffee,2018,1730,35,37,Laterite,76,26,41,4901,5.19
+Tripura,Coffee,2019,766,34,56,Laterite,75,42,37,2266,3.49
+Tripura,Coffee,2020,345,35,30,Laterite,85,53,39,4228,2.6
+Tripura,Coffee,2021,806,25,53,Alluvial,100,26,58,4945,3.89
+Tripura,Coffee,2022,498,27,78,Sandy,100,33,27,2072,3.36
+Tripura,Coffee,2023,305,24,56,Sandy,73,43,42,3026,2.57
+Tripura,Coffee,2024,1624,25,73,Loamy,51,36,46,2517,4.84
+Uttar Pradesh,Rice,2015,1277,33,86,Laterite,82,29,54,3556,4.48
+Uttar Pradesh,Rice,2016,1475,23,56,Black,83,60,32,1970,4.92
+Uttar Pradesh,Rice,2017,800,26,53,Alluvial,85,31,51,1717,3.29
+Uttar Pradesh,Rice,2018,409,33,94,Alluvial,57,39,33,1371,2.49
+Uttar Pradesh,Rice,2019,384,30,78,Sandy,71,20,25,4773,2.78
+Uttar Pradesh,Rice,2020,357,26,93,Loamy,70,48,26,3362,2.68
+Uttar Pradesh,Rice,2021,1651,32,67,Black,70,40,55,1845,4.6
+Uttar Pradesh,Rice,2022,1348,22,32,Black,99,39,24,2315,4.84
+Uttar Pradesh,Rice,2023,746,22,74,Sandy,99,56,47,1654,4.04
+Uttar Pradesh,Rice,2024,444,18,34,Black,42,22,23,1766,2.69
+Uttar Pradesh,Wheat,2015,982,28,59,Sandy,90,55,50,4061,3.63
+Uttar Pradesh,Wheat,2016,788,28,62,Loamy,82,53,53,1309,3.68
+Uttar Pradesh,Wheat,2017,1087,18,42,Laterite,50,60,34,1198,4.09
+Uttar Pradesh,Wheat,2018,1254,35,32,Red,64,32,55,704,4.53
+Uttar Pradesh,Wheat,2019,661,28,33,Alluvial,65,32,25,3220,3.64
+Uttar Pradesh,Wheat,2020,1710,23,33,Loamy,59,56,42,4230,4.71
+Uttar Pradesh,Wheat,2021,1013,20,71,Loamy,95,50,52,3519,3.54
+Uttar Pradesh,Wheat,2022,882,19,40,Alluvial,83,59,54,4332,3.68
+Uttar Pradesh,Wheat,2023,806,34,55,Loamy,81,40,39,4725,3.49
+Uttar Pradesh,Wheat,2024,1802,27,76,Laterite,83,43,26,3780,4.85
+Uttar Pradesh,Maize,2015,1623,25,60,Alluvial,45,56,56,4729,4.55
+Uttar Pradesh,Maize,2016,1472,21,95,Red,93,24,46,3796,4.72
+Uttar Pradesh,Maize,2017,1518,22,68,Clay,52,32,28,1601,4.27
+Uttar Pradesh,Maize,2018,645,22,47,Alluvial,64,53,50,2582,2.64
+Uttar Pradesh,Maize,2019,1360,27,57,Sandy,61,32,27,2210,3.91
+Uttar Pradesh,Maize,2020,1465,29,65,Sandy,45,29,38,4708,4.37
+Uttar Pradesh,Maize,2021,1053,31,44,Red,45,56,31,3311,3.56
+Uttar Pradesh,Maize,2022,1927,20,93,Black,73,46,51,2902,5.31
+Uttar Pradesh,Maize,2023,737,34,60,Clay,98,29,50,1200,3.63
+Uttar Pradesh,Maize,2024,482,35,59,Clay,80,47,34,4340,3.19
+Uttar Pradesh,Barley,2015,905,15,89,Sandy,63,23,22,2378,3.7
+Uttar Pradesh,Barley,2016,1854,23,95,Clay,93,28,32,1169,5.67
+Uttar Pradesh,Barley,2017,758,32,74,Black,57,37,39,4137,3.43
+Uttar Pradesh,Barley,2018,1543,24,46,Alluvial,67,57,48,3485,4.44
+Uttar Pradesh,Barley,2019,428,23,54,Alluvial,52,53,57,4504,2.21
+Uttar Pradesh,Barley,2020,788,29,74,Alluvial,49,38,22,4432,3.03
+Uttar Pradesh,Barley,2021,1930,15,32,Loamy,90,29,60,4510,5.0
+Uttar Pradesh,Barley,2022,1039,34,39,Clay,58,27,43,4980,3.89
+Uttar Pradesh,Barley,2023,1245,34,42,Black,40,50,55,4111,4.24
+Uttar Pradesh,Barley,2024,413,22,59,Loamy,41,22,27,4844,2.26
+Uttar Pradesh,Millets,2015,1347,27,64,Laterite,60,57,54,2079,3.92
+Uttar Pradesh,Millets,2016,1232,17,41,Laterite,58,27,28,4027,4.37
+Uttar Pradesh,Millets,2017,1438,16,59,Clay,45,20,23,805,4.66
+Uttar Pradesh,Millets,2018,1129,28,36,Black,68,60,41,1383,3.5
+Uttar Pradesh,Millets,2019,445,26,86,Red,67,27,35,3354,3.19
+Uttar Pradesh,Millets,2020,1176,23,80,Black,54,26,21,3130,3.62
+Uttar Pradesh,Millets,2021,1849,35,65,Laterite,51,35,32,3555,5.0
+Uttar Pradesh,Millets,2022,387,31,54,Clay,61,53,52,1852,2.55
+Uttar Pradesh,Millets,2023,800,34,92,Red,75,56,36,1749,3.47
+Uttar Pradesh,Millets,2024,1553,26,39,Laterite,47,20,43,685,4.64
+Uttar Pradesh,Cotton,2015,1665,35,42,Sandy,86,56,21,3783,5.16
+Uttar Pradesh,Cotton,2016,1936,22,84,Sandy,78,40,40,2715,5.07
+Uttar Pradesh,Cotton,2017,1291,22,88,Red,47,48,28,2508,4.0
+Uttar Pradesh,Cotton,2018,907,25,92,Sandy,71,34,54,2074,3.56
+Uttar Pradesh,Cotton,2019,1708,25,40,Sandy,67,53,33,3801,5.39
+Uttar Pradesh,Cotton,2020,1374,16,50,Red,89,31,59,507,4.5
+Uttar Pradesh,Cotton,2021,1072,17,67,Red,93,22,36,615,4.21
+Uttar Pradesh,Cotton,2022,1530,16,52,Black,86,59,34,4441,4.49
+Uttar Pradesh,Cotton,2023,414,18,91,Alluvial,97,37,59,3397,2.78
+Uttar Pradesh,Cotton,2024,1534,19,84,Sandy,71,50,60,3961,4.79
+Uttar Pradesh,Sugarcane,2015,1443,20,42,Alluvial,75,39,54,1297,4.69
+Uttar Pradesh,Sugarcane,2016,1600,29,82,Black,68,47,27,2899,4.91
+Uttar Pradesh,Sugarcane,2017,356,35,90,Black,90,38,34,3865,3.33
+Uttar Pradesh,Sugarcane,2018,612,20,90,Black,84,41,51,3008,3.24
+Uttar Pradesh,Sugarcane,2019,1902,31,79,Black,82,53,37,1553,5.81
+Uttar Pradesh,Sugarcane,2020,1161,34,75,Loamy,50,43,49,3792,3.37
+Uttar Pradesh,Sugarcane,2021,1740,29,37,Loamy,75,58,59,3008,5.42
+Uttar Pradesh,Sugarcane,2022,605,30,65,Black,51,38,43,2300,2.46
+Uttar Pradesh,Sugarcane,2023,343,28,60,Sandy,68,46,35,4375,2.69
+Uttar Pradesh,Sugarcane,2024,1094,18,82,Alluvial,96,28,27,2521,4.18
+Uttar Pradesh,Pulses,2015,1216,26,51,Sandy,40,45,60,2972,4.28
+Uttar Pradesh,Pulses,2016,836,18,60,Loamy,42,22,48,2965,3.11
+Uttar Pradesh,Pulses,2017,1929,16,92,Alluvial,48,46,55,1142,5.52
+Uttar Pradesh,Pulses,2018,1471,23,52,Black,95,39,60,2315,4.51
+Uttar Pradesh,Pulses,2019,1430,22,74,Clay,49,49,31,1047,4.4
+Uttar Pradesh,Pulses,2020,1347,34,86,Sandy,70,22,59,4870,4.73
+Uttar Pradesh,Pulses,2021,1159,34,31,Laterite,41,41,39,976,3.62
+Uttar Pradesh,Pulses,2022,1006,26,93,Loamy,56,24,41,672,3.54
+Uttar Pradesh,Pulses,2023,1904,26,78,Laterite,60,32,29,4960,5.5
+Uttar Pradesh,Pulses,2024,1020,25,88,Red,75,22,31,4539,3.77
+Uttar Pradesh,Groundnut,2015,407,18,49,Black,43,53,50,4067,2.55
+Uttar Pradesh,Groundnut,2016,1223,35,34,Alluvial,82,37,45,1665,4.4
+Uttar Pradesh,Groundnut,2017,875,27,43,Laterite,56,44,59,3888,3.59
+Uttar Pradesh,Groundnut,2018,1104,35,94,Clay,76,50,39,3779,4.44
+Uttar Pradesh,Groundnut,2019,375,25,54,Loamy,48,26,43,2002,2.08
+Uttar Pradesh,Groundnut,2020,1739,21,53,Alluvial,69,47,34,719,5.13
+Uttar Pradesh,Groundnut,2021,1482,24,32,Red,99,20,35,3072,4.48
+Uttar Pradesh,Groundnut,2022,1277,17,70,Laterite,70,47,37,1851,3.84
+Uttar Pradesh,Groundnut,2023,1351,34,42,Clay,72,23,55,4002,4.58
+Uttar Pradesh,Groundnut,2024,466,20,67,Loamy,64,21,25,815,2.35
+Uttar Pradesh,Soybean,2015,1465,21,52,Laterite,57,39,34,756,4.1
+Uttar Pradesh,Soybean,2016,779,35,94,Laterite,40,52,34,3861,2.87
+Uttar Pradesh,Soybean,2017,853,18,92,Laterite,84,57,35,1762,3.54
+Uttar Pradesh,Soybean,2018,1284,27,48,Alluvial,95,21,42,891,4.1
+Uttar Pradesh,Soybean,2019,927,35,59,Red,58,55,34,1950,3.24
+Uttar Pradesh,Soybean,2020,1028,31,68,Black,78,48,45,1734,3.42
+Uttar Pradesh,Soybean,2021,1844,34,51,Loamy,90,25,59,1443,5.5
+Uttar Pradesh,Soybean,2022,865,34,86,Loamy,66,35,59,4399,3.94
+Uttar Pradesh,Soybean,2023,595,23,41,Sandy,85,20,47,4666,3.12
+Uttar Pradesh,Soybean,2024,1452,31,74,Sandy,51,20,49,3365,4.48
+Uttar Pradesh,Tea,2015,998,20,32,Sandy,41,57,43,2166,3.95
+Uttar Pradesh,Tea,2016,780,34,77,Red,59,58,35,2667,3.25
+Uttar Pradesh,Tea,2017,1938,35,83,Loamy,58,50,34,3209,5.43
+Uttar Pradesh,Tea,2018,1912,23,94,Sandy,84,52,55,1097,5.76
+Uttar Pradesh,Tea,2019,1390,28,91,Red,43,47,53,4164,4.57
+Uttar Pradesh,Tea,2020,980,30,76,Sandy,80,28,48,708,3.57
+Uttar Pradesh,Tea,2021,1388,26,45,Red,41,46,53,1345,4.45
+Uttar Pradesh,Tea,2022,1830,24,32,Laterite,76,30,38,4882,5.18
+Uttar Pradesh,Tea,2023,1644,17,37,Black,48,51,60,4841,4.37
+Uttar Pradesh,Tea,2024,1021,30,47,Loamy,54,40,50,4472,4.11
+Uttar Pradesh,Coffee,2015,1471,30,51,Laterite,86,39,40,2907,4.41
+Uttar Pradesh,Coffee,2016,745,20,82,Red,55,38,39,1036,2.88
+Uttar Pradesh,Coffee,2017,553,15,76,Alluvial,57,43,57,3644,2.69
+Uttar Pradesh,Coffee,2018,1743,24,40,Black,42,31,33,3623,4.26
+Uttar Pradesh,Coffee,2019,1013,32,33,Clay,95,34,50,4647,3.91
+Uttar Pradesh,Coffee,2020,1608,32,38,Sandy,100,52,47,4401,4.74
+Uttar Pradesh,Coffee,2021,757,30,38,Alluvial,41,30,45,3853,3.59
+Uttar Pradesh,Coffee,2022,1450,31,79,Sandy,44,39,41,1163,4.24
+Uttar Pradesh,Coffee,2023,1441,22,80,Clay,47,36,23,3019,4.44
+Uttar Pradesh,Coffee,2024,400,19,69,Loamy,60,29,40,3544,2.17
+Uttarakhand,Rice,2015,608,29,78,Laterite,93,51,53,3620,3.77
+Uttarakhand,Rice,2016,525,17,47,Alluvial,84,43,49,1456,3.1
+Uttarakhand,Rice,2017,1643,26,87,Red,68,30,50,2400,4.66
+Uttarakhand,Rice,2018,1574,15,50,Black,58,58,53,3327,4.8
+Uttarakhand,Rice,2019,727,35,92,Red,81,57,42,2080,3.57
+Uttarakhand,Rice,2020,974,30,47,Sandy,94,25,27,3523,3.58
+Uttarakhand,Rice,2021,828,27,94,Red,70,34,35,2456,3.32
+Uttarakhand,Rice,2022,362,23,57,Black,69,47,40,1900,3.09
+Uttarakhand,Rice,2023,687,15,74,Laterite,93,51,29,4895,3.49
+Uttarakhand,Rice,2024,1580,29,60,Black,88,22,60,4461,4.38
+Uttarakhand,Wheat,2015,1541,31,85,Red,96,44,51,2003,4.41
+Uttarakhand,Wheat,2016,1550,24,39,Loamy,64,56,24,3139,4.16
+Uttarakhand,Wheat,2017,1838,33,93,Black,97,56,45,2912,5.1
+Uttarakhand,Wheat,2018,333,22,71,Red,51,40,59,1844,2.35
+Uttarakhand,Wheat,2019,1775,26,80,Black,50,34,48,4575,4.45
+Uttarakhand,Wheat,2020,1337,25,44,Clay,55,36,37,4040,4.13
+Uttarakhand,Wheat,2021,1159,22,85,Alluvial,93,42,55,3274,3.76
+Uttarakhand,Wheat,2022,548,29,87,Laterite,41,58,49,2691,2.3
+Uttarakhand,Wheat,2023,457,31,56,Loamy,43,59,38,2812,2.69
+Uttarakhand,Wheat,2024,1888,20,83,Clay,95,58,40,2235,5.12
+Uttarakhand,Maize,2015,1829,34,90,Loamy,84,59,53,1613,5.58
+Uttarakhand,Maize,2016,1988,23,60,Laterite,81,40,47,3715,5.61
+Uttarakhand,Maize,2017,1018,15,51,Alluvial,83,52,45,3875,3.48
+Uttarakhand,Maize,2018,1657,16,34,Laterite,45,41,46,4235,4.44
+Uttarakhand,Maize,2019,688,28,68,Black,82,49,21,3702,3.55
+Uttarakhand,Maize,2020,1083,30,37,Sandy,48,26,20,2470,3.24
+Uttarakhand,Maize,2021,1319,15,87,Sandy,49,53,38,1858,4.17
+Uttarakhand,Maize,2022,1954,17,53,Laterite,61,40,33,908,5.04
+Uttarakhand,Maize,2023,1163,30,39,Loamy,78,47,48,2542,4.33
+Uttarakhand,Maize,2024,687,18,93,Clay,65,38,59,3141,2.87
+Uttarakhand,Barley,2015,536,19,83,Sandy,84,53,21,2582,3.59
+Uttarakhand,Barley,2016,1953,21,50,Red,49,30,56,2893,5.12
+Uttarakhand,Barley,2017,1478,20,61,Sandy,57,44,51,1819,4.57
+Uttarakhand,Barley,2018,1597,28,35,Red,76,56,60,4411,5.15
+Uttarakhand,Barley,2019,1745,16,41,Black,96,31,49,954,4.88
+Uttarakhand,Barley,2020,1213,16,51,Red,68,34,52,3841,4.38
+Uttarakhand,Barley,2021,601,16,94,Clay,81,48,55,3356,2.96
+Uttarakhand,Barley,2022,1899,30,91,Black,77,50,22,4780,5.06
+Uttarakhand,Barley,2023,1587,32,89,Clay,92,36,34,1678,5.31
+Uttarakhand,Barley,2024,894,27,49,Alluvial,64,34,35,2206,3.62
+Uttarakhand,Millets,2015,423,16,38,Alluvial,83,55,37,2050,2.52
+Uttarakhand,Millets,2016,562,28,48,Sandy,93,40,39,1917,3.46
+Uttarakhand,Millets,2017,1320,25,58,Laterite,51,29,39,3003,3.82
+Uttarakhand,Millets,2018,1363,30,70,Alluvial,87,33,40,3417,4.77
+Uttarakhand,Millets,2019,973,30,56,Loamy,87,59,51,3432,4.0
+Uttarakhand,Millets,2020,465,22,52,Sandy,50,34,43,1134,2.4
+Uttarakhand,Millets,2021,1040,28,79,Black,85,50,53,1399,4.43
+Uttarakhand,Millets,2022,758,17,42,Clay,60,23,39,4806,2.87
+Uttarakhand,Millets,2023,1556,23,36,Laterite,40,58,30,1784,4.27
+Uttarakhand,Millets,2024,1455,19,82,Sandy,51,36,22,1555,4.52
+Uttarakhand,Cotton,2015,601,15,84,Laterite,65,39,50,1278,3.44
+Uttarakhand,Cotton,2016,1449,24,89,Clay,53,31,34,1854,4.41
+Uttarakhand,Cotton,2017,940,18,60,Red,44,44,37,4651,3.8
+Uttarakhand,Cotton,2018,361,35,33,Clay,59,29,25,2549,2.52
+Uttarakhand,Cotton,2019,352,24,95,Black,79,51,28,2323,3.12
+Uttarakhand,Cotton,2020,1410,28,67,Sandy,74,29,58,3748,4.87
+Uttarakhand,Cotton,2021,680,23,54,Red,80,40,44,1745,2.93
+Uttarakhand,Cotton,2022,547,16,90,Alluvial,93,34,49,1452,2.82
+Uttarakhand,Cotton,2023,1478,35,44,Alluvial,97,44,26,1257,5.1
+Uttarakhand,Cotton,2024,1732,20,92,Clay,46,45,30,936,4.45
+Uttarakhand,Sugarcane,2015,1339,19,44,Red,88,59,26,1351,4.67
+Uttarakhand,Sugarcane,2016,1899,28,82,Sandy,93,35,34,1384,5.29
+Uttarakhand,Sugarcane,2017,777,22,60,Black,40,58,23,3364,3.23
+Uttarakhand,Sugarcane,2018,1306,19,48,Red,73,24,32,3325,4.3
+Uttarakhand,Sugarcane,2019,1390,20,30,Sandy,74,55,38,4738,3.94
+Uttarakhand,Sugarcane,2020,1175,34,41,Alluvial,92,47,45,4512,3.98
+Uttarakhand,Sugarcane,2021,1086,32,61,Alluvial,40,21,41,2822,4.0
+Uttarakhand,Sugarcane,2022,538,28,33,Alluvial,62,38,47,4378,2.87
+Uttarakhand,Sugarcane,2023,1815,28,32,Alluvial,68,26,37,1143,5.09
+Uttarakhand,Sugarcane,2024,843,20,40,Laterite,56,54,52,1250,3.14
+Uttarakhand,Pulses,2015,1331,24,37,Alluvial,43,36,55,2166,4.33
+Uttarakhand,Pulses,2016,1305,26,81,Clay,79,20,22,4140,4.78
+Uttarakhand,Pulses,2017,1051,34,83,Laterite,57,25,34,689,3.98
+Uttarakhand,Pulses,2018,798,22,45,Red,76,37,25,3782,3.83
+Uttarakhand,Pulses,2019,464,19,69,Alluvial,47,51,22,2233,2.53
+Uttarakhand,Pulses,2020,1310,30,75,Red,86,34,51,3856,4.48
+Uttarakhand,Pulses,2021,553,27,79,Laterite,95,54,37,4791,2.98
+Uttarakhand,Pulses,2022,1421,20,43,Clay,54,21,41,1135,3.99
+Uttarakhand,Pulses,2023,691,18,36,Black,47,41,43,2456,3.29
+Uttarakhand,Pulses,2024,502,29,49,Laterite,71,38,42,2128,2.69
+Uttarakhand,Groundnut,2015,675,26,38,Clay,83,46,48,4219,3.53
+Uttarakhand,Groundnut,2016,1383,27,34,Clay,79,30,23,2660,4.19
+Uttarakhand,Groundnut,2017,1208,31,95,Sandy,99,38,58,875,4.54
+Uttarakhand,Groundnut,2018,1503,20,64,Clay,100,47,41,2891,5.18
+Uttarakhand,Groundnut,2019,564,29,95,Red,41,58,50,2731,2.92
+Uttarakhand,Groundnut,2020,1363,33,36,Red,92,48,46,811,4.5
+Uttarakhand,Groundnut,2021,621,32,47,Loamy,67,31,41,1103,3.09
+Uttarakhand,Groundnut,2022,1816,25,52,Black,61,32,22,2042,4.93
+Uttarakhand,Groundnut,2023,1724,16,83,Sandy,83,35,30,3022,5.19
+Uttarakhand,Groundnut,2024,1049,23,93,Laterite,85,41,53,4907,3.64
+Uttarakhand,Soybean,2015,927,23,68,Laterite,84,21,26,2039,3.31
+Uttarakhand,Soybean,2016,1352,33,66,Sandy,93,60,55,2213,4.68
+Uttarakhand,Soybean,2017,1707,35,93,Sandy,90,24,31,3984,4.6
+Uttarakhand,Soybean,2018,1216,35,77,Red,55,39,28,4786,3.6
+Uttarakhand,Soybean,2019,493,34,79,Black,97,24,30,1367,3.62
+Uttarakhand,Soybean,2020,1936,24,91,Laterite,97,44,37,3647,5.05
+Uttarakhand,Soybean,2021,449,34,51,Alluvial,48,44,34,1088,2.98
+Uttarakhand,Soybean,2022,303,21,48,Laterite,40,51,53,2749,2.0
+Uttarakhand,Soybean,2023,1276,32,56,Red,84,49,51,4816,4.81
+Uttarakhand,Soybean,2024,546,17,41,Loamy,56,29,22,2747,3.07
+Uttarakhand,Tea,2015,1955,20,50,Alluvial,56,25,27,1652,5.22
+Uttarakhand,Tea,2016,1820,26,52,Laterite,44,51,58,4786,5.31
+Uttarakhand,Tea,2017,1723,25,64,Clay,99,34,48,1672,5.38
+Uttarakhand,Tea,2018,940,34,62,Laterite,91,38,37,3675,4.19
+Uttarakhand,Tea,2019,1421,18,83,Sandy,44,35,55,1544,3.81
+Uttarakhand,Tea,2020,1429,16,77,Clay,93,54,40,4552,4.34
+Uttarakhand,Tea,2021,1877,28,61,Red,69,47,44,1451,5.65
+Uttarakhand,Tea,2022,710,35,83,Black,83,53,60,2388,3.42
+Uttarakhand,Tea,2023,968,23,61,Sandy,95,31,41,2180,3.77
+Uttarakhand,Tea,2024,783,18,74,Sandy,97,23,20,3029,3.41
+Uttarakhand,Coffee,2015,1651,35,87,Loamy,67,42,47,2126,4.62
+Uttarakhand,Coffee,2016,1326,18,73,Clay,58,50,20,3736,4.38
+Uttarakhand,Coffee,2017,1749,27,34,Clay,48,52,48,916,4.99
+Uttarakhand,Coffee,2018,363,19,33,Clay,100,25,43,3606,3.42
+Uttarakhand,Coffee,2019,1587,18,60,Alluvial,64,21,39,3778,5.0
+Uttarakhand,Coffee,2020,750,29,83,Loamy,74,40,58,4104,3.32
+Uttarakhand,Coffee,2021,864,32,49,Red,59,42,39,1735,3.72
+Uttarakhand,Coffee,2022,347,23,95,Black,86,25,29,1978,2.87
+Uttarakhand,Coffee,2023,1550,35,68,Alluvial,67,35,31,4951,5.01
+Uttarakhand,Coffee,2024,517,31,45,Clay,56,56,27,4694,3.08
+West Bengal,Rice,2015,626,35,46,Alluvial,68,53,46,4646,3.37
+West Bengal,Rice,2016,1268,34,67,Sandy,80,53,23,1581,4.18
+West Bengal,Rice,2017,968,19,52,Clay,68,41,51,3679,3.83
+West Bengal,Rice,2018,1909,20,36,Laterite,42,48,37,543,4.98
+West Bengal,Rice,2019,640,31,60,Laterite,69,32,54,2701,2.75
+West Bengal,Rice,2020,1446,31,77,Black,85,39,44,1674,4.14
+West Bengal,Rice,2021,1282,18,91,Sandy,54,60,35,2973,4.33
+West Bengal,Rice,2022,1099,17,44,Black,68,22,60,2292,3.44
+West Bengal,Rice,2023,602,25,54,Alluvial,60,20,45,3346,3.2
+West Bengal,Rice,2024,774,18,59,Alluvial,69,32,53,635,3.06
+West Bengal,Wheat,2015,1565,28,40,Loamy,81,38,56,2316,4.94
+West Bengal,Wheat,2016,993,34,73,Sandy,89,48,36,3208,3.85
+West Bengal,Wheat,2017,1436,16,43,Red,43,20,41,4760,4.13
+West Bengal,Wheat,2018,891,34,63,Sandy,98,31,46,2258,3.64
+West Bengal,Wheat,2019,1255,23,78,Loamy,87,58,43,2992,4.18
+West Bengal,Wheat,2020,544,25,75,Black,66,35,24,4602,2.85
+West Bengal,Wheat,2021,1391,26,61,Alluvial,57,43,47,2911,4.72
+West Bengal,Wheat,2022,632,15,38,Clay,64,52,31,3660,2.6
+West Bengal,Wheat,2023,1984,22,64,Black,81,57,55,3103,5.4
+West Bengal,Wheat,2024,1682,15,66,Clay,53,28,37,4738,4.45
+West Bengal,Maize,2015,1932,30,79,Alluvial,83,33,28,1453,5.74
+West Bengal,Maize,2016,1697,18,88,Red,82,24,53,4660,5.47
+West Bengal,Maize,2017,910,34,79,Alluvial,64,35,55,4551,3.39
+West Bengal,Maize,2018,866,18,81,Laterite,67,36,58,3845,3.76
+West Bengal,Maize,2019,1321,25,32,Red,42,24,30,2911,4.2
+West Bengal,Maize,2020,1873,15,79,Clay,41,60,55,2596,5.45
+West Bengal,Maize,2021,382,35,92,Loamy,97,27,45,4577,2.63
+West Bengal,Maize,2022,1543,26,42,Alluvial,76,20,57,2646,4.49
+West Bengal,Maize,2023,1307,26,30,Laterite,84,58,45,896,4.28
+West Bengal,Maize,2024,1950,32,88,Sandy,90,24,21,3865,5.01
+West Bengal,Barley,2015,1294,35,43,Sandy,59,28,38,4880,4.11
+West Bengal,Barley,2016,416,27,77,Red,57,33,51,4504,2.68
+West Bengal,Barley,2017,603,31,61,Loamy,60,56,40,1320,3.3
+West Bengal,Barley,2018,1932,32,49,Laterite,70,50,23,3607,5.65
+West Bengal,Barley,2019,1336,31,32,Black,45,56,24,4373,3.77
+West Bengal,Barley,2020,728,15,46,Clay,53,48,46,3093,3.38
+West Bengal,Barley,2021,1670,34,33,Red,76,21,55,1234,5.37
+West Bengal,Barley,2022,1081,19,72,Laterite,65,26,27,2828,3.97
+West Bengal,Barley,2023,1411,18,90,Black,61,33,20,3657,4.29
+West Bengal,Barley,2024,1108,15,89,Loamy,70,42,39,2747,4.19
+West Bengal,Millets,2015,1401,25,92,Laterite,89,56,39,1971,4.32
+West Bengal,Millets,2016,1052,24,60,Loamy,73,47,46,3983,3.7
+West Bengal,Millets,2017,1410,20,44,Clay,86,35,30,578,4.09
+West Bengal,Millets,2018,544,31,90,Alluvial,80,39,46,2177,3.2
+West Bengal,Millets,2019,1259,29,78,Clay,89,45,54,4862,4.7
+West Bengal,Millets,2020,1362,35,54,Clay,89,37,25,1614,4.46
+West Bengal,Millets,2021,1828,34,71,Black,94,27,34,2712,4.94
+West Bengal,Millets,2022,1005,20,85,Laterite,64,38,56,4474,4.01
+West Bengal,Millets,2023,683,34,91,Sandy,68,25,51,2917,3.61
+West Bengal,Millets,2024,445,16,53,Sandy,42,47,52,3472,2.29
+West Bengal,Cotton,2015,1581,17,36,Red,97,44,41,3704,4.92
+West Bengal,Cotton,2016,867,22,90,Laterite,68,35,59,2572,3.75
+West Bengal,Cotton,2017,524,23,50,Clay,58,54,53,4560,2.36
+West Bengal,Cotton,2018,1487,35,68,Alluvial,48,29,48,2332,4.05
+West Bengal,Cotton,2019,526,31,75,Laterite,85,56,22,4334,2.82
+West Bengal,Cotton,2020,759,28,62,Laterite,45,26,32,3662,3.37
+West Bengal,Cotton,2021,1614,27,44,Sandy,61,26,43,579,4.78
+West Bengal,Cotton,2022,1554,17,39,Alluvial,40,51,47,3831,4.13
+West Bengal,Cotton,2023,1795,24,88,Clay,75,20,29,2234,4.64
+West Bengal,Cotton,2024,986,34,73,Clay,65,49,24,733,3.5
+West Bengal,Sugarcane,2015,847,29,51,Loamy,95,30,48,1219,3.28
+West Bengal,Sugarcane,2016,473,23,57,Sandy,66,44,33,3365,3.01
+West Bengal,Sugarcane,2017,1643,16,60,Black,58,31,38,1476,5.18
+West Bengal,Sugarcane,2018,1909,22,53,Clay,49,26,26,1129,4.59
+West Bengal,Sugarcane,2019,1299,28,56,Laterite,91,56,23,4686,4.14
+West Bengal,Sugarcane,2020,587,17,82,Alluvial,60,38,31,2256,3.15
+West Bengal,Sugarcane,2021,1188,23,46,Alluvial,78,33,35,1834,4.41
+West Bengal,Sugarcane,2022,1990,24,84,Black,65,60,57,4460,4.94
+West Bengal,Sugarcane,2023,1201,19,85,Black,85,42,45,2480,3.73
+West Bengal,Sugarcane,2024,550,26,48,Alluvial,52,48,52,3981,3.21
+West Bengal,Pulses,2015,1285,21,81,Sandy,69,39,39,1845,4.23
+West Bengal,Pulses,2016,1321,31,83,Black,40,51,21,4817,3.75
+West Bengal,Pulses,2017,731,31,54,Loamy,97,39,60,500,3.24
+West Bengal,Pulses,2018,812,16,86,Red,43,46,54,1160,3.11
+West Bengal,Pulses,2019,1937,35,85,Loamy,51,27,35,1949,5.26
+West Bengal,Pulses,2020,1245,32,66,Red,61,24,46,1148,4.48
+West Bengal,Pulses,2021,734,24,93,Laterite,99,43,52,3219,3.56
+West Bengal,Pulses,2022,517,23,31,Clay,80,34,50,1245,3.31
+West Bengal,Pulses,2023,859,30,69,Clay,40,55,24,1168,3.17
+West Bengal,Pulses,2024,1683,16,84,Black,46,59,45,4858,4.68
+West Bengal,Groundnut,2015,1851,30,90,Laterite,78,45,37,2845,5.35
+West Bengal,Groundnut,2016,930,27,60,Black,81,44,45,790,3.33
+West Bengal,Groundnut,2017,1824,33,74,Loamy,69,53,28,4344,4.63
+West Bengal,Groundnut,2018,383,25,39,Loamy,85,38,60,3297,3.11
+West Bengal,Groundnut,2019,1321,18,36,Laterite,56,60,45,691,4.03
+West Bengal,Groundnut,2020,1985,24,91,Loamy,53,28,28,4037,5.47
+West Bengal,Groundnut,2021,1788,22,75,Red,71,50,25,3436,5.26
+West Bengal,Groundnut,2022,1972,22,38,Loamy,52,33,30,1567,4.97
+West Bengal,Groundnut,2023,1961,22,86,Black,97,39,24,4353,5.13
+West Bengal,Groundnut,2024,941,28,64,Loamy,61,37,26,1974,3.51
+West Bengal,Soybean,2015,696,30,37,Loamy,96,52,28,3666,3.22
+West Bengal,Soybean,2016,769,19,76,Clay,100,60,59,3791,3.74
+West Bengal,Soybean,2017,315,17,60,Loamy,100,23,53,1269,2.4
+West Bengal,Soybean,2018,533,26,85,Sandy,81,37,27,1749,3.02
+West Bengal,Soybean,2019,554,24,37,Laterite,87,42,50,1198,3.14
+West Bengal,Soybean,2020,767,20,80,Laterite,92,23,20,2033,3.91
+West Bengal,Soybean,2021,1073,15,89,Sandy,79,51,43,2000,4.28
+West Bengal,Soybean,2022,1925,31,66,Red,83,33,29,2237,5.47
+West Bengal,Soybean,2023,1080,22,95,Loamy,72,45,29,3823,3.6
+West Bengal,Soybean,2024,1045,20,91,Clay,56,26,50,3566,3.34
+West Bengal,Tea,2015,662,30,41,Black,44,58,29,3710,2.49
+West Bengal,Tea,2016,1948,34,65,Clay,66,29,36,1372,5.55
+West Bengal,Tea,2017,702,20,68,Clay,66,38,36,2804,3.11
+West Bengal,Tea,2018,1725,24,55,Laterite,44,37,25,2307,4.7
+West Bengal,Tea,2019,1448,28,34,Laterite,100,47,33,3253,5.06
+West Bengal,Tea,2020,1503,26,55,Loamy,63,31,35,3771,4.91
+West Bengal,Tea,2021,739,26,54,Laterite,75,53,33,3431,3.29
+West Bengal,Tea,2022,1614,19,52,Black,100,48,40,2256,4.8
+West Bengal,Tea,2023,1567,32,41,Clay,94,40,30,4792,4.73
+West Bengal,Tea,2024,1740,30,33,Red,96,32,30,874,5.67
+West Bengal,Coffee,2015,857,26,65,Black,88,44,39,4132,3.64
+West Bengal,Coffee,2016,404,20,66,Alluvial,64,24,22,4152,2.46
+West Bengal,Coffee,2017,1411,34,76,Laterite,59,48,33,996,3.84
+West Bengal,Coffee,2018,386,25,60,Loamy,89,24,50,1553,2.49
+West Bengal,Coffee,2019,397,16,78,Black,47,23,37,4888,3.0
+West Bengal,Coffee,2020,551,16,92,Loamy,63,39,56,1451,2.48
+West Bengal,Coffee,2021,1899,32,46,Red,54,50,57,3224,4.74
+West Bengal,Coffee,2022,1046,17,95,Loamy,78,23,23,2363,4.05
+West Bengal,Coffee,2023,836,35,91,Laterite,84,28,21,2934,3.71
+West Bengal,Coffee,2024,457,24,56,Sandy,63,30,44,2004,3.04
