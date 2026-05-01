@@ -2,105 +2,97 @@ import streamlit as st
 import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
-#-----------farmer img-----------
+
+# ---------- Page Setup ----------
+st.set_page_config(page_title="Crop Yield Predictor", layout="centered")
+
+# ---------- Load Data ----------
+df = pd.read_csv("crop_data_full.csv")
+model = pickle.load(open("model.pkl", "rb"))
+
+# ---------- Language Dictionary ----------
+text = {
+    "English": {
+        "title": "🌾 Crop Yield Predictor",
+        "rain": "Rainfall",
+        "temp": "Temperature",
+        "hum": "Humidity",
+        "nit": "Nitrogen",
+        "area": "Area",
+        "predict": "Predict Yield",
+        "result": "Predicted Yield",
+        "suggest": "Suggestions",
+        "trend": "Yield Trend",
+        "low_rain": "⚠️ Low rainfall: Use irrigation",
+        "low_n": "🌱 Low nitrogen: Add fertilizer",
+        "high_temp": "🔥 High temperature risk",
+        "good": "✅ Conditions are good"
+    },
+    "हिन्दी": {
+        "title": "🌾 फसल उत्पादन पूर्वानुमान",
+        "rain": "वर्षा",
+        "temp": "तापमान",
+        "hum": "आर्द्रता",
+        "nit": "नाइट्रोजन",
+        "area": "क्षेत्रफल",
+        "predict": "पूर्वानुमान करें",
+        "result": "अनुमानित उत्पादन",
+        "suggest": "सुझाव",
+        "trend": "उत्पादन प्रवृत्ति",
+        "low_rain": "⚠️ कम वर्षा: सिंचाई करें",
+        "low_n": "🌱 कम नाइट्रोजन: खाद डालें",
+        "high_temp": "🔥 अधिक तापमान खतरा",
+        "good": "✅ स्थिति अच्छी है"
+    },
+    "తెలుగు": {
+        "title": "🌾 పంట దిగుబడి అంచనా",
+        "rain": "వర్షపాతం",
+        "temp": "ఉష్ణోగ్రత",
+        "hum": "ఆర్ద్రత",
+        "nit": "నైట్రోజన్",
+        "area": "ప్రాంతం",
+        "predict": "అంచనా వేయండి",
+        "result": "అంచనా దిగుబడి",
+        "suggest": "సూచనలు",
+        "trend": "దిగుబడి ట్రెండ్",
+        "low_rain": "⚠️ తక్కువ వర్షం: నీటిపారుదల చేయండి",
+        "low_n": "🌱 నైట్రోజన్ తక్కువ: ఎరువు వేయండి",
+        "high_temp": "🔥 అధిక ఉష్ణోగ్రత ప్రమాదం",
+        "good": "✅ పరిస్థితులు బాగున్నాయి"
+    }
+}
+
+# ---------- Language Selector ----------
+lang = st.selectbox("🌐 Language", ["English", "हिन्दी", "తెలుగు"])
+t = text[lang]
+
+# ---------- Header ----------
 st.image(
     "https://images.unsplash.com/photo-1625246333195-78d9c38ad449",
     use_column_width=True
 )
 
 st.markdown(
-    "<h1 style='text-align: center; color: green;'>🌾 Crop Yield Predictor</h1>",
+    f"<h1 style='text-align: center; color: green;'>{t['title']}</h1>",
     unsafe_allow_html=True
 )
-# ---------- Page ----------
-st.set_page_config(page_title="Crop Yield App", layout="centered")
 
-# ---------- Load ----------
-df = pd.read_csv("crop_data_full.csv")
-model = pickle.load(open("model.pkl", "rb"))
-
-# ---------- Lottie Loader ----------
-
-
-# ---------- Language Dictionary ----------
-lang = st.selectbox("🌐 Select Language", ["English", "हिन्दी", "తెలుగు"])
-
-text = {
-    "English": {
-        "title": "🌾 Crop Yield Predictor",
-        "predict": "Predict Yield",
-        "result": "Predicted Yield",
-        "suggest": "Suggestions",
-        "trend": "Yield Trend",
-        "rain": "Rainfall",
-        "temp": "Temperature",
-        "hum": "Humidity",
-        "nit": "Nitrogen",
-        "pho": "Phosphorus",
-        "pot": "Potassium",
-        "area": "Area",
-        "good": "Good conditions",
-        "low_rain": "Low rainfall: Use irrigation",
-        "low_n": "Low nitrogen: Add fertilizer",
-        "high_temp": "High temperature risk"
-    },
-    "हिन्दी": {
-        "title": "🌾 फसल उत्पादन भविष्यवाणी",
-        "predict": "पूर्वानुमान करें",
-        "result": "अनुमानित उत्पादन",
-        "suggest": "सुझाव",
-        "trend": "उत्पादन प्रवृत्ति",
-        "rain": "वर्षा",
-        "temp": "तापमान",
-        "hum": "आर्द्रता",
-        "nit": "नाइट्रोजन",
-        "pho": "फॉस्फोरस",
-        "pot": "पोटैशियम",
-        "area": "क्षेत्रफल",
-        "good": "स्थिति अच्छी है",
-        "low_rain": "कम वर्षा: सिंचाई करें",
-        "low_n": "कम नाइट्रोजन: खाद डालें",
-        "high_temp": "अधिक तापमान का खतरा"
-    },
-    "తెలుగు": {
-        "title": "🌾 పంట దిగుబడి అంచనా",
-        "predict": "అంచనా వేయండి",
-        "result": "అంచనా దిగుబడి",
-        "suggest": "సూచనలు",
-        "trend": "దిగుబడి ట్రెండ్",
-        "rain": "వర్షపాతం",
-        "temp": "ఉష్ణోగ్రత",
-        "hum": "ఆర్ద్రత",
-        "nit": "నైట్రోజన్",
-        "pho": "ఫాస్పరస్",
-        "pot": "పొటాషియం",
-        "area": "ప్రాంతం",
-        "good": "పరిస్థితులు బాగున్నాయి",
-        "low_rain": "తక్కువ వర్షం: నీటిపారుదల చేయండి",
-        "low_n": "నైట్రోజన్ తక్కువ: ఎరువు వేయండి",
-        "high_temp": "అధిక ఉష్ణోగ్రత ప్రమాదం"
-    }
-}
-
-t = text[lang]
-
-# ---------- Title + Animation ----------
-
+st.markdown("---")
 
 # ---------- Inputs ----------
-states = sorted(df["State"].unique())
-crops = sorted(df["Crop"].unique())
+st.subheader("📌 Input Details")
 
-state = st.selectbox("State", states)
-crop = st.selectbox("Crop", crops)
+col1, col2 = st.columns(2)
 
-rainfall = st.slider(t["rain"], 0, 2000, 800)
-temperature = st.slider(t["temp"], 0, 50, 30)
-humidity = st.slider(t["hum"], 0, 100, 60)
+with col1:
+    state = st.selectbox("State", sorted(df["State"].unique()))
+    rainfall = st.slider(t["rain"], 0, 2000, 800)
+    humidity = st.slider(t["hum"], 0, 100, 60)
 
-nitrogen = st.slider(t["nit"], 0, 150, 60)
-phosphorus = st.slider(t["pho"], 0, 150, 40)
-potassium = st.slider(t["pot"], 0, 150, 40)
+with col2:
+    crop = st.selectbox("Crop", sorted(df["Crop"].unique()))
+    temperature = st.slider(t["temp"], 0, 50, 30)
+    nitrogen = st.slider(t["nit"], 0, 150, 60)
 
 area = st.number_input(t["area"], min_value=1, value=1000)
 
@@ -117,32 +109,31 @@ def get_recommendation(rainfall, nitrogen, temperature):
         recs.append(t["good"])
     return recs
 
-# ---------- Predict ----------
+# ---------- Prediction ----------
 if st.button("🚀 " + t["predict"]):
 
-    with st.spinner("Processing..."):
-        input_data = pd.DataFrame({
-            "State":[state],
-            "Crop":[crop],
-            "Rainfall":[rainfall],
-            "Temperature":[temperature],
-            "Humidity":[humidity],
-            "Nitrogen":[nitrogen],
-            "Phosphorus":[phosphorus],
-            "Potassium":[potassium],
-            "Area":[area]
-        })
+    input_data = pd.DataFrame({
+        "State":[state],
+        "Crop":[crop],
+        "Rainfall":[rainfall],
+        "Temperature":[temperature],
+        "Humidity":[humidity],
+        "Nitrogen":[nitrogen],
+        "Area":[area]
+    })
 
-        input_data = pd.get_dummies(input_data)
-        input_data = input_data.reindex(columns=model.feature_names_in_, fill_value=0)
+    input_data = pd.get_dummies(input_data)
+    input_data = input_data.reindex(columns=model.feature_names_in_, fill_value=0)
 
-        pred = model.predict(input_data)
+    pred = model.predict(input_data)
 
     st.success(f"{t['result']}: {pred[0]:.2f} tons/hectare")
 
     st.subheader("🌱 " + t["suggest"])
     for r in get_recommendation(rainfall, nitrogen, temperature):
         st.write(r)
+
+st.markdown("---")
 
 # ---------- Graph ----------
 st.subheader("📈 " + t["trend"])
