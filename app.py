@@ -4,54 +4,70 @@ import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Page config
+# ---------- Page Setup ----------
 st.set_page_config(page_title="Crop Yield Predictor", layout="wide")
 
-# Load data
+# ---------- Custom CSS ----------
+st.markdown("""
+<style>
+.main {
+    background-color: #f5f7fa;
+}
+h1 {
+    color: #2e7d32;
+}
+.stButton>button {
+    background-color: #2e7d32;
+    color: white;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# ---------- Load Data ----------
 df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
-# Title
+# ---------- Title ----------
 st.title("🌾 Crop Yield Prediction System")
-st.markdown("### Smart Agriculture Assistant")
+st.markdown("#### Smart Agriculture Assistant for Farmers")
 
-# Sidebar inputs
-st.sidebar.header("Enter Input Features")
+# ---------- Sidebar ----------
+st.sidebar.header("📌 Input Parameters")
 
 states = sorted(df["State"].unique())
 crops = sorted(df["Crop"].unique())
 
-state = st.sidebar.selectbox("State", states)
-crop = st.sidebar.selectbox("Crop", crops)
+state = st.sidebar.selectbox("🌍 Select State", states)
+crop = st.sidebar.selectbox("🌱 Select Crop", crops)
 
-rainfall = st.sidebar.number_input("Rainfall", min_value=0)
-temperature = st.sidebar.number_input("Temperature", min_value=0)
-humidity = st.sidebar.number_input("Humidity", min_value=0)
-nitrogen = st.sidebar.number_input("Nitrogen", min_value=0)
-phosphorus = st.sidebar.number_input("Phosphorus", min_value=0)
-potassium = st.sidebar.number_input("Potassium", min_value=0)
-area = st.sidebar.number_input("Area", min_value=0)
+rainfall = st.sidebar.slider("🌧️ Rainfall", 0, 2000, 800)
+temperature = st.sidebar.slider("🌡️ Temperature", 0, 50, 30)
+humidity = st.sidebar.slider("💧 Humidity", 0, 100, 60)
 
-# Recommendation function
+nitrogen = st.sidebar.slider("🧪 Nitrogen", 0, 150, 60)
+phosphorus = st.sidebar.slider("🧪 Phosphorus", 0, 150, 40)
+potassium = st.sidebar.slider("🧪 Potassium", 0, 150, 40)
+
+area = st.sidebar.number_input("📏 Area", min_value=1, value=1000)
+
+# ---------- Recommendation Function ----------
 def get_recommendation(rainfall, nitrogen, temperature):
     suggestions = []
-
     if rainfall < 500:
         suggestions.append("⚠️ Low rainfall: Consider irrigation")
-
     if nitrogen < 50:
         suggestions.append("🌱 Low nitrogen: Add fertilizers")
-
     if temperature > 35:
-        suggestions.append("🔥 High temperature: Risk of crop stress")
-
+        suggestions.append("🔥 High temperature: Crop stress risk")
     if not suggestions:
-        suggestions.append("✅ Conditions are good for crop growth")
-
+        suggestions.append("✅ Conditions are optimal")
     return suggestions
 
-# Prediction
-if st.sidebar.button("Predict"):
+# ---------- Prediction ----------
+if st.sidebar.button("🚀 Predict Yield"):
 
     input_data = pd.DataFrame({
         "State":[state],
@@ -70,12 +86,12 @@ if st.sidebar.button("Predict"):
 
     prediction = model.predict(input_data)
 
-    # Layout
+    # ---------- Layout ----------
     col1, col2 = st.columns(2)
 
     with col1:
-        st.subheader("📊 Prediction Result")
-        st.success(f"Predicted Yield: {prediction[0]:.2f}")
+        st.subheader("📊 Predicted Yield")
+        st.metric(label="Yield (tons/hectare)", value=f"{prediction[0]:.2f}")
 
     with col2:
         st.subheader("🌱 Recommendations")
@@ -83,14 +99,19 @@ if st.sidebar.button("Predict"):
         for r in recs:
             st.write(r)
 
-# Graph section
+# ---------- Visualization ----------
 st.subheader("📈 Yield Trend")
 
 filtered = df[(df["State"] == state) & (df["Crop"] == crop)]
 
 fig, ax = plt.subplots()
-ax.plot(filtered["Year"], filtered["Yield"])
+ax.plot(filtered["Year"], filtered["Yield"], marker='o')
 ax.set_xlabel("Year")
 ax.set_ylabel("Yield")
+ax.set_title("Yield Over Time")
 
 st.pyplot(fig)
+
+# ---------- Footer ----------
+st.markdown("---")
+st.markdown("Developed as a Data Science Project 🌾")
