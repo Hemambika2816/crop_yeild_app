@@ -3,19 +3,15 @@ import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
 #-----------farmer img-----------
-
 st.image(
     "https://images.unsplash.com/photo-1625246333195-78d9c38ad449",
     use_column_width=True
 )
 
-st.markdown("## 🌾 Crop Yield Predictor")
-st.markdown("### Smart Agriculture for Better Tomorrow")
+st.markdown(
     "<h1 style='text-align: center; color: green;'>🌾 Crop Yield Predictor</h1>",
     unsafe_allow_html=True
 )
-
-
 # ---------- Page ----------
 st.set_page_config(page_title="Crop Yield App", layout="centered")
 
