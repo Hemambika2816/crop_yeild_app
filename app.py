@@ -142,7 +142,7 @@ ax.plot(filtered["Year"], filtered["Yield"], marker='o')
 ax.set_xlabel("Year")
 ax.set_ylabel("Yield")
 
-st.pyplot(fig)"
+st.pyplot(fig)
 
 # ---------- Weather Function ----------
 def get_weather(city):
