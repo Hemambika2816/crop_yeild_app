@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title="Crop Yield Predictor", layout="wide")
 
 # Load data
-df = pd.read_csv("/content/drive/MyDrive/crop_data_full.csv")
+df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
 # Title
