@@ -36,7 +36,7 @@ df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
 # ---------- API KEY ----------
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "ae7cead3e3f14f2fec30cd58db6f47e4"
 
 # ---------- Weather ----------
 def get_weather(city):
