@@ -12,7 +12,7 @@ df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
 # ---------- API KEY ----------
-API_KEY = "import streamlit as st
+API_KEY = "import streamlit as st"
 import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
