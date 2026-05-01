@@ -2,8 +2,19 @@ import streamlit as st
 import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
-import requests
-from streamlit_lottie import st_lottie
+#-----------farmer img-----------
+
+st.image(
+    "https://images.unsplash.com/photo-1625246333195-78d9c38ad449",
+    use_column_width=True
+)
+
+st.markdown("## 🌾 Crop Yield Predictor")
+st.markdown("### Smart Agriculture for Better Tomorrow")
+    "<h1 style='text-align: center; color: green;'>🌾 Crop Yield Predictor</h1>",
+    unsafe_allow_html=True
+)
+
 
 # ---------- Page ----------
 st.set_page_config(page_title="Crop Yield App", layout="centered")
@@ -13,13 +24,7 @@ df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
 # ---------- Lottie Loader ----------
-def load_lottie(url):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
 
-lottie_anim = load_lottie("https://assets10.lottiefiles.com/packages/lf20_2ks3pjua.json")
 
 # ---------- Language Dictionary ----------
 lang = st.selectbox("🌐 Select Language", ["English", "हिन्दी", "తెలుగు"])
@@ -84,8 +89,7 @@ text = {
 t = text[lang]
 
 # ---------- Title + Animation ----------
-st.title(t["title"])
-st_lottie(lottie_anim, height=200)
+
 
 # ---------- Inputs ----------
 states = sorted(df["State"].unique())
