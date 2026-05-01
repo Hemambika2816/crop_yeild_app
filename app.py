@@ -4,13 +4,34 @@ import pickle
 import matplotlib.pyplot as plt
 
 # ---------- Page Setup ----------
-st.set_page_config(page_title="Crop Yield Predictor", layout="centered")
+st.set_page_config(page_title="Crop Yield Predictor", layout="wide")
+
+# ---------- Custom CSS (Responsive) ----------
+st.markdown("""
+<style>
+.main {
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    color: #2e7d32;
+}
+.block-container {
+    padding-top: 1rem;
+}
+@media (max-width: 768px) {
+    .block-container {
+        padding: 0.5rem;
+    }
+}
+</style>
+""", unsafe_allow_html=True)
 
 # ---------- Load Data ----------
 df = pd.read_csv("crop_data_full.csv")
 model = pickle.load(open("model.pkl", "rb"))
 
-# ---------- Language Dictionary ----------
+# ---------- Language ----------
 text = {
     "English": {
         "title": "🌾 Crop Yield Predictor",
@@ -23,10 +44,10 @@ text = {
         "result": "Predicted Yield",
         "suggest": "Suggestions",
         "trend": "Yield Trend",
-        "low_rain": "⚠️ Low rainfall: Use irrigation",
-        "low_n": "🌱 Low nitrogen: Add fertilizer",
+        "low_rain": "⚠️ Use irrigation",
+        "low_n": "🌱 Add fertilizer",
         "high_temp": "🔥 High temperature risk",
-        "good": "✅ Conditions are good"
+        "good": "✅ Good conditions"
     },
     "हिन्दी": {
         "title": "🌾 फसल उत्पादन पूर्वानुमान",
@@ -39,8 +60,8 @@ text = {
         "result": "अनुमानित उत्पादन",
         "suggest": "सुझाव",
         "trend": "उत्पादन प्रवृत्ति",
-        "low_rain": "⚠️ कम वर्षा: सिंचाई करें",
-        "low_n": "🌱 कम नाइट्रोजन: खाद डालें",
+        "low_rain": "⚠️ सिंचाई करें",
+        "low_n": "🌱 खाद डालें",
         "high_temp": "🔥 अधिक तापमान खतरा",
         "good": "✅ स्थिति अच्छी है"
     },
@@ -55,14 +76,13 @@ text = {
         "result": "అంచనా దిగుబడి",
         "suggest": "సూచనలు",
         "trend": "దిగుబడి ట్రెండ్",
-        "low_rain": "⚠️ తక్కువ వర్షం: నీటిపారుదల చేయండి",
-        "low_n": "🌱 నైట్రోజన్ తక్కువ: ఎరువు వేయండి",
+        "low_rain": "⚠️ నీటిపారుదల చేయండి",
+        "low_n": "🌱 ఎరువు వేయండి",
         "high_temp": "🔥 అధిక ఉష్ణోగ్రత ప్రమాదం",
         "good": "✅ పరిస్థితులు బాగున్నాయి"
     }
 }
 
-# ---------- Language Selector ----------
 lang = st.selectbox("🌐 Language", ["English", "हिन्दी", "తెలుగు"])
 t = text[lang]
 
@@ -72,29 +92,30 @@ st.image(
     use_column_width=True
 )
 
-st.markdown(
-    f"<h1 style='text-align: center; color: green;'>{t['title']}</h1>",
-    unsafe_allow_html=True
-)
-
+st.markdown(f"<h1>{t['title']}</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
 # ---------- Inputs ----------
 st.subheader("📌 Input Details")
 
-col1, col2 = st.columns(2)
+# Responsive layout: auto adjusts columns
+col1, col2, col3 = st.columns(3)
 
 with col1:
     state = st.selectbox("State", sorted(df["State"].unique()))
     rainfall = st.slider(t["rain"], 0, 2000, 800)
-    humidity = st.slider(t["hum"], 0, 100, 60)
 
 with col2:
     crop = st.selectbox("Crop", sorted(df["Crop"].unique()))
     temperature = st.slider(t["temp"], 0, 50, 30)
+
+with col3:
+    humidity = st.slider(t["hum"], 0, 100, 60)
     nitrogen = st.slider(t["nit"], 0, 150, 60)
 
 area = st.number_input(t["area"], min_value=1, value=1000)
+
+st.markdown("---")
 
 # ---------- Recommendation ----------
 def get_recommendation(rainfall, nitrogen, temperature):
@@ -127,11 +148,16 @@ if st.button("🚀 " + t["predict"]):
 
     pred = model.predict(input_data)
 
-    st.success(f"{t['result']}: {pred[0]:.2f} tons/hectare")
+    # Responsive result layout
+    r1, r2 = st.columns([1,1])
 
-    st.subheader("🌱 " + t["suggest"])
-    for r in get_recommendation(rainfall, nitrogen, temperature):
-        st.write(r)
+    with r1:
+        st.success(f"{t['result']}: {pred[0]:.2f} tons/hectare")
+
+    with r2:
+        st.subheader("🌱 " + t["suggest"])
+        for r in get_recommendation(rainfall, nitrogen, temperature):
+            st.write(r)
 
 st.markdown("---")
 
